@@ -1,0 +1,385 @@
+rgn_id,year,taxa_code,sust_coeff
+1,2012,Abalones nei_133,0.57
+1,2012,Aquatic invertebrates nei_134,0.542156863
+1,2012,Bastard halibut_135,0.444010417
+1,2012,Blackhead seabream_136,0.444010417
+1,2012,Blood cockle_137,0.67
+1,2012,Dotted gizzard shad_138,0.444010417
+1,2012,"Filefishes, leatherjackets nei_139",0.444010417
+1,2012,Flathead grey mullet_140,0.43
+1,2012,Fleshy prawn_141,0.366666667
+1,2012,Globose clam_142,0.811764706
+1,2012,Groupers nei_143,0.33
+1,2012,Horned turban_144,0.811764706
+1,2012,Inflated ark_145,0.811764706
+1,2012,Japanese amberjack_146,0.444010417
+1,2012,Japanese carpet shell_147,0.841666667
+1,2012,Japanese hard clam_148,0.811764706
+1,2012,Japanese jack mackerel_149,0.444010417
+1,2012,Japanese seabass_150,0.444010417
+1,2012,Korean mussel_151,0.8
+1,2012,Korean rockfish_152,0.444010417
+1,2012,Kuruma prawn_153,0.5
+1,2012,Mackerels nei_154,0.444010417
+1,2012,Marine crustaceans nei_155,0.3
+1,2012,Marine fishes nei_156,0.477777778
+1,2012,Marine molluscs nei_157,0.533333333
+1,2012,Okhotsk atka mackerel_158,0.444010417
+1,2012,Pacific cupped oyster_159,0.83
+1,2012,"Porgies, seabreams nei_160",0.444010417
+1,2012,Scorpionfishes nei_161,0.444010417
+1,2012,Sea squirts nei_162,0.6
+1,2012,Whiteleg shrimp_163,0.374509804
+1,2012,Yesso scallop_164,0.833333333
+2,2012,Abalones nei_133,0.57
+2,2012,Aquatic invertebrates nei_134,0.542156863
+2,2012,Bastard halibut_135,0.444010417
+2,2012,Blackhead seabream_136,0.444010417
+2,2012,Blood cockle_137,0.67
+2,2012,Dotted gizzard shad_138,0.444010417
+2,2012,"Filefishes, leatherjackets nei_139",0.444010417
+2,2012,Flathead grey mullet_140,0.43
+2,2012,Fleshy prawn_141,0.366666667
+2,2012,Globose clam_142,0.811764706
+2,2012,Groupers nei_143,0.33
+2,2012,Horned turban_144,0.811764706
+2,2012,Inflated ark_145,0.811764706
+2,2012,Japanese amberjack_146,0.444010417
+2,2012,Japanese carpet shell_147,0.841666667
+2,2012,Japanese hard clam_148,0.811764706
+2,2012,Japanese jack mackerel_149,0.444010417
+2,2012,Japanese seabass_150,0.444010417
+2,2012,Korean mussel_151,0.8
+2,2012,Korean rockfish_152,0.444010417
+2,2012,Kuruma prawn_153,0.5
+2,2012,Mackerels nei_154,0.444010417
+2,2012,Marine crustaceans nei_155,0.3
+2,2012,Marine fishes nei_156,0.477777778
+2,2012,Marine molluscs nei_157,0.533333333
+2,2012,Okhotsk atka mackerel_158,0.444010417
+2,2012,Pacific cupped oyster_159,0.83
+2,2012,"Porgies, seabreams nei_160",0.444010417
+2,2012,Scorpionfishes nei_161,0.444010417
+2,2012,Sea squirts nei_162,0.6
+2,2012,Whiteleg shrimp_163,0.374509804
+2,2012,Yesso scallop_164,0.833333333
+3,2012,Abalones nei_133,0.57
+3,2012,Aquatic invertebrates nei_134,0.542156863
+3,2012,Bastard halibut_135,0.444010417
+3,2012,Blackhead seabream_136,0.444010417
+3,2012,Blood cockle_137,0.67
+3,2012,Dotted gizzard shad_138,0.444010417
+3,2012,"Filefishes, leatherjackets nei_139",0.444010417
+3,2012,Flathead grey mullet_140,0.43
+3,2012,Fleshy prawn_141,0.366666667
+3,2012,Globose clam_142,0.811764706
+3,2012,Groupers nei_143,0.33
+3,2012,Horned turban_144,0.811764706
+3,2012,Inflated ark_145,0.811764706
+3,2012,Japanese amberjack_146,0.444010417
+3,2012,Japanese carpet shell_147,0.841666667
+3,2012,Japanese hard clam_148,0.811764706
+3,2012,Japanese jack mackerel_149,0.444010417
+3,2012,Japanese seabass_150,0.444010417
+3,2012,Korean mussel_151,0.8
+3,2012,Korean rockfish_152,0.444010417
+3,2012,Kuruma prawn_153,0.5
+3,2012,Mackerels nei_154,0.444010417
+3,2012,Marine crustaceans nei_155,0.3
+3,2012,Marine fishes nei_156,0.477777778
+3,2012,Marine molluscs nei_157,0.533333333
+3,2012,Okhotsk atka mackerel_158,0.444010417
+3,2012,Pacific cupped oyster_159,0.83
+3,2012,"Porgies, seabreams nei_160",0.444010417
+3,2012,Scorpionfishes nei_161,0.444010417
+3,2012,Sea squirts nei_162,0.6
+3,2012,Whiteleg shrimp_163,0.374509804
+3,2012,Yesso scallop_164,0.833333333
+4,2012,Abalones nei_133,0.57
+4,2012,Aquatic invertebrates nei_134,0.542156863
+4,2012,Bastard halibut_135,0.444010417
+4,2012,Blackhead seabream_136,0.444010417
+4,2012,Blood cockle_137,0.67
+4,2012,Dotted gizzard shad_138,0.444010417
+4,2012,"Filefishes, leatherjackets nei_139",0.444010417
+4,2012,Flathead grey mullet_140,0.43
+4,2012,Fleshy prawn_141,0.366666667
+4,2012,Globose clam_142,0.811764706
+4,2012,Groupers nei_143,0.33
+4,2012,Horned turban_144,0.811764706
+4,2012,Inflated ark_145,0.811764706
+4,2012,Japanese amberjack_146,0.444010417
+4,2012,Japanese carpet shell_147,0.841666667
+4,2012,Japanese hard clam_148,0.811764706
+4,2012,Japanese jack mackerel_149,0.444010417
+4,2012,Japanese seabass_150,0.444010417
+4,2012,Korean mussel_151,0.8
+4,2012,Korean rockfish_152,0.444010417
+4,2012,Kuruma prawn_153,0.5
+4,2012,Mackerels nei_154,0.444010417
+4,2012,Marine crustaceans nei_155,0.3
+4,2012,Marine fishes nei_156,0.477777778
+4,2012,Marine molluscs nei_157,0.533333333
+4,2012,Okhotsk atka mackerel_158,0.444010417
+4,2012,Pacific cupped oyster_159,0.83
+4,2012,"Porgies, seabreams nei_160",0.444010417
+4,2012,Scorpionfishes nei_161,0.444010417
+4,2012,Sea squirts nei_162,0.6
+4,2012,Whiteleg shrimp_163,0.374509804
+4,2012,Yesso scallop_164,0.833333333
+5,2012,Abalones nei_133,0.57
+5,2012,Aquatic invertebrates nei_134,0.542156863
+5,2012,Bastard halibut_135,0.444010417
+5,2012,Blackhead seabream_136,0.444010417
+5,2012,Blood cockle_137,0.67
+5,2012,Dotted gizzard shad_138,0.444010417
+5,2012,"Filefishes, leatherjackets nei_139",0.444010417
+5,2012,Flathead grey mullet_140,0.43
+5,2012,Fleshy prawn_141,0.366666667
+5,2012,Globose clam_142,0.811764706
+5,2012,Groupers nei_143,0.33
+5,2012,Horned turban_144,0.811764706
+5,2012,Inflated ark_145,0.811764706
+5,2012,Japanese amberjack_146,0.444010417
+5,2012,Japanese carpet shell_147,0.841666667
+5,2012,Japanese hard clam_148,0.811764706
+5,2012,Japanese jack mackerel_149,0.444010417
+5,2012,Japanese seabass_150,0.444010417
+5,2012,Korean mussel_151,0.8
+5,2012,Korean rockfish_152,0.444010417
+5,2012,Kuruma prawn_153,0.5
+5,2012,Mackerels nei_154,0.444010417
+5,2012,Marine crustaceans nei_155,0.3
+5,2012,Marine fishes nei_156,0.477777778
+5,2012,Marine molluscs nei_157,0.533333333
+5,2012,Okhotsk atka mackerel_158,0.444010417
+5,2012,Pacific cupped oyster_159,0.83
+5,2012,"Porgies, seabreams nei_160",0.444010417
+5,2012,Scorpionfishes nei_161,0.444010417
+5,2012,Sea squirts nei_162,0.6
+5,2012,Whiteleg shrimp_163,0.374509804
+5,2012,Yesso scallop_164,0.833333333
+6,2012,Abalones nei_133,0.57
+6,2012,Aquatic invertebrates nei_134,0.542156863
+6,2012,Bastard halibut_135,0.444010417
+6,2012,Blackhead seabream_136,0.444010417
+6,2012,Blood cockle_137,0.67
+6,2012,Dotted gizzard shad_138,0.444010417
+6,2012,"Filefishes, leatherjackets nei_139",0.444010417
+6,2012,Flathead grey mullet_140,0.43
+6,2012,Fleshy prawn_141,0.366666667
+6,2012,Globose clam_142,0.811764706
+6,2012,Groupers nei_143,0.33
+6,2012,Horned turban_144,0.811764706
+6,2012,Inflated ark_145,0.811764706
+6,2012,Japanese amberjack_146,0.444010417
+6,2012,Japanese carpet shell_147,0.841666667
+6,2012,Japanese hard clam_148,0.811764706
+6,2012,Japanese jack mackerel_149,0.444010417
+6,2012,Japanese seabass_150,0.444010417
+6,2012,Korean mussel_151,0.8
+6,2012,Korean rockfish_152,0.444010417
+6,2012,Kuruma prawn_153,0.5
+6,2012,Mackerels nei_154,0.444010417
+6,2012,Marine crustaceans nei_155,0.3
+6,2012,Marine fishes nei_156,0.477777778
+6,2012,Marine molluscs nei_157,0.533333333
+6,2012,Okhotsk atka mackerel_158,0.444010417
+6,2012,Pacific cupped oyster_159,0.83
+6,2012,"Porgies, seabreams nei_160",0.444010417
+6,2012,Scorpionfishes nei_161,0.444010417
+6,2012,Sea squirts nei_162,0.6
+6,2012,Whiteleg shrimp_163,0.374509804
+6,2012,Yesso scallop_164,0.833333333
+7,2012,Abalones nei_133,0.57
+7,2012,Aquatic invertebrates nei_134,0.542156863
+7,2012,Bastard halibut_135,0.444010417
+7,2012,Blackhead seabream_136,0.444010417
+7,2012,Blood cockle_137,0.67
+7,2012,Dotted gizzard shad_138,0.444010417
+7,2012,"Filefishes, leatherjackets nei_139",0.444010417
+7,2012,Flathead grey mullet_140,0.43
+7,2012,Fleshy prawn_141,0.366666667
+7,2012,Globose clam_142,0.811764706
+7,2012,Groupers nei_143,0.33
+7,2012,Horned turban_144,0.811764706
+7,2012,Inflated ark_145,0.811764706
+7,2012,Japanese amberjack_146,0.444010417
+7,2012,Japanese carpet shell_147,0.841666667
+7,2012,Japanese hard clam_148,0.811764706
+7,2012,Japanese jack mackerel_149,0.444010417
+7,2012,Japanese seabass_150,0.444010417
+7,2012,Korean mussel_151,0.8
+7,2012,Korean rockfish_152,0.444010417
+7,2012,Kuruma prawn_153,0.5
+7,2012,Mackerels nei_154,0.444010417
+7,2012,Marine crustaceans nei_155,0.3
+7,2012,Marine fishes nei_156,0.477777778
+7,2012,Marine molluscs nei_157,0.533333333
+7,2012,Okhotsk atka mackerel_158,0.444010417
+7,2012,Pacific cupped oyster_159,0.83
+7,2012,"Porgies, seabreams nei_160",0.444010417
+7,2012,Scorpionfishes nei_161,0.444010417
+7,2012,Sea squirts nei_162,0.6
+7,2012,Whiteleg shrimp_163,0.374509804
+7,2012,Yesso scallop_164,0.833333333
+8,2012,Abalones nei_133,0.57
+8,2012,Aquatic invertebrates nei_134,0.542156863
+8,2012,Bastard halibut_135,0.444010417
+8,2012,Blackhead seabream_136,0.444010417
+8,2012,Blood cockle_137,0.67
+8,2012,Dotted gizzard shad_138,0.444010417
+8,2012,"Filefishes, leatherjackets nei_139",0.444010417
+8,2012,Flathead grey mullet_140,0.43
+8,2012,Fleshy prawn_141,0.366666667
+8,2012,Globose clam_142,0.811764706
+8,2012,Groupers nei_143,0.33
+8,2012,Horned turban_144,0.811764706
+8,2012,Inflated ark_145,0.811764706
+8,2012,Japanese amberjack_146,0.444010417
+8,2012,Japanese carpet shell_147,0.841666667
+8,2012,Japanese hard clam_148,0.811764706
+8,2012,Japanese jack mackerel_149,0.444010417
+8,2012,Japanese seabass_150,0.444010417
+8,2012,Korean mussel_151,0.8
+8,2012,Korean rockfish_152,0.444010417
+8,2012,Kuruma prawn_153,0.5
+8,2012,Mackerels nei_154,0.444010417
+8,2012,Marine crustaceans nei_155,0.3
+8,2012,Marine fishes nei_156,0.477777778
+8,2012,Marine molluscs nei_157,0.533333333
+8,2012,Okhotsk atka mackerel_158,0.444010417
+8,2012,Pacific cupped oyster_159,0.83
+8,2012,"Porgies, seabreams nei_160",0.444010417
+8,2012,Scorpionfishes nei_161,0.444010417
+8,2012,Sea squirts nei_162,0.6
+8,2012,Whiteleg shrimp_163,0.374509804
+8,2012,Yesso scallop_164,0.833333333
+9,2012,Abalones nei_133,0.57
+9,2012,Aquatic invertebrates nei_134,0.542156863
+9,2012,Bastard halibut_135,0.444010417
+9,2012,Blackhead seabream_136,0.444010417
+9,2012,Blood cockle_137,0.67
+9,2012,Dotted gizzard shad_138,0.444010417
+9,2012,"Filefishes, leatherjackets nei_139",0.444010417
+9,2012,Flathead grey mullet_140,0.43
+9,2012,Fleshy prawn_141,0.366666667
+9,2012,Globose clam_142,0.811764706
+9,2012,Groupers nei_143,0.33
+9,2012,Horned turban_144,0.811764706
+9,2012,Inflated ark_145,0.811764706
+9,2012,Japanese amberjack_146,0.444010417
+9,2012,Japanese carpet shell_147,0.841666667
+9,2012,Japanese hard clam_148,0.811764706
+9,2012,Japanese jack mackerel_149,0.444010417
+9,2012,Japanese seabass_150,0.444010417
+9,2012,Korean mussel_151,0.8
+9,2012,Korean rockfish_152,0.444010417
+9,2012,Kuruma prawn_153,0.5
+9,2012,Mackerels nei_154,0.444010417
+9,2012,Marine crustaceans nei_155,0.3
+9,2012,Marine fishes nei_156,0.477777778
+9,2012,Marine molluscs nei_157,0.533333333
+9,2012,Okhotsk atka mackerel_158,0.444010417
+9,2012,Pacific cupped oyster_159,0.83
+9,2012,"Porgies, seabreams nei_160",0.444010417
+9,2012,Scorpionfishes nei_161,0.444010417
+9,2012,Sea squirts nei_162,0.6
+9,2012,Whiteleg shrimp_163,0.374509804
+9,2012,Yesso scallop_164,0.833333333
+10,2012,Abalones nei_133,0.57
+10,2012,Aquatic invertebrates nei_134,0.542156863
+10,2012,Bastard halibut_135,0.444010417
+10,2012,Blackhead seabream_136,0.444010417
+10,2012,Blood cockle_137,0.67
+10,2012,Dotted gizzard shad_138,0.444010417
+10,2012,"Filefishes, leatherjackets nei_139",0.444010417
+10,2012,Flathead grey mullet_140,0.43
+10,2012,Fleshy prawn_141,0.366666667
+10,2012,Globose clam_142,0.811764706
+10,2012,Groupers nei_143,0.33
+10,2012,Horned turban_144,0.811764706
+10,2012,Inflated ark_145,0.811764706
+10,2012,Japanese amberjack_146,0.444010417
+10,2012,Japanese carpet shell_147,0.841666667
+10,2012,Japanese hard clam_148,0.811764706
+10,2012,Japanese jack mackerel_149,0.444010417
+10,2012,Japanese seabass_150,0.444010417
+10,2012,Korean mussel_151,0.8
+10,2012,Korean rockfish_152,0.444010417
+10,2012,Kuruma prawn_153,0.5
+10,2012,Mackerels nei_154,0.444010417
+10,2012,Marine crustaceans nei_155,0.3
+10,2012,Marine fishes nei_156,0.477777778
+10,2012,Marine molluscs nei_157,0.533333333
+10,2012,Okhotsk atka mackerel_158,0.444010417
+10,2012,Pacific cupped oyster_159,0.83
+10,2012,"Porgies, seabreams nei_160",0.444010417
+10,2012,Scorpionfishes nei_161,0.444010417
+10,2012,Sea squirts nei_162,0.6
+10,2012,Whiteleg shrimp_163,0.374509804
+10,2012,Yesso scallop_164,0.833333333
+11,2012,Abalones nei_133,0.57
+11,2012,Aquatic invertebrates nei_134,0.542156863
+11,2012,Bastard halibut_135,0.444010417
+11,2012,Blackhead seabream_136,0.444010417
+11,2012,Blood cockle_137,0.67
+11,2012,Dotted gizzard shad_138,0.444010417
+11,2012,"Filefishes, leatherjackets nei_139",0.444010417
+11,2012,Flathead grey mullet_140,0.43
+11,2012,Fleshy prawn_141,0.366666667
+11,2012,Globose clam_142,0.811764706
+11,2012,Groupers nei_143,0.33
+11,2012,Horned turban_144,0.811764706
+11,2012,Inflated ark_145,0.811764706
+11,2012,Japanese amberjack_146,0.444010417
+11,2012,Japanese carpet shell_147,0.841666667
+11,2012,Japanese hard clam_148,0.811764706
+11,2012,Japanese jack mackerel_149,0.444010417
+11,2012,Japanese seabass_150,0.444010417
+11,2012,Korean mussel_151,0.8
+11,2012,Korean rockfish_152,0.444010417
+11,2012,Kuruma prawn_153,0.5
+11,2012,Mackerels nei_154,0.444010417
+11,2012,Marine crustaceans nei_155,0.3
+11,2012,Marine fishes nei_156,0.477777778
+11,2012,Marine molluscs nei_157,0.533333333
+11,2012,Okhotsk atka mackerel_158,0.444010417
+11,2012,Pacific cupped oyster_159,0.83
+11,2012,"Porgies, seabreams nei_160",0.444010417
+11,2012,Scorpionfishes nei_161,0.444010417
+11,2012,Sea squirts nei_162,0.6
+11,2012,Whiteleg shrimp_163,0.374509804
+11,2012,Yesso scallop_164,0.833333333
+12,2012,Abalones nei_133,0.57
+12,2012,Aquatic invertebrates nei_134,0.542156863
+12,2012,Bastard halibut_135,0.444010417
+12,2012,Blackhead seabream_136,0.444010417
+12,2012,Blood cockle_137,0.67
+12,2012,Dotted gizzard shad_138,0.444010417
+12,2012,"Filefishes, leatherjackets nei_139",0.444010417
+12,2012,Flathead grey mullet_140,0.43
+12,2012,Fleshy prawn_141,0.366666667
+12,2012,Globose clam_142,0.811764706
+12,2012,Groupers nei_143,0.33
+12,2012,Horned turban_144,0.811764706
+12,2012,Inflated ark_145,0.811764706
+12,2012,Japanese amberjack_146,0.444010417
+12,2012,Japanese carpet shell_147,0.841666667
+12,2012,Japanese hard clam_148,0.811764706
+12,2012,Japanese jack mackerel_149,0.444010417
+12,2012,Japanese seabass_150,0.444010417
+12,2012,Korean mussel_151,0.8
+12,2012,Korean rockfish_152,0.444010417
+12,2012,Kuruma prawn_153,0.5
+12,2012,Mackerels nei_154,0.444010417
+12,2012,Marine crustaceans nei_155,0.3
+12,2012,Marine fishes nei_156,0.477777778
+12,2012,Marine molluscs nei_157,0.533333333
+12,2012,Okhotsk atka mackerel_158,0.444010417
+12,2012,Pacific cupped oyster_159,0.83
+12,2012,"Porgies, seabreams nei_160",0.444010417
+12,2012,Scorpionfishes nei_161,0.444010417
+12,2012,Sea squirts nei_162,0.6
+12,2012,Whiteleg shrimp_163,0.374509804
+12,2012,Yesso scallop_164,0.833333333
