@@ -1,0 +1,169 @@
+year,category,name,1,2,3,4,5,6,7,8,9,10,11
+2011,seaweed,Laver,"1,043",472,,,,"2,612","4,781","48,014",,0,
+2011,seaweed,Sea mustard,476,56,257,,17,173,,"4,711",40,117,
+2011,seaweed,Sea tangle,8,271,13,,125,60,,"6,820",,0,3
+2011,seaweed,Sea lettuce,43,,,,,,,"2,517",,0,
+2011,seaweed,Seaweed fusiforme,,,,,,,90,"1,849",,0,
+2011,seaweed,Gulf weed,,,,,,5,,449,,0,
+2011,seaweed,Other seaweeds,,,,,4,,,"6,813",,0,
+2011,shellfish,Oysters,0,279,,0,8,879,46,"2,847",0,"3,549",
+2011,shellfish,Broughton's ribbed ark,,234,12,,,108,615,"2,560",,"3,883",
+2011,shellfish,Japanese littleneck,,440,,20,,"2,718","1,042","1,485",,922,27
+2011,shellfish,Cockle,,,,,,20,,"3,088",,26,
+2011,shellfish,Chinese cyclina,,214,,,,317,502,46,,,
+2011,shellfish,Ark shell,,,,,,40,537,"9,678",,312,
+2011,shellfish,Venus clam,,133,,,,61,40,164,,,
+2011,shellfish,Mussels,,,,,,18,17,335,6,386,
+2011,shellfish,Scallops,,102,,2,799,73,64,109,,57,
+2011,shellfish,Abalones nei,6,152,103,3,11,342,182,"5,570",47,338,33
+2011,shellfish,Sunray surf clam,,,,,,40,,0,,24,
+2011,shellfish,Surf clam,,,,,,44,,0,,,
+2011,shellfish,Shellfish,,110,,,3,10,84,389,"2,463",73,907
+2011,fish,Fish,7,133,6.99,2,9,135,309,703,79,372,18
+2011,fish,Shrimp,,,,27,,120,,174,,30,
+2011,fish,Korean common sea squint,,,8,,101,,,31,670,671,
+2011,fish,Sea cucumber,,127,4,,,413,166,2,,220,24
+2011,fish,Wart sea squint,,,,,,,,3,,548,
+2011,fish,others,,,,,"2,578",379,,55,,,2
+2011,fishery,Village fishery,"1,695","1,767",896,180,"8,777","4,529","1,971","56,526","6,134","18,318","14,346"
+2011,fishery,Fixed shore net fishing,3,0,61,0,"2,096",61,102,681,"2,566","1,683",130
+2012,seaweed,Laver,721,138,0,0,0,"2,708","1,769","49,401",0,0,0
+2012,seaweed,Sea mustard,436,35,250,0,11,241,0,"4,645",54,156,0
+2012,seaweed,Sea tangle,8,166,13,0,96,58,0,"6,848",0,0,3
+2012,seaweed,Sea lettuce,37,0,0,0,0,0,0,"1,929",0,0,0
+2012,seaweed,Seaweed fusiforme,0,0,0,0,0,0,90,"1,935",0,0,0
+2012,seaweed,Gulf weed,0,0,0,0,0,0,0,478,0,0,0
+2012,seaweed,Other seaweeds,0,0,0,0,0,0,0,"7,022",0,0,0
+2012,shellfish,Oysters,0,241,0,0,8,"1,012",46,"2,806",0,"3,545",0
+2012,shellfish,Broughton's ribbed ark,0,206,52,0,0,123,615,"2,315",0,"3,851",0
+2012,shellfish,Japanese littleneck,0,146,0,20,0,"2,571","1,152","1,523",0,953,27
+2012,shellfish,Cockle,0,0,0,0,0,20,0,"3,253",0,26,0
+2012,shellfish,Chinese cyclina,0,144,0,0,0,324,511,51,0,0,0
+2012,shellfish,Ark shell,0,0,0,0,0,40,505,"10,187",0,339,0
+2012,shellfish,Venus clam,0,53,0,0,0,61,35,164,0,0,0
+2012,shellfish,Mussels,0,0,0,0,0,28,17,396,6,385,0
+2012,shellfish,Scallops,0,30,0,2,296,53,24,109,0,64,0
+2012,shellfish,Abalones nei,6,115,62,3,33,310,141,"5,627",53,226,9
+2012,shellfish,Sunray surf clam,0,0,0,0,0,0,0,0,0,0,0
+2012,shellfish,Surf clam,0,0,0,0,0,28,0,0,0,0,0
+2012,shellfish,Shellfish,0,90,0,0,474,10,0,"1,346","2,222",421,0
+2012,fish,Fish,7,110,7,2,9,129,311,686,69,372,38
+2012,fish,Shrimp,0,0,0,27,0,72,0,174,0,30,0
+2012,fish,Korean common sea squint,0,0,8,0,437,0,0,26,667,674,0
+2012,fish,Sea cucumber,0,133,4,0,60,624,230,10,0,1,24
+2012,fish,Wart sea squint,0,0,0,0,0,0,0,0,0,524,0
+2012,fish,others,0,0,0,0,"2,296",379,0,70,0,0,924
+2012,fishery,Village fishery,"1,693","1,298",885,180,"8,525","3,981","1,707","78,520","5,797","18,332","14,346"
+2012,fishery,Fixed shore net fishing,3,0,61,0,"2,051",53,102,674,"2,417","1,682",130
+2013,seaweed,Laver,516,138,0,0,0,"2,573","1,799","49,853",0,0,0
+2013,seaweed,Sea mustard,436,33,237,0,36,211,0,"6,657",62,177,0
+2013,seaweed,Sea tangle,8,118,13,0,52,93,0,"6,527",0,0,3
+2013,seaweed,Sea lettuce,27,0,0,0,0,0,0,"2,043",0,0,0
+2013,seaweed,Seaweed fusiforme,0,0,0,0,0,36,90,"2,155",0,0,0
+2013,seaweed,Gulf weed,0,0,0,0,0,0,0,278,0,0,0
+2013,seaweed,Other seaweeds,0,0,0,0,0,0,0,"8,734",0,0,0
+2013,shellfish,Oysters,0,259,0,0,8,"1,136",31,"2,904",7,"3,528",0
+2013,shellfish,Broughton's ribbed ark,0,206,52,0,0,123,635,"2,203",0,"3,827",0
+2013,shellfish,Japanese littleneck,0,152,0,20,0,"2,664","1,167","1,496",0,953,27
+2013,shellfish,Cockle,0,0,0,0,0,20,80,"2,801",0,26,0
+2013,shellfish,Chinese cyclina,0,164,0,0,0,343,507,46,0,0,0
+2013,shellfish,Ark shell,0,0,0,0,0,30,296,"10,072",0,339,0
+2013,shellfish,Venus clam,0,53,0,0,0,61,35,144,0,0,0
+2013,shellfish,Mussels,0,0,0,0,0,28,17,427,6,385,5
+2013,shellfish,Scallops,0,32,0,2,294,53,24,105,0,60,0
+2013,shellfish,Abalones nei,6,115,101,3,22,456,92,"6,075",52,224,526
+2013,shellfish,Sunray surf clam,215,0,0,0,0,0,0,0,0,0,0
+2013,shellfish,Surf clam,0,0,0,0,0,28,0,0,0,0,0
+2013,shellfish,Shellfish,0,130,0,0,491,101,26,366,"2,222",468,407
+2013,fish,Fish,7,110,7,2,19,134,310,573,61,365,32
+2013,fish,Shrimp,0,0,0,27,0,70,0,183,0,30,0
+2013,fish,Korean common sea squint,0,0,8,0,491,0,0,26,709,674,13
+2013,fish,Sea cucumber,0,129,4,0,50,730,147,0,0,1,34
+2013,fish,Wart sea squint,0,0,0,0,0,0,0,0,0,520,0
+2013,fish,others,0,0,0,0,"2,375",381,0,131,0,0,0
+2013,fishery,Village fishery,"1,692","1,384",832,180,"8,335","4,403","1,542","58,486","5,517","17,914","14,431"
+2013,fishery,Fixed shore net fishing,3,0,61,0,"2,002",53,92,627,"2,410","1,682",127
+2014,seaweed,Laver,516,138,0,0,0,"2,551","1,770","49,988",0,0,0
+2014,seaweed,Sea mustard,436,33,232,20,35,152,0,"13,337",62,224,0
+2014,seaweed,Sea tangle,8,118,13,0,0,100,0,"9,190",0,0,3
+2014,seaweed,Sea lettuce,27,0,0,0,0,0,0,"1,444",0,0,0
+2014,seaweed,Seaweed fusiforme,0,0,0,0,0,36,90,"2,750",0,0,0
+2014,seaweed,Gulf weed,0,0,0,0,0,0,0,248,0,0,0
+2014,seaweed,Other seaweeds,0,0,0,0,0,0,0,"2,076",0,0,0
+2014,shellfish,Oysters,0,228,0,0,2,"1,075",31,"2,822",7,"3,518",0
+2014,shellfish,Broughton's ribbed ark,0,216,12,0,0,123,635,"2,253",0,"3,537",0
+2014,shellfish,Japanese littleneck,0,196,0,20,0,"2,558","1,145","1,566",0,940,27
+2014,shellfish,Cockle,0,0,0,0,0,20,0,"2,780",0,12,0
+2014,shellfish,Chinese cyclina,0,174,0,0,0,368,497,46,0,0,0
+2014,shellfish,Ark shell,0,0,0,0,0,31,391,"10,623",0,632,0
+2014,shellfish,Venus clam,0,53,0,0,0,46,35,12,0,0,0
+2014,shellfish,Mussels,0,0,0,0,0,28,17,434,2,385,5
+2014,shellfish,Scallops,0,32,0,2,237,43,20,89,0,56,0
+2014,shellfish,Abalones nei,6,124,147,3,40,673,78,"5,978",58,221,522
+2014,shellfish,Sunray surf clam,215,0,0,0,0,0,0,0,0,0,0
+2014,shellfish,Surf clam,0,0,0,0,0,28,0,0,0,0,0
+2014,shellfish,Shellfish,11,145,0,30,"1,528",164,151,366,"2,221",481,4
+2014,fish,Fish,7,7,7,2,19,141,308,555,62,354,39
+2014,fish,Shrimp,0,103,0,27,0,67,0,181,0,30,0
+2014,fish,Korean common sea squint,0,0,8,0,741,0,0,26,749,674,13
+2014,fish,Sea cucumber,0,183,4,0,20,836,175,0,0,1,34
+2014,fish,Wart sea squint,0,0,0,0,0,0,0,0,0,520,0
+2014,fish,others,0,0,0,0,"1,346",379,0,71,0,9,0
+2014,fishery,Village fishery,"1,692","1,384",832,180,"8,335","4,403","1,542","58,486","5,517","17,914","14,431"
+2014,fishery,Fixed shore net fishing,3,0,61,0,"2,002",53,92,627,"2,410","1,682",127
+2015,seaweed,Laver,512,138,0,0,0,"2,651","1,548","50,405",0,0,0
+2015,seaweed,Sea mustard,436,33,224,20,43,152,0,"17,708",26,251,0
+2015,seaweed,Sea tangle,8,124,13,0,20,100,0,"8,906",0,0,3
+2015,seaweed,Sea lettuce,14,0,0,0,0,0,0,"1,379",0,0,0
+2015,seaweed,Seaweed fusiforme,0,0,0,0,0,36,90,"2,323",0,0,0
+2015,seaweed,Gulf weed,0,0,0,0,0,0,0,255,0,0,0
+2015,seaweed,Other seaweeds,0,0,0,0,0,0,62,"2,174",0,0,0
+2015,shellfish,Oysters,0,228,0,0,2,"1,087",9,"2,746",0,"3,520",0
+2015,shellfish,Broughton's ribbed ark,0,204,12,0,0,142,635,"2,226",0,"3,544",0
+2015,shellfish,Japanese littleneck,0,170,0,73,0,"2,410","1,039","1,492",0,956,27
+2015,shellfish,Cockle,0,0,0,0,0,20,0,"2,862",0,12,0
+2015,shellfish,Chinese cyclina,0,174,0,0,0,381,488,31,0,0,0
+2015,shellfish,Ark shell,0,0,0,0,0,21,391,"10,618",0,687,0
+2015,shellfish,Venus clam,0,53,0,0,0,72,35,12,0,0,0
+2015,shellfish,Mussels,0,0,0,0,0,25,16,444,2,399,5
+2015,shellfish,Scallops,0,32,0,2,555,43,20,73,0,53,0
+2015,shellfish,Abalones nei,6,234,146,3,43,751,78,"6,243",29,229,522
+2015,shellfish,Sunray surf clam,233,0,0,0,0,0,0,0,0,0,0
+2015,shellfish,Surf clam,0,0,0,0,0,28,0,0,0,0,0
+2015,shellfish,Shellfish,0,145,0,30,3,157,233,446,0,495,4
+2015,fish,Fish,7,5,7,2,19,134,305,494,61,337,39
+2015,fish,Shrimp,0,94,0,27,0,70,0,165,0,30,0
+2015,fish,Korean common sea squint,0,0,8,0,583,0,0,26,254,670,37
+2015,fish,Sea cucumber,0,188,4,0,30,869,174,0,0,1,34
+2015,fish,Wart sea squint,0,0,0,0,0,0,0,3,0,520,0
+2015,fish,others,12,0,0,0,"3,495",379,0,95,"2,781",0,0
+2015,fishery,Village fishery,"1,413","1,595",535,429,"7,552","4,910","1,688","60,890","6,211","17,538","14,314"
+2015,fishery,Fixed shore net fishing,3,0,50,0,"1,880",71,102,627,"2,338","1,660",124
+2016,seaweed,Laver,750,138,0,0,0,"2,411","1,724","52,128",0,0,0
+2016,seaweed,Sea mustard,436,33,224,20,14,143,0,"17,061",75,244,0
+2016,seaweed,Sea tangle,8,98,8,0,13,109,0,"7,925",0,0,3
+2016,seaweed,Sea lettuce,8,0,0,0,0,0,0,"1,349",0,0,0
+2016,seaweed,Seaweed fusiforme,0,0,0,0,0,36,10,"3,456",0,0,0
+2016,seaweed,Gulf weed,0,0,0,0,0,0,0,243,0,0,0
+2016,seaweed,Other seaweeds,0,0,0,0,0,0,0,"2,247",0,18,0
+2016,shellfish,Oysters,0,198,0,0,2,"1,106",9,"2,762",0,"3,484",0
+2016,shellfish,Broughton's ribbed ark,0,214,12,0,0,127,761,"2,147",0,"3,505",0
+2016,shellfish,Japanese littleneck,0,205,0,73,0,"2,425","1,048","1,587",0,939,27
+2016,shellfish,Cockle,0,0,0,0,0,20,0,"2,870",0,12,0
+2016,shellfish,Chinese cyclina,0,134,0,0,0,370,474,51,0,28,0
+2016,shellfish,Ark shell,0,0,0,0,0,21,291,"10,662",0,677,0
+2016,shellfish,Venus clam,0,83,0,0,0,46,35,12,0,0,0
+2016,shellfish,Mussels,0,0,0,0,0,35,17,447,2,398,5
+2016,shellfish,Scallops,0,32,0,2,218,43,0,194,0,50,0
+2016,shellfish,Abalones nei,6,236,151,0,28,785,72,"7,399",34,269,522
+2016,shellfish,Sunray surf clam,0,0,0,0,0,0,0,0,0,0,0
+2016,shellfish,Surf clam,0,0,0,0,0,28,0,10,0,0,0
+2016,shellfish,Shellfish,0,145,0,35,"2,379",139,270,356,20,458,4
+2016,fish,Fish,7,5,7,2,19,119,288,485,63,335,79
+2016,fish,Shrimp,0,94,0,27,0,67,0,192,0,30,0
+2016,fish,Korean common sea squint,0,0,8,0,947,0,0,47,765,668,53
+2016,fish,Sea cucumber,0,188,4,0,100,850,175,0,0,1,34
+2016,fish,Wart sea squint,0,0,0,0,0,0,0,3,0,520,0
+2016,fish,others,0,0,0,0,"2,359",382,0,95,"2,228",0,0
+2016,fishery,Village fishery,"1,414","1,650",831,499,"6,092","5,137",753,"63,531","5,519","17,563","14,323"
+2016,fishery,Fixed shore net fishing,3,0,61,0,"1,807",66,92,627,"2,272","1,649",118
