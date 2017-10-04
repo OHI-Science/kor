@@ -1,0 +1,1849 @@
+year,category,name,rgn_id,area
+2011,seaweed,Laver,1,1043
+2011,seaweed,Sea mustard,1,476
+2011,seaweed,Sea tangle,1,8
+2011,seaweed,Sea lettuce,1,43
+2011,seaweed,Seaweed fusiforme,1,NA
+2011,seaweed,Gulf weed,1,NA
+2011,seaweed,Other seaweeds,1,NA
+2011,shellfish,Oysters,1,0
+2011,shellfish,Broughton's ribbed ark,1,NA
+2011,shellfish,Japanese littleneck,1,NA
+2011,shellfish,Cockle,1,NA
+2011,shellfish,Chinese cyclina,1,NA
+2011,shellfish,Ark shell,1,NA
+2011,shellfish,Venus clam,1,NA
+2011,shellfish,Mussels,1,NA
+2011,shellfish,Scallops,1,NA
+2011,shellfish,Abalones nei,1,6
+2011,shellfish,Sunray surf clam,1,NA
+2011,shellfish,Surf clam,1,NA
+2011,shellfish,Shellfish,1,NA
+2011,fish,Fish,1,7
+2011,fish,Shrimp,1,NA
+2011,fish,Korean common sea squint,1,NA
+2011,fish,Sea cucumber,1,NA
+2011,fish,Wart sea squint,1,NA
+2011,fish,others,1,NA
+2011,fishery,Village fishery,1,1695
+2011,fishery,Fixed shore net fishing,1,3
+2012,seaweed,Laver,1,721
+2012,seaweed,Sea mustard,1,436
+2012,seaweed,Sea tangle,1,8
+2012,seaweed,Sea lettuce,1,37
+2012,seaweed,Seaweed fusiforme,1,0
+2012,seaweed,Gulf weed,1,0
+2012,seaweed,Other seaweeds,1,0
+2012,shellfish,Oysters,1,0
+2012,shellfish,Broughton's ribbed ark,1,0
+2012,shellfish,Japanese littleneck,1,0
+2012,shellfish,Cockle,1,0
+2012,shellfish,Chinese cyclina,1,0
+2012,shellfish,Ark shell,1,0
+2012,shellfish,Venus clam,1,0
+2012,shellfish,Mussels,1,0
+2012,shellfish,Scallops,1,0
+2012,shellfish,Abalones nei,1,6
+2012,shellfish,Sunray surf clam,1,0
+2012,shellfish,Surf clam,1,0
+2012,shellfish,Shellfish,1,0
+2012,fish,Fish,1,7
+2012,fish,Shrimp,1,0
+2012,fish,Korean common sea squint,1,0
+2012,fish,Sea cucumber,1,0
+2012,fish,Wart sea squint,1,0
+2012,fish,others,1,0
+2012,fishery,Village fishery,1,1693
+2012,fishery,Fixed shore net fishing,1,3
+2013,seaweed,Laver,1,516
+2013,seaweed,Sea mustard,1,436
+2013,seaweed,Sea tangle,1,8
+2013,seaweed,Sea lettuce,1,27
+2013,seaweed,Seaweed fusiforme,1,0
+2013,seaweed,Gulf weed,1,0
+2013,seaweed,Other seaweeds,1,0
+2013,shellfish,Oysters,1,0
+2013,shellfish,Broughton's ribbed ark,1,0
+2013,shellfish,Japanese littleneck,1,0
+2013,shellfish,Cockle,1,0
+2013,shellfish,Chinese cyclina,1,0
+2013,shellfish,Ark shell,1,0
+2013,shellfish,Venus clam,1,0
+2013,shellfish,Mussels,1,0
+2013,shellfish,Scallops,1,0
+2013,shellfish,Abalones nei,1,6
+2013,shellfish,Sunray surf clam,1,215
+2013,shellfish,Surf clam,1,0
+2013,shellfish,Shellfish,1,0
+2013,fish,Fish,1,7
+2013,fish,Shrimp,1,0
+2013,fish,Korean common sea squint,1,0
+2013,fish,Sea cucumber,1,0
+2013,fish,Wart sea squint,1,0
+2013,fish,others,1,0
+2013,fishery,Village fishery,1,1692
+2013,fishery,Fixed shore net fishing,1,3
+2014,seaweed,Laver,1,516
+2014,seaweed,Sea mustard,1,436
+2014,seaweed,Sea tangle,1,8
+2014,seaweed,Sea lettuce,1,27
+2014,seaweed,Seaweed fusiforme,1,0
+2014,seaweed,Gulf weed,1,0
+2014,seaweed,Other seaweeds,1,0
+2014,shellfish,Oysters,1,0
+2014,shellfish,Broughton's ribbed ark,1,0
+2014,shellfish,Japanese littleneck,1,0
+2014,shellfish,Cockle,1,0
+2014,shellfish,Chinese cyclina,1,0
+2014,shellfish,Ark shell,1,0
+2014,shellfish,Venus clam,1,0
+2014,shellfish,Mussels,1,0
+2014,shellfish,Scallops,1,0
+2014,shellfish,Abalones nei,1,6
+2014,shellfish,Sunray surf clam,1,215
+2014,shellfish,Surf clam,1,0
+2014,shellfish,Shellfish,1,11
+2014,fish,Fish,1,7
+2014,fish,Shrimp,1,0
+2014,fish,Korean common sea squint,1,0
+2014,fish,Sea cucumber,1,0
+2014,fish,Wart sea squint,1,0
+2014,fish,others,1,0
+2014,fishery,Village fishery,1,1692
+2014,fishery,Fixed shore net fishing,1,3
+2015,seaweed,Laver,1,512
+2015,seaweed,Sea mustard,1,436
+2015,seaweed,Sea tangle,1,8
+2015,seaweed,Sea lettuce,1,14
+2015,seaweed,Seaweed fusiforme,1,0
+2015,seaweed,Gulf weed,1,0
+2015,seaweed,Other seaweeds,1,0
+2015,shellfish,Oysters,1,0
+2015,shellfish,Broughton's ribbed ark,1,0
+2015,shellfish,Japanese littleneck,1,0
+2015,shellfish,Cockle,1,0
+2015,shellfish,Chinese cyclina,1,0
+2015,shellfish,Ark shell,1,0
+2015,shellfish,Venus clam,1,0
+2015,shellfish,Mussels,1,0
+2015,shellfish,Scallops,1,0
+2015,shellfish,Abalones nei,1,6
+2015,shellfish,Sunray surf clam,1,233
+2015,shellfish,Surf clam,1,0
+2015,shellfish,Shellfish,1,0
+2015,fish,Fish,1,7
+2015,fish,Shrimp,1,0
+2015,fish,Korean common sea squint,1,0
+2015,fish,Sea cucumber,1,0
+2015,fish,Wart sea squint,1,0
+2015,fish,others,1,12
+2015,fishery,Village fishery,1,1413
+2015,fishery,Fixed shore net fishing,1,3
+2016,seaweed,Laver,1,750
+2016,seaweed,Sea mustard,1,436
+2016,seaweed,Sea tangle,1,8
+2016,seaweed,Sea lettuce,1,8
+2016,seaweed,Seaweed fusiforme,1,0
+2016,seaweed,Gulf weed,1,0
+2016,seaweed,Other seaweeds,1,0
+2016,shellfish,Oysters,1,0
+2016,shellfish,Broughton's ribbed ark,1,0
+2016,shellfish,Japanese littleneck,1,0
+2016,shellfish,Cockle,1,0
+2016,shellfish,Chinese cyclina,1,0
+2016,shellfish,Ark shell,1,0
+2016,shellfish,Venus clam,1,0
+2016,shellfish,Mussels,1,0
+2016,shellfish,Scallops,1,0
+2016,shellfish,Abalones nei,1,6
+2016,shellfish,Sunray surf clam,1,0
+2016,shellfish,Surf clam,1,0
+2016,shellfish,Shellfish,1,0
+2016,fish,Fish,1,7
+2016,fish,Shrimp,1,0
+2016,fish,Korean common sea squint,1,0
+2016,fish,Sea cucumber,1,0
+2016,fish,Wart sea squint,1,0
+2016,fish,others,1,0
+2016,fishery,Village fishery,1,1414
+2016,fishery,Fixed shore net fishing,1,3
+2011,seaweed,Laver,2,472
+2011,seaweed,Sea mustard,2,56
+2011,seaweed,Sea tangle,2,271
+2011,seaweed,Sea lettuce,2,NA
+2011,seaweed,Seaweed fusiforme,2,NA
+2011,seaweed,Gulf weed,2,NA
+2011,seaweed,Other seaweeds,2,NA
+2011,shellfish,Oysters,2,279
+2011,shellfish,Broughton's ribbed ark,2,234
+2011,shellfish,Japanese littleneck,2,440
+2011,shellfish,Cockle,2,NA
+2011,shellfish,Chinese cyclina,2,214
+2011,shellfish,Ark shell,2,NA
+2011,shellfish,Venus clam,2,133
+2011,shellfish,Mussels,2,NA
+2011,shellfish,Scallops,2,102
+2011,shellfish,Abalones nei,2,152
+2011,shellfish,Sunray surf clam,2,NA
+2011,shellfish,Surf clam,2,NA
+2011,shellfish,Shellfish,2,110
+2011,fish,Fish,2,133
+2011,fish,Shrimp,2,NA
+2011,fish,Korean common sea squint,2,NA
+2011,fish,Sea cucumber,2,127
+2011,fish,Wart sea squint,2,NA
+2011,fish,others,2,NA
+2011,fishery,Village fishery,2,1767
+2011,fishery,Fixed shore net fishing,2,0
+2012,seaweed,Laver,2,138
+2012,seaweed,Sea mustard,2,35
+2012,seaweed,Sea tangle,2,166
+2012,seaweed,Sea lettuce,2,0
+2012,seaweed,Seaweed fusiforme,2,0
+2012,seaweed,Gulf weed,2,0
+2012,seaweed,Other seaweeds,2,0
+2012,shellfish,Oysters,2,241
+2012,shellfish,Broughton's ribbed ark,2,206
+2012,shellfish,Japanese littleneck,2,146
+2012,shellfish,Cockle,2,0
+2012,shellfish,Chinese cyclina,2,144
+2012,shellfish,Ark shell,2,0
+2012,shellfish,Venus clam,2,53
+2012,shellfish,Mussels,2,0
+2012,shellfish,Scallops,2,30
+2012,shellfish,Abalones nei,2,115
+2012,shellfish,Sunray surf clam,2,0
+2012,shellfish,Surf clam,2,0
+2012,shellfish,Shellfish,2,90
+2012,fish,Fish,2,110
+2012,fish,Shrimp,2,0
+2012,fish,Korean common sea squint,2,0
+2012,fish,Sea cucumber,2,133
+2012,fish,Wart sea squint,2,0
+2012,fish,others,2,0
+2012,fishery,Village fishery,2,1298
+2012,fishery,Fixed shore net fishing,2,0
+2013,seaweed,Laver,2,138
+2013,seaweed,Sea mustard,2,33
+2013,seaweed,Sea tangle,2,118
+2013,seaweed,Sea lettuce,2,0
+2013,seaweed,Seaweed fusiforme,2,0
+2013,seaweed,Gulf weed,2,0
+2013,seaweed,Other seaweeds,2,0
+2013,shellfish,Oysters,2,259
+2013,shellfish,Broughton's ribbed ark,2,206
+2013,shellfish,Japanese littleneck,2,152
+2013,shellfish,Cockle,2,0
+2013,shellfish,Chinese cyclina,2,164
+2013,shellfish,Ark shell,2,0
+2013,shellfish,Venus clam,2,53
+2013,shellfish,Mussels,2,0
+2013,shellfish,Scallops,2,32
+2013,shellfish,Abalones nei,2,115
+2013,shellfish,Sunray surf clam,2,0
+2013,shellfish,Surf clam,2,0
+2013,shellfish,Shellfish,2,130
+2013,fish,Fish,2,110
+2013,fish,Shrimp,2,0
+2013,fish,Korean common sea squint,2,0
+2013,fish,Sea cucumber,2,129
+2013,fish,Wart sea squint,2,0
+2013,fish,others,2,0
+2013,fishery,Village fishery,2,1384
+2013,fishery,Fixed shore net fishing,2,0
+2014,seaweed,Laver,2,138
+2014,seaweed,Sea mustard,2,33
+2014,seaweed,Sea tangle,2,118
+2014,seaweed,Sea lettuce,2,0
+2014,seaweed,Seaweed fusiforme,2,0
+2014,seaweed,Gulf weed,2,0
+2014,seaweed,Other seaweeds,2,0
+2014,shellfish,Oysters,2,228
+2014,shellfish,Broughton's ribbed ark,2,216
+2014,shellfish,Japanese littleneck,2,196
+2014,shellfish,Cockle,2,0
+2014,shellfish,Chinese cyclina,2,174
+2014,shellfish,Ark shell,2,0
+2014,shellfish,Venus clam,2,53
+2014,shellfish,Mussels,2,0
+2014,shellfish,Scallops,2,32
+2014,shellfish,Abalones nei,2,124
+2014,shellfish,Sunray surf clam,2,0
+2014,shellfish,Surf clam,2,0
+2014,shellfish,Shellfish,2,145
+2014,fish,Fish,2,7
+2014,fish,Shrimp,2,103
+2014,fish,Korean common sea squint,2,0
+2014,fish,Sea cucumber,2,183
+2014,fish,Wart sea squint,2,0
+2014,fish,others,2,0
+2014,fishery,Village fishery,2,1384
+2014,fishery,Fixed shore net fishing,2,0
+2015,seaweed,Laver,2,138
+2015,seaweed,Sea mustard,2,33
+2015,seaweed,Sea tangle,2,124
+2015,seaweed,Sea lettuce,2,0
+2015,seaweed,Seaweed fusiforme,2,0
+2015,seaweed,Gulf weed,2,0
+2015,seaweed,Other seaweeds,2,0
+2015,shellfish,Oysters,2,228
+2015,shellfish,Broughton's ribbed ark,2,204
+2015,shellfish,Japanese littleneck,2,170
+2015,shellfish,Cockle,2,0
+2015,shellfish,Chinese cyclina,2,174
+2015,shellfish,Ark shell,2,0
+2015,shellfish,Venus clam,2,53
+2015,shellfish,Mussels,2,0
+2015,shellfish,Scallops,2,32
+2015,shellfish,Abalones nei,2,234
+2015,shellfish,Sunray surf clam,2,0
+2015,shellfish,Surf clam,2,0
+2015,shellfish,Shellfish,2,145
+2015,fish,Fish,2,5
+2015,fish,Shrimp,2,94
+2015,fish,Korean common sea squint,2,0
+2015,fish,Sea cucumber,2,188
+2015,fish,Wart sea squint,2,0
+2015,fish,others,2,0
+2015,fishery,Village fishery,2,1595
+2015,fishery,Fixed shore net fishing,2,0
+2016,seaweed,Laver,2,138
+2016,seaweed,Sea mustard,2,33
+2016,seaweed,Sea tangle,2,98
+2016,seaweed,Sea lettuce,2,0
+2016,seaweed,Seaweed fusiforme,2,0
+2016,seaweed,Gulf weed,2,0
+2016,seaweed,Other seaweeds,2,0
+2016,shellfish,Oysters,2,198
+2016,shellfish,Broughton's ribbed ark,2,214
+2016,shellfish,Japanese littleneck,2,205
+2016,shellfish,Cockle,2,0
+2016,shellfish,Chinese cyclina,2,134
+2016,shellfish,Ark shell,2,0
+2016,shellfish,Venus clam,2,83
+2016,shellfish,Mussels,2,0
+2016,shellfish,Scallops,2,32
+2016,shellfish,Abalones nei,2,236
+2016,shellfish,Sunray surf clam,2,0
+2016,shellfish,Surf clam,2,0
+2016,shellfish,Shellfish,2,145
+2016,fish,Fish,2,5
+2016,fish,Shrimp,2,94
+2016,fish,Korean common sea squint,2,0
+2016,fish,Sea cucumber,2,188
+2016,fish,Wart sea squint,2,0
+2016,fish,others,2,0
+2016,fishery,Village fishery,2,1650
+2016,fishery,Fixed shore net fishing,2,0
+2011,seaweed,Laver,3,NA
+2011,seaweed,Sea mustard,3,257
+2011,seaweed,Sea tangle,3,13
+2011,seaweed,Sea lettuce,3,NA
+2011,seaweed,Seaweed fusiforme,3,NA
+2011,seaweed,Gulf weed,3,NA
+2011,seaweed,Other seaweeds,3,NA
+2011,shellfish,Oysters,3,NA
+2011,shellfish,Broughton's ribbed ark,3,12
+2011,shellfish,Japanese littleneck,3,NA
+2011,shellfish,Cockle,3,NA
+2011,shellfish,Chinese cyclina,3,NA
+2011,shellfish,Ark shell,3,NA
+2011,shellfish,Venus clam,3,NA
+2011,shellfish,Mussels,3,NA
+2011,shellfish,Scallops,3,NA
+2011,shellfish,Abalones nei,3,103
+2011,shellfish,Sunray surf clam,3,NA
+2011,shellfish,Surf clam,3,NA
+2011,shellfish,Shellfish,3,NA
+2011,fish,Fish,3,6.99
+2011,fish,Shrimp,3,NA
+2011,fish,Korean common sea squint,3,8
+2011,fish,Sea cucumber,3,4
+2011,fish,Wart sea squint,3,NA
+2011,fish,others,3,NA
+2011,fishery,Village fishery,3,896
+2011,fishery,Fixed shore net fishing,3,61
+2012,seaweed,Laver,3,0
+2012,seaweed,Sea mustard,3,250
+2012,seaweed,Sea tangle,3,13
+2012,seaweed,Sea lettuce,3,0
+2012,seaweed,Seaweed fusiforme,3,0
+2012,seaweed,Gulf weed,3,0
+2012,seaweed,Other seaweeds,3,0
+2012,shellfish,Oysters,3,0
+2012,shellfish,Broughton's ribbed ark,3,52
+2012,shellfish,Japanese littleneck,3,0
+2012,shellfish,Cockle,3,0
+2012,shellfish,Chinese cyclina,3,0
+2012,shellfish,Ark shell,3,0
+2012,shellfish,Venus clam,3,0
+2012,shellfish,Mussels,3,0
+2012,shellfish,Scallops,3,0
+2012,shellfish,Abalones nei,3,62
+2012,shellfish,Sunray surf clam,3,0
+2012,shellfish,Surf clam,3,0
+2012,shellfish,Shellfish,3,0
+2012,fish,Fish,3,7
+2012,fish,Shrimp,3,0
+2012,fish,Korean common sea squint,3,8
+2012,fish,Sea cucumber,3,4
+2012,fish,Wart sea squint,3,0
+2012,fish,others,3,0
+2012,fishery,Village fishery,3,885
+2012,fishery,Fixed shore net fishing,3,61
+2013,seaweed,Laver,3,0
+2013,seaweed,Sea mustard,3,237
+2013,seaweed,Sea tangle,3,13
+2013,seaweed,Sea lettuce,3,0
+2013,seaweed,Seaweed fusiforme,3,0
+2013,seaweed,Gulf weed,3,0
+2013,seaweed,Other seaweeds,3,0
+2013,shellfish,Oysters,3,0
+2013,shellfish,Broughton's ribbed ark,3,52
+2013,shellfish,Japanese littleneck,3,0
+2013,shellfish,Cockle,3,0
+2013,shellfish,Chinese cyclina,3,0
+2013,shellfish,Ark shell,3,0
+2013,shellfish,Venus clam,3,0
+2013,shellfish,Mussels,3,0
+2013,shellfish,Scallops,3,0
+2013,shellfish,Abalones nei,3,101
+2013,shellfish,Sunray surf clam,3,0
+2013,shellfish,Surf clam,3,0
+2013,shellfish,Shellfish,3,0
+2013,fish,Fish,3,7
+2013,fish,Shrimp,3,0
+2013,fish,Korean common sea squint,3,8
+2013,fish,Sea cucumber,3,4
+2013,fish,Wart sea squint,3,0
+2013,fish,others,3,0
+2013,fishery,Village fishery,3,832
+2013,fishery,Fixed shore net fishing,3,61
+2014,seaweed,Laver,3,0
+2014,seaweed,Sea mustard,3,232
+2014,seaweed,Sea tangle,3,13
+2014,seaweed,Sea lettuce,3,0
+2014,seaweed,Seaweed fusiforme,3,0
+2014,seaweed,Gulf weed,3,0
+2014,seaweed,Other seaweeds,3,0
+2014,shellfish,Oysters,3,0
+2014,shellfish,Broughton's ribbed ark,3,12
+2014,shellfish,Japanese littleneck,3,0
+2014,shellfish,Cockle,3,0
+2014,shellfish,Chinese cyclina,3,0
+2014,shellfish,Ark shell,3,0
+2014,shellfish,Venus clam,3,0
+2014,shellfish,Mussels,3,0
+2014,shellfish,Scallops,3,0
+2014,shellfish,Abalones nei,3,147
+2014,shellfish,Sunray surf clam,3,0
+2014,shellfish,Surf clam,3,0
+2014,shellfish,Shellfish,3,0
+2014,fish,Fish,3,7
+2014,fish,Shrimp,3,0
+2014,fish,Korean common sea squint,3,8
+2014,fish,Sea cucumber,3,4
+2014,fish,Wart sea squint,3,0
+2014,fish,others,3,0
+2014,fishery,Village fishery,3,832
+2014,fishery,Fixed shore net fishing,3,61
+2015,seaweed,Laver,3,0
+2015,seaweed,Sea mustard,3,224
+2015,seaweed,Sea tangle,3,13
+2015,seaweed,Sea lettuce,3,0
+2015,seaweed,Seaweed fusiforme,3,0
+2015,seaweed,Gulf weed,3,0
+2015,seaweed,Other seaweeds,3,0
+2015,shellfish,Oysters,3,0
+2015,shellfish,Broughton's ribbed ark,3,12
+2015,shellfish,Japanese littleneck,3,0
+2015,shellfish,Cockle,3,0
+2015,shellfish,Chinese cyclina,3,0
+2015,shellfish,Ark shell,3,0
+2015,shellfish,Venus clam,3,0
+2015,shellfish,Mussels,3,0
+2015,shellfish,Scallops,3,0
+2015,shellfish,Abalones nei,3,146
+2015,shellfish,Sunray surf clam,3,0
+2015,shellfish,Surf clam,3,0
+2015,shellfish,Shellfish,3,0
+2015,fish,Fish,3,7
+2015,fish,Shrimp,3,0
+2015,fish,Korean common sea squint,3,8
+2015,fish,Sea cucumber,3,4
+2015,fish,Wart sea squint,3,0
+2015,fish,others,3,0
+2015,fishery,Village fishery,3,535
+2015,fishery,Fixed shore net fishing,3,50
+2016,seaweed,Laver,3,0
+2016,seaweed,Sea mustard,3,224
+2016,seaweed,Sea tangle,3,8
+2016,seaweed,Sea lettuce,3,0
+2016,seaweed,Seaweed fusiforme,3,0
+2016,seaweed,Gulf weed,3,0
+2016,seaweed,Other seaweeds,3,0
+2016,shellfish,Oysters,3,0
+2016,shellfish,Broughton's ribbed ark,3,12
+2016,shellfish,Japanese littleneck,3,0
+2016,shellfish,Cockle,3,0
+2016,shellfish,Chinese cyclina,3,0
+2016,shellfish,Ark shell,3,0
+2016,shellfish,Venus clam,3,0
+2016,shellfish,Mussels,3,0
+2016,shellfish,Scallops,3,0
+2016,shellfish,Abalones nei,3,151
+2016,shellfish,Sunray surf clam,3,0
+2016,shellfish,Surf clam,3,0
+2016,shellfish,Shellfish,3,0
+2016,fish,Fish,3,7
+2016,fish,Shrimp,3,0
+2016,fish,Korean common sea squint,3,8
+2016,fish,Sea cucumber,3,4
+2016,fish,Wart sea squint,3,0
+2016,fish,others,3,0
+2016,fishery,Village fishery,3,831
+2016,fishery,Fixed shore net fishing,3,61
+2011,seaweed,Laver,4,NA
+2011,seaweed,Sea mustard,4,NA
+2011,seaweed,Sea tangle,4,NA
+2011,seaweed,Sea lettuce,4,NA
+2011,seaweed,Seaweed fusiforme,4,NA
+2011,seaweed,Gulf weed,4,NA
+2011,seaweed,Other seaweeds,4,NA
+2011,shellfish,Oysters,4,0
+2011,shellfish,Broughton's ribbed ark,4,NA
+2011,shellfish,Japanese littleneck,4,20
+2011,shellfish,Cockle,4,NA
+2011,shellfish,Chinese cyclina,4,NA
+2011,shellfish,Ark shell,4,NA
+2011,shellfish,Venus clam,4,NA
+2011,shellfish,Mussels,4,NA
+2011,shellfish,Scallops,4,2
+2011,shellfish,Abalones nei,4,3
+2011,shellfish,Sunray surf clam,4,NA
+2011,shellfish,Surf clam,4,NA
+2011,shellfish,Shellfish,4,NA
+2011,fish,Fish,4,2
+2011,fish,Shrimp,4,27
+2011,fish,Korean common sea squint,4,NA
+2011,fish,Sea cucumber,4,NA
+2011,fish,Wart sea squint,4,NA
+2011,fish,others,4,NA
+2011,fishery,Village fishery,4,180
+2011,fishery,Fixed shore net fishing,4,0
+2012,seaweed,Laver,4,0
+2012,seaweed,Sea mustard,4,0
+2012,seaweed,Sea tangle,4,0
+2012,seaweed,Sea lettuce,4,0
+2012,seaweed,Seaweed fusiforme,4,0
+2012,seaweed,Gulf weed,4,0
+2012,seaweed,Other seaweeds,4,0
+2012,shellfish,Oysters,4,0
+2012,shellfish,Broughton's ribbed ark,4,0
+2012,shellfish,Japanese littleneck,4,20
+2012,shellfish,Cockle,4,0
+2012,shellfish,Chinese cyclina,4,0
+2012,shellfish,Ark shell,4,0
+2012,shellfish,Venus clam,4,0
+2012,shellfish,Mussels,4,0
+2012,shellfish,Scallops,4,2
+2012,shellfish,Abalones nei,4,3
+2012,shellfish,Sunray surf clam,4,0
+2012,shellfish,Surf clam,4,0
+2012,shellfish,Shellfish,4,0
+2012,fish,Fish,4,2
+2012,fish,Shrimp,4,27
+2012,fish,Korean common sea squint,4,0
+2012,fish,Sea cucumber,4,0
+2012,fish,Wart sea squint,4,0
+2012,fish,others,4,0
+2012,fishery,Village fishery,4,180
+2012,fishery,Fixed shore net fishing,4,0
+2013,seaweed,Laver,4,0
+2013,seaweed,Sea mustard,4,0
+2013,seaweed,Sea tangle,4,0
+2013,seaweed,Sea lettuce,4,0
+2013,seaweed,Seaweed fusiforme,4,0
+2013,seaweed,Gulf weed,4,0
+2013,seaweed,Other seaweeds,4,0
+2013,shellfish,Oysters,4,0
+2013,shellfish,Broughton's ribbed ark,4,0
+2013,shellfish,Japanese littleneck,4,20
+2013,shellfish,Cockle,4,0
+2013,shellfish,Chinese cyclina,4,0
+2013,shellfish,Ark shell,4,0
+2013,shellfish,Venus clam,4,0
+2013,shellfish,Mussels,4,0
+2013,shellfish,Scallops,4,2
+2013,shellfish,Abalones nei,4,3
+2013,shellfish,Sunray surf clam,4,0
+2013,shellfish,Surf clam,4,0
+2013,shellfish,Shellfish,4,0
+2013,fish,Fish,4,2
+2013,fish,Shrimp,4,27
+2013,fish,Korean common sea squint,4,0
+2013,fish,Sea cucumber,4,0
+2013,fish,Wart sea squint,4,0
+2013,fish,others,4,0
+2013,fishery,Village fishery,4,180
+2013,fishery,Fixed shore net fishing,4,0
+2014,seaweed,Laver,4,0
+2014,seaweed,Sea mustard,4,20
+2014,seaweed,Sea tangle,4,0
+2014,seaweed,Sea lettuce,4,0
+2014,seaweed,Seaweed fusiforme,4,0
+2014,seaweed,Gulf weed,4,0
+2014,seaweed,Other seaweeds,4,0
+2014,shellfish,Oysters,4,0
+2014,shellfish,Broughton's ribbed ark,4,0
+2014,shellfish,Japanese littleneck,4,20
+2014,shellfish,Cockle,4,0
+2014,shellfish,Chinese cyclina,4,0
+2014,shellfish,Ark shell,4,0
+2014,shellfish,Venus clam,4,0
+2014,shellfish,Mussels,4,0
+2014,shellfish,Scallops,4,2
+2014,shellfish,Abalones nei,4,3
+2014,shellfish,Sunray surf clam,4,0
+2014,shellfish,Surf clam,4,0
+2014,shellfish,Shellfish,4,30
+2014,fish,Fish,4,2
+2014,fish,Shrimp,4,27
+2014,fish,Korean common sea squint,4,0
+2014,fish,Sea cucumber,4,0
+2014,fish,Wart sea squint,4,0
+2014,fish,others,4,0
+2014,fishery,Village fishery,4,180
+2014,fishery,Fixed shore net fishing,4,0
+2015,seaweed,Laver,4,0
+2015,seaweed,Sea mustard,4,20
+2015,seaweed,Sea tangle,4,0
+2015,seaweed,Sea lettuce,4,0
+2015,seaweed,Seaweed fusiforme,4,0
+2015,seaweed,Gulf weed,4,0
+2015,seaweed,Other seaweeds,4,0
+2015,shellfish,Oysters,4,0
+2015,shellfish,Broughton's ribbed ark,4,0
+2015,shellfish,Japanese littleneck,4,73
+2015,shellfish,Cockle,4,0
+2015,shellfish,Chinese cyclina,4,0
+2015,shellfish,Ark shell,4,0
+2015,shellfish,Venus clam,4,0
+2015,shellfish,Mussels,4,0
+2015,shellfish,Scallops,4,2
+2015,shellfish,Abalones nei,4,3
+2015,shellfish,Sunray surf clam,4,0
+2015,shellfish,Surf clam,4,0
+2015,shellfish,Shellfish,4,30
+2015,fish,Fish,4,2
+2015,fish,Shrimp,4,27
+2015,fish,Korean common sea squint,4,0
+2015,fish,Sea cucumber,4,0
+2015,fish,Wart sea squint,4,0
+2015,fish,others,4,0
+2015,fishery,Village fishery,4,429
+2015,fishery,Fixed shore net fishing,4,0
+2016,seaweed,Laver,4,0
+2016,seaweed,Sea mustard,4,20
+2016,seaweed,Sea tangle,4,0
+2016,seaweed,Sea lettuce,4,0
+2016,seaweed,Seaweed fusiforme,4,0
+2016,seaweed,Gulf weed,4,0
+2016,seaweed,Other seaweeds,4,0
+2016,shellfish,Oysters,4,0
+2016,shellfish,Broughton's ribbed ark,4,0
+2016,shellfish,Japanese littleneck,4,73
+2016,shellfish,Cockle,4,0
+2016,shellfish,Chinese cyclina,4,0
+2016,shellfish,Ark shell,4,0
+2016,shellfish,Venus clam,4,0
+2016,shellfish,Mussels,4,0
+2016,shellfish,Scallops,4,2
+2016,shellfish,Abalones nei,4,0
+2016,shellfish,Sunray surf clam,4,0
+2016,shellfish,Surf clam,4,0
+2016,shellfish,Shellfish,4,35
+2016,fish,Fish,4,2
+2016,fish,Shrimp,4,27
+2016,fish,Korean common sea squint,4,0
+2016,fish,Sea cucumber,4,0
+2016,fish,Wart sea squint,4,0
+2016,fish,others,4,0
+2016,fishery,Village fishery,4,499
+2016,fishery,Fixed shore net fishing,4,0
+2011,seaweed,Laver,5,NA
+2011,seaweed,Sea mustard,5,17
+2011,seaweed,Sea tangle,5,125
+2011,seaweed,Sea lettuce,5,NA
+2011,seaweed,Seaweed fusiforme,5,NA
+2011,seaweed,Gulf weed,5,NA
+2011,seaweed,Other seaweeds,5,4
+2011,shellfish,Oysters,5,8
+2011,shellfish,Broughton's ribbed ark,5,NA
+2011,shellfish,Japanese littleneck,5,NA
+2011,shellfish,Cockle,5,NA
+2011,shellfish,Chinese cyclina,5,NA
+2011,shellfish,Ark shell,5,NA
+2011,shellfish,Venus clam,5,NA
+2011,shellfish,Mussels,5,NA
+2011,shellfish,Scallops,5,799
+2011,shellfish,Abalones nei,5,11
+2011,shellfish,Sunray surf clam,5,NA
+2011,shellfish,Surf clam,5,NA
+2011,shellfish,Shellfish,5,3
+2011,fish,Fish,5,9
+2011,fish,Shrimp,5,NA
+2011,fish,Korean common sea squint,5,101
+2011,fish,Sea cucumber,5,NA
+2011,fish,Wart sea squint,5,NA
+2011,fish,others,5,2578
+2011,fishery,Village fishery,5,8777
+2011,fishery,Fixed shore net fishing,5,2096
+2012,seaweed,Laver,5,0
+2012,seaweed,Sea mustard,5,11
+2012,seaweed,Sea tangle,5,96
+2012,seaweed,Sea lettuce,5,0
+2012,seaweed,Seaweed fusiforme,5,0
+2012,seaweed,Gulf weed,5,0
+2012,seaweed,Other seaweeds,5,0
+2012,shellfish,Oysters,5,8
+2012,shellfish,Broughton's ribbed ark,5,0
+2012,shellfish,Japanese littleneck,5,0
+2012,shellfish,Cockle,5,0
+2012,shellfish,Chinese cyclina,5,0
+2012,shellfish,Ark shell,5,0
+2012,shellfish,Venus clam,5,0
+2012,shellfish,Mussels,5,0
+2012,shellfish,Scallops,5,296
+2012,shellfish,Abalones nei,5,33
+2012,shellfish,Sunray surf clam,5,0
+2012,shellfish,Surf clam,5,0
+2012,shellfish,Shellfish,5,474
+2012,fish,Fish,5,9
+2012,fish,Shrimp,5,0
+2012,fish,Korean common sea squint,5,437
+2012,fish,Sea cucumber,5,60
+2012,fish,Wart sea squint,5,0
+2012,fish,others,5,2296
+2012,fishery,Village fishery,5,8525
+2012,fishery,Fixed shore net fishing,5,2051
+2013,seaweed,Laver,5,0
+2013,seaweed,Sea mustard,5,36
+2013,seaweed,Sea tangle,5,52
+2013,seaweed,Sea lettuce,5,0
+2013,seaweed,Seaweed fusiforme,5,0
+2013,seaweed,Gulf weed,5,0
+2013,seaweed,Other seaweeds,5,0
+2013,shellfish,Oysters,5,8
+2013,shellfish,Broughton's ribbed ark,5,0
+2013,shellfish,Japanese littleneck,5,0
+2013,shellfish,Cockle,5,0
+2013,shellfish,Chinese cyclina,5,0
+2013,shellfish,Ark shell,5,0
+2013,shellfish,Venus clam,5,0
+2013,shellfish,Mussels,5,0
+2013,shellfish,Scallops,5,294
+2013,shellfish,Abalones nei,5,22
+2013,shellfish,Sunray surf clam,5,0
+2013,shellfish,Surf clam,5,0
+2013,shellfish,Shellfish,5,491
+2013,fish,Fish,5,19
+2013,fish,Shrimp,5,0
+2013,fish,Korean common sea squint,5,491
+2013,fish,Sea cucumber,5,50
+2013,fish,Wart sea squint,5,0
+2013,fish,others,5,2375
+2013,fishery,Village fishery,5,8335
+2013,fishery,Fixed shore net fishing,5,2002
+2014,seaweed,Laver,5,0
+2014,seaweed,Sea mustard,5,35
+2014,seaweed,Sea tangle,5,0
+2014,seaweed,Sea lettuce,5,0
+2014,seaweed,Seaweed fusiforme,5,0
+2014,seaweed,Gulf weed,5,0
+2014,seaweed,Other seaweeds,5,0
+2014,shellfish,Oysters,5,2
+2014,shellfish,Broughton's ribbed ark,5,0
+2014,shellfish,Japanese littleneck,5,0
+2014,shellfish,Cockle,5,0
+2014,shellfish,Chinese cyclina,5,0
+2014,shellfish,Ark shell,5,0
+2014,shellfish,Venus clam,5,0
+2014,shellfish,Mussels,5,0
+2014,shellfish,Scallops,5,237
+2014,shellfish,Abalones nei,5,40
+2014,shellfish,Sunray surf clam,5,0
+2014,shellfish,Surf clam,5,0
+2014,shellfish,Shellfish,5,1528
+2014,fish,Fish,5,19
+2014,fish,Shrimp,5,0
+2014,fish,Korean common sea squint,5,741
+2014,fish,Sea cucumber,5,20
+2014,fish,Wart sea squint,5,0
+2014,fish,others,5,1346
+2014,fishery,Village fishery,5,8335
+2014,fishery,Fixed shore net fishing,5,2002
+2015,seaweed,Laver,5,0
+2015,seaweed,Sea mustard,5,43
+2015,seaweed,Sea tangle,5,20
+2015,seaweed,Sea lettuce,5,0
+2015,seaweed,Seaweed fusiforme,5,0
+2015,seaweed,Gulf weed,5,0
+2015,seaweed,Other seaweeds,5,0
+2015,shellfish,Oysters,5,2
+2015,shellfish,Broughton's ribbed ark,5,0
+2015,shellfish,Japanese littleneck,5,0
+2015,shellfish,Cockle,5,0
+2015,shellfish,Chinese cyclina,5,0
+2015,shellfish,Ark shell,5,0
+2015,shellfish,Venus clam,5,0
+2015,shellfish,Mussels,5,0
+2015,shellfish,Scallops,5,555
+2015,shellfish,Abalones nei,5,43
+2015,shellfish,Sunray surf clam,5,0
+2015,shellfish,Surf clam,5,0
+2015,shellfish,Shellfish,5,3
+2015,fish,Fish,5,19
+2015,fish,Shrimp,5,0
+2015,fish,Korean common sea squint,5,583
+2015,fish,Sea cucumber,5,30
+2015,fish,Wart sea squint,5,0
+2015,fish,others,5,3495
+2015,fishery,Village fishery,5,7552
+2015,fishery,Fixed shore net fishing,5,1880
+2016,seaweed,Laver,5,0
+2016,seaweed,Sea mustard,5,14
+2016,seaweed,Sea tangle,5,13
+2016,seaweed,Sea lettuce,5,0
+2016,seaweed,Seaweed fusiforme,5,0
+2016,seaweed,Gulf weed,5,0
+2016,seaweed,Other seaweeds,5,0
+2016,shellfish,Oysters,5,2
+2016,shellfish,Broughton's ribbed ark,5,0
+2016,shellfish,Japanese littleneck,5,0
+2016,shellfish,Cockle,5,0
+2016,shellfish,Chinese cyclina,5,0
+2016,shellfish,Ark shell,5,0
+2016,shellfish,Venus clam,5,0
+2016,shellfish,Mussels,5,0
+2016,shellfish,Scallops,5,218
+2016,shellfish,Abalones nei,5,28
+2016,shellfish,Sunray surf clam,5,0
+2016,shellfish,Surf clam,5,0
+2016,shellfish,Shellfish,5,2379
+2016,fish,Fish,5,19
+2016,fish,Shrimp,5,0
+2016,fish,Korean common sea squint,5,947
+2016,fish,Sea cucumber,5,100
+2016,fish,Wart sea squint,5,0
+2016,fish,others,5,2359
+2016,fishery,Village fishery,5,6092
+2016,fishery,Fixed shore net fishing,5,1807
+2011,seaweed,Laver,6,2612
+2011,seaweed,Sea mustard,6,173
+2011,seaweed,Sea tangle,6,60
+2011,seaweed,Sea lettuce,6,NA
+2011,seaweed,Seaweed fusiforme,6,NA
+2011,seaweed,Gulf weed,6,5
+2011,seaweed,Other seaweeds,6,NA
+2011,shellfish,Oysters,6,879
+2011,shellfish,Broughton's ribbed ark,6,108
+2011,shellfish,Japanese littleneck,6,2718
+2011,shellfish,Cockle,6,20
+2011,shellfish,Chinese cyclina,6,317
+2011,shellfish,Ark shell,6,40
+2011,shellfish,Venus clam,6,61
+2011,shellfish,Mussels,6,18
+2011,shellfish,Scallops,6,73
+2011,shellfish,Abalones nei,6,342
+2011,shellfish,Sunray surf clam,6,40
+2011,shellfish,Surf clam,6,44
+2011,shellfish,Shellfish,6,10
+2011,fish,Fish,6,135
+2011,fish,Shrimp,6,120
+2011,fish,Korean common sea squint,6,NA
+2011,fish,Sea cucumber,6,413
+2011,fish,Wart sea squint,6,NA
+2011,fish,others,6,379
+2011,fishery,Village fishery,6,4529
+2011,fishery,Fixed shore net fishing,6,61
+2012,seaweed,Laver,6,2708
+2012,seaweed,Sea mustard,6,241
+2012,seaweed,Sea tangle,6,58
+2012,seaweed,Sea lettuce,6,0
+2012,seaweed,Seaweed fusiforme,6,0
+2012,seaweed,Gulf weed,6,0
+2012,seaweed,Other seaweeds,6,0
+2012,shellfish,Oysters,6,1012
+2012,shellfish,Broughton's ribbed ark,6,123
+2012,shellfish,Japanese littleneck,6,2571
+2012,shellfish,Cockle,6,20
+2012,shellfish,Chinese cyclina,6,324
+2012,shellfish,Ark shell,6,40
+2012,shellfish,Venus clam,6,61
+2012,shellfish,Mussels,6,28
+2012,shellfish,Scallops,6,53
+2012,shellfish,Abalones nei,6,310
+2012,shellfish,Sunray surf clam,6,0
+2012,shellfish,Surf clam,6,28
+2012,shellfish,Shellfish,6,10
+2012,fish,Fish,6,129
+2012,fish,Shrimp,6,72
+2012,fish,Korean common sea squint,6,0
+2012,fish,Sea cucumber,6,624
+2012,fish,Wart sea squint,6,0
+2012,fish,others,6,379
+2012,fishery,Village fishery,6,3981
+2012,fishery,Fixed shore net fishing,6,53
+2013,seaweed,Laver,6,2573
+2013,seaweed,Sea mustard,6,211
+2013,seaweed,Sea tangle,6,93
+2013,seaweed,Sea lettuce,6,0
+2013,seaweed,Seaweed fusiforme,6,36
+2013,seaweed,Gulf weed,6,0
+2013,seaweed,Other seaweeds,6,0
+2013,shellfish,Oysters,6,1136
+2013,shellfish,Broughton's ribbed ark,6,123
+2013,shellfish,Japanese littleneck,6,2664
+2013,shellfish,Cockle,6,20
+2013,shellfish,Chinese cyclina,6,343
+2013,shellfish,Ark shell,6,30
+2013,shellfish,Venus clam,6,61
+2013,shellfish,Mussels,6,28
+2013,shellfish,Scallops,6,53
+2013,shellfish,Abalones nei,6,456
+2013,shellfish,Sunray surf clam,6,0
+2013,shellfish,Surf clam,6,28
+2013,shellfish,Shellfish,6,101
+2013,fish,Fish,6,134
+2013,fish,Shrimp,6,70
+2013,fish,Korean common sea squint,6,0
+2013,fish,Sea cucumber,6,730
+2013,fish,Wart sea squint,6,0
+2013,fish,others,6,381
+2013,fishery,Village fishery,6,4403
+2013,fishery,Fixed shore net fishing,6,53
+2014,seaweed,Laver,6,2551
+2014,seaweed,Sea mustard,6,152
+2014,seaweed,Sea tangle,6,100
+2014,seaweed,Sea lettuce,6,0
+2014,seaweed,Seaweed fusiforme,6,36
+2014,seaweed,Gulf weed,6,0
+2014,seaweed,Other seaweeds,6,0
+2014,shellfish,Oysters,6,1075
+2014,shellfish,Broughton's ribbed ark,6,123
+2014,shellfish,Japanese littleneck,6,2558
+2014,shellfish,Cockle,6,20
+2014,shellfish,Chinese cyclina,6,368
+2014,shellfish,Ark shell,6,31
+2014,shellfish,Venus clam,6,46
+2014,shellfish,Mussels,6,28
+2014,shellfish,Scallops,6,43
+2014,shellfish,Abalones nei,6,673
+2014,shellfish,Sunray surf clam,6,0
+2014,shellfish,Surf clam,6,28
+2014,shellfish,Shellfish,6,164
+2014,fish,Fish,6,141
+2014,fish,Shrimp,6,67
+2014,fish,Korean common sea squint,6,0
+2014,fish,Sea cucumber,6,836
+2014,fish,Wart sea squint,6,0
+2014,fish,others,6,379
+2014,fishery,Village fishery,6,4403
+2014,fishery,Fixed shore net fishing,6,53
+2015,seaweed,Laver,6,2651
+2015,seaweed,Sea mustard,6,152
+2015,seaweed,Sea tangle,6,100
+2015,seaweed,Sea lettuce,6,0
+2015,seaweed,Seaweed fusiforme,6,36
+2015,seaweed,Gulf weed,6,0
+2015,seaweed,Other seaweeds,6,0
+2015,shellfish,Oysters,6,1087
+2015,shellfish,Broughton's ribbed ark,6,142
+2015,shellfish,Japanese littleneck,6,2410
+2015,shellfish,Cockle,6,20
+2015,shellfish,Chinese cyclina,6,381
+2015,shellfish,Ark shell,6,21
+2015,shellfish,Venus clam,6,72
+2015,shellfish,Mussels,6,25
+2015,shellfish,Scallops,6,43
+2015,shellfish,Abalones nei,6,751
+2015,shellfish,Sunray surf clam,6,0
+2015,shellfish,Surf clam,6,28
+2015,shellfish,Shellfish,6,157
+2015,fish,Fish,6,134
+2015,fish,Shrimp,6,70
+2015,fish,Korean common sea squint,6,0
+2015,fish,Sea cucumber,6,869
+2015,fish,Wart sea squint,6,0
+2015,fish,others,6,379
+2015,fishery,Village fishery,6,4910
+2015,fishery,Fixed shore net fishing,6,71
+2016,seaweed,Laver,6,2411
+2016,seaweed,Sea mustard,6,143
+2016,seaweed,Sea tangle,6,109
+2016,seaweed,Sea lettuce,6,0
+2016,seaweed,Seaweed fusiforme,6,36
+2016,seaweed,Gulf weed,6,0
+2016,seaweed,Other seaweeds,6,0
+2016,shellfish,Oysters,6,1106
+2016,shellfish,Broughton's ribbed ark,6,127
+2016,shellfish,Japanese littleneck,6,2425
+2016,shellfish,Cockle,6,20
+2016,shellfish,Chinese cyclina,6,370
+2016,shellfish,Ark shell,6,21
+2016,shellfish,Venus clam,6,46
+2016,shellfish,Mussels,6,35
+2016,shellfish,Scallops,6,43
+2016,shellfish,Abalones nei,6,785
+2016,shellfish,Sunray surf clam,6,0
+2016,shellfish,Surf clam,6,28
+2016,shellfish,Shellfish,6,139
+2016,fish,Fish,6,119
+2016,fish,Shrimp,6,67
+2016,fish,Korean common sea squint,6,0
+2016,fish,Sea cucumber,6,850
+2016,fish,Wart sea squint,6,0
+2016,fish,others,6,382
+2016,fishery,Village fishery,6,5137
+2016,fishery,Fixed shore net fishing,6,66
+2011,seaweed,Laver,7,4781
+2011,seaweed,Sea mustard,7,NA
+2011,seaweed,Sea tangle,7,NA
+2011,seaweed,Sea lettuce,7,NA
+2011,seaweed,Seaweed fusiforme,7,90
+2011,seaweed,Gulf weed,7,NA
+2011,seaweed,Other seaweeds,7,NA
+2011,shellfish,Oysters,7,46
+2011,shellfish,Broughton's ribbed ark,7,615
+2011,shellfish,Japanese littleneck,7,1042
+2011,shellfish,Cockle,7,NA
+2011,shellfish,Chinese cyclina,7,502
+2011,shellfish,Ark shell,7,537
+2011,shellfish,Venus clam,7,40
+2011,shellfish,Mussels,7,17
+2011,shellfish,Scallops,7,64
+2011,shellfish,Abalones nei,7,182
+2011,shellfish,Sunray surf clam,7,NA
+2011,shellfish,Surf clam,7,NA
+2011,shellfish,Shellfish,7,84
+2011,fish,Fish,7,309
+2011,fish,Shrimp,7,NA
+2011,fish,Korean common sea squint,7,NA
+2011,fish,Sea cucumber,7,166
+2011,fish,Wart sea squint,7,NA
+2011,fish,others,7,NA
+2011,fishery,Village fishery,7,1971
+2011,fishery,Fixed shore net fishing,7,102
+2012,seaweed,Laver,7,1769
+2012,seaweed,Sea mustard,7,0
+2012,seaweed,Sea tangle,7,0
+2012,seaweed,Sea lettuce,7,0
+2012,seaweed,Seaweed fusiforme,7,90
+2012,seaweed,Gulf weed,7,0
+2012,seaweed,Other seaweeds,7,0
+2012,shellfish,Oysters,7,46
+2012,shellfish,Broughton's ribbed ark,7,615
+2012,shellfish,Japanese littleneck,7,1152
+2012,shellfish,Cockle,7,0
+2012,shellfish,Chinese cyclina,7,511
+2012,shellfish,Ark shell,7,505
+2012,shellfish,Venus clam,7,35
+2012,shellfish,Mussels,7,17
+2012,shellfish,Scallops,7,24
+2012,shellfish,Abalones nei,7,141
+2012,shellfish,Sunray surf clam,7,0
+2012,shellfish,Surf clam,7,0
+2012,shellfish,Shellfish,7,0
+2012,fish,Fish,7,311
+2012,fish,Shrimp,7,0
+2012,fish,Korean common sea squint,7,0
+2012,fish,Sea cucumber,7,230
+2012,fish,Wart sea squint,7,0
+2012,fish,others,7,0
+2012,fishery,Village fishery,7,1707
+2012,fishery,Fixed shore net fishing,7,102
+2013,seaweed,Laver,7,1799
+2013,seaweed,Sea mustard,7,0
+2013,seaweed,Sea tangle,7,0
+2013,seaweed,Sea lettuce,7,0
+2013,seaweed,Seaweed fusiforme,7,90
+2013,seaweed,Gulf weed,7,0
+2013,seaweed,Other seaweeds,7,0
+2013,shellfish,Oysters,7,31
+2013,shellfish,Broughton's ribbed ark,7,635
+2013,shellfish,Japanese littleneck,7,1167
+2013,shellfish,Cockle,7,80
+2013,shellfish,Chinese cyclina,7,507
+2013,shellfish,Ark shell,7,296
+2013,shellfish,Venus clam,7,35
+2013,shellfish,Mussels,7,17
+2013,shellfish,Scallops,7,24
+2013,shellfish,Abalones nei,7,92
+2013,shellfish,Sunray surf clam,7,0
+2013,shellfish,Surf clam,7,0
+2013,shellfish,Shellfish,7,26
+2013,fish,Fish,7,310
+2013,fish,Shrimp,7,0
+2013,fish,Korean common sea squint,7,0
+2013,fish,Sea cucumber,7,147
+2013,fish,Wart sea squint,7,0
+2013,fish,others,7,0
+2013,fishery,Village fishery,7,1542
+2013,fishery,Fixed shore net fishing,7,92
+2014,seaweed,Laver,7,1770
+2014,seaweed,Sea mustard,7,0
+2014,seaweed,Sea tangle,7,0
+2014,seaweed,Sea lettuce,7,0
+2014,seaweed,Seaweed fusiforme,7,90
+2014,seaweed,Gulf weed,7,0
+2014,seaweed,Other seaweeds,7,0
+2014,shellfish,Oysters,7,31
+2014,shellfish,Broughton's ribbed ark,7,635
+2014,shellfish,Japanese littleneck,7,1145
+2014,shellfish,Cockle,7,0
+2014,shellfish,Chinese cyclina,7,497
+2014,shellfish,Ark shell,7,391
+2014,shellfish,Venus clam,7,35
+2014,shellfish,Mussels,7,17
+2014,shellfish,Scallops,7,20
+2014,shellfish,Abalones nei,7,78
+2014,shellfish,Sunray surf clam,7,0
+2014,shellfish,Surf clam,7,0
+2014,shellfish,Shellfish,7,151
+2014,fish,Fish,7,308
+2014,fish,Shrimp,7,0
+2014,fish,Korean common sea squint,7,0
+2014,fish,Sea cucumber,7,175
+2014,fish,Wart sea squint,7,0
+2014,fish,others,7,0
+2014,fishery,Village fishery,7,1542
+2014,fishery,Fixed shore net fishing,7,92
+2015,seaweed,Laver,7,1548
+2015,seaweed,Sea mustard,7,0
+2015,seaweed,Sea tangle,7,0
+2015,seaweed,Sea lettuce,7,0
+2015,seaweed,Seaweed fusiforme,7,90
+2015,seaweed,Gulf weed,7,0
+2015,seaweed,Other seaweeds,7,62
+2015,shellfish,Oysters,7,9
+2015,shellfish,Broughton's ribbed ark,7,635
+2015,shellfish,Japanese littleneck,7,1039
+2015,shellfish,Cockle,7,0
+2015,shellfish,Chinese cyclina,7,488
+2015,shellfish,Ark shell,7,391
+2015,shellfish,Venus clam,7,35
+2015,shellfish,Mussels,7,16
+2015,shellfish,Scallops,7,20
+2015,shellfish,Abalones nei,7,78
+2015,shellfish,Sunray surf clam,7,0
+2015,shellfish,Surf clam,7,0
+2015,shellfish,Shellfish,7,233
+2015,fish,Fish,7,305
+2015,fish,Shrimp,7,0
+2015,fish,Korean common sea squint,7,0
+2015,fish,Sea cucumber,7,174
+2015,fish,Wart sea squint,7,0
+2015,fish,others,7,0
+2015,fishery,Village fishery,7,1688
+2015,fishery,Fixed shore net fishing,7,102
+2016,seaweed,Laver,7,1724
+2016,seaweed,Sea mustard,7,0
+2016,seaweed,Sea tangle,7,0
+2016,seaweed,Sea lettuce,7,0
+2016,seaweed,Seaweed fusiforme,7,10
+2016,seaweed,Gulf weed,7,0
+2016,seaweed,Other seaweeds,7,0
+2016,shellfish,Oysters,7,9
+2016,shellfish,Broughton's ribbed ark,7,761
+2016,shellfish,Japanese littleneck,7,1048
+2016,shellfish,Cockle,7,0
+2016,shellfish,Chinese cyclina,7,474
+2016,shellfish,Ark shell,7,291
+2016,shellfish,Venus clam,7,35
+2016,shellfish,Mussels,7,17
+2016,shellfish,Scallops,7,0
+2016,shellfish,Abalones nei,7,72
+2016,shellfish,Sunray surf clam,7,0
+2016,shellfish,Surf clam,7,0
+2016,shellfish,Shellfish,7,270
+2016,fish,Fish,7,288
+2016,fish,Shrimp,7,0
+2016,fish,Korean common sea squint,7,0
+2016,fish,Sea cucumber,7,175
+2016,fish,Wart sea squint,7,0
+2016,fish,others,7,0
+2016,fishery,Village fishery,7,753
+2016,fishery,Fixed shore net fishing,7,92
+2011,seaweed,Laver,8,48014
+2011,seaweed,Sea mustard,8,4711
+2011,seaweed,Sea tangle,8,6820
+2011,seaweed,Sea lettuce,8,2517
+2011,seaweed,Seaweed fusiforme,8,1849
+2011,seaweed,Gulf weed,8,449
+2011,seaweed,Other seaweeds,8,6813
+2011,shellfish,Oysters,8,2847
+2011,shellfish,Broughton's ribbed ark,8,2560
+2011,shellfish,Japanese littleneck,8,1485
+2011,shellfish,Cockle,8,3088
+2011,shellfish,Chinese cyclina,8,46
+2011,shellfish,Ark shell,8,9678
+2011,shellfish,Venus clam,8,164
+2011,shellfish,Mussels,8,335
+2011,shellfish,Scallops,8,109
+2011,shellfish,Abalones nei,8,5570
+2011,shellfish,Sunray surf clam,8,0
+2011,shellfish,Surf clam,8,0
+2011,shellfish,Shellfish,8,389
+2011,fish,Fish,8,703
+2011,fish,Shrimp,8,174
+2011,fish,Korean common sea squint,8,31
+2011,fish,Sea cucumber,8,2
+2011,fish,Wart sea squint,8,3
+2011,fish,others,8,55
+2011,fishery,Village fishery,8,56526
+2011,fishery,Fixed shore net fishing,8,681
+2012,seaweed,Laver,8,49401
+2012,seaweed,Sea mustard,8,4645
+2012,seaweed,Sea tangle,8,6848
+2012,seaweed,Sea lettuce,8,1929
+2012,seaweed,Seaweed fusiforme,8,1935
+2012,seaweed,Gulf weed,8,478
+2012,seaweed,Other seaweeds,8,7022
+2012,shellfish,Oysters,8,2806
+2012,shellfish,Broughton's ribbed ark,8,2315
+2012,shellfish,Japanese littleneck,8,1523
+2012,shellfish,Cockle,8,3253
+2012,shellfish,Chinese cyclina,8,51
+2012,shellfish,Ark shell,8,10187
+2012,shellfish,Venus clam,8,164
+2012,shellfish,Mussels,8,396
+2012,shellfish,Scallops,8,109
+2012,shellfish,Abalones nei,8,5627
+2012,shellfish,Sunray surf clam,8,0
+2012,shellfish,Surf clam,8,0
+2012,shellfish,Shellfish,8,1346
+2012,fish,Fish,8,686
+2012,fish,Shrimp,8,174
+2012,fish,Korean common sea squint,8,26
+2012,fish,Sea cucumber,8,10
+2012,fish,Wart sea squint,8,0
+2012,fish,others,8,70
+2012,fishery,Village fishery,8,78520
+2012,fishery,Fixed shore net fishing,8,674
+2013,seaweed,Laver,8,49853
+2013,seaweed,Sea mustard,8,6657
+2013,seaweed,Sea tangle,8,6527
+2013,seaweed,Sea lettuce,8,2043
+2013,seaweed,Seaweed fusiforme,8,2155
+2013,seaweed,Gulf weed,8,278
+2013,seaweed,Other seaweeds,8,8734
+2013,shellfish,Oysters,8,2904
+2013,shellfish,Broughton's ribbed ark,8,2203
+2013,shellfish,Japanese littleneck,8,1496
+2013,shellfish,Cockle,8,2801
+2013,shellfish,Chinese cyclina,8,46
+2013,shellfish,Ark shell,8,10072
+2013,shellfish,Venus clam,8,144
+2013,shellfish,Mussels,8,427
+2013,shellfish,Scallops,8,105
+2013,shellfish,Abalones nei,8,6075
+2013,shellfish,Sunray surf clam,8,0
+2013,shellfish,Surf clam,8,0
+2013,shellfish,Shellfish,8,366
+2013,fish,Fish,8,573
+2013,fish,Shrimp,8,183
+2013,fish,Korean common sea squint,8,26
+2013,fish,Sea cucumber,8,0
+2013,fish,Wart sea squint,8,0
+2013,fish,others,8,131
+2013,fishery,Village fishery,8,58486
+2013,fishery,Fixed shore net fishing,8,627
+2014,seaweed,Laver,8,49988
+2014,seaweed,Sea mustard,8,13337
+2014,seaweed,Sea tangle,8,9190
+2014,seaweed,Sea lettuce,8,1444
+2014,seaweed,Seaweed fusiforme,8,2750
+2014,seaweed,Gulf weed,8,248
+2014,seaweed,Other seaweeds,8,2076
+2014,shellfish,Oysters,8,2822
+2014,shellfish,Broughton's ribbed ark,8,2253
+2014,shellfish,Japanese littleneck,8,1566
+2014,shellfish,Cockle,8,2780
+2014,shellfish,Chinese cyclina,8,46
+2014,shellfish,Ark shell,8,10623
+2014,shellfish,Venus clam,8,12
+2014,shellfish,Mussels,8,434
+2014,shellfish,Scallops,8,89
+2014,shellfish,Abalones nei,8,5978
+2014,shellfish,Sunray surf clam,8,0
+2014,shellfish,Surf clam,8,0
+2014,shellfish,Shellfish,8,366
+2014,fish,Fish,8,555
+2014,fish,Shrimp,8,181
+2014,fish,Korean common sea squint,8,26
+2014,fish,Sea cucumber,8,0
+2014,fish,Wart sea squint,8,0
+2014,fish,others,8,71
+2014,fishery,Village fishery,8,58486
+2014,fishery,Fixed shore net fishing,8,627
+2015,seaweed,Laver,8,50405
+2015,seaweed,Sea mustard,8,17708
+2015,seaweed,Sea tangle,8,8906
+2015,seaweed,Sea lettuce,8,1379
+2015,seaweed,Seaweed fusiforme,8,2323
+2015,seaweed,Gulf weed,8,255
+2015,seaweed,Other seaweeds,8,2174
+2015,shellfish,Oysters,8,2746
+2015,shellfish,Broughton's ribbed ark,8,2226
+2015,shellfish,Japanese littleneck,8,1492
+2015,shellfish,Cockle,8,2862
+2015,shellfish,Chinese cyclina,8,31
+2015,shellfish,Ark shell,8,10618
+2015,shellfish,Venus clam,8,12
+2015,shellfish,Mussels,8,444
+2015,shellfish,Scallops,8,73
+2015,shellfish,Abalones nei,8,6243
+2015,shellfish,Sunray surf clam,8,0
+2015,shellfish,Surf clam,8,0
+2015,shellfish,Shellfish,8,446
+2015,fish,Fish,8,494
+2015,fish,Shrimp,8,165
+2015,fish,Korean common sea squint,8,26
+2015,fish,Sea cucumber,8,0
+2015,fish,Wart sea squint,8,3
+2015,fish,others,8,95
+2015,fishery,Village fishery,8,60890
+2015,fishery,Fixed shore net fishing,8,627
+2016,seaweed,Laver,8,52128
+2016,seaweed,Sea mustard,8,17061
+2016,seaweed,Sea tangle,8,7925
+2016,seaweed,Sea lettuce,8,1349
+2016,seaweed,Seaweed fusiforme,8,3456
+2016,seaweed,Gulf weed,8,243
+2016,seaweed,Other seaweeds,8,2247
+2016,shellfish,Oysters,8,2762
+2016,shellfish,Broughton's ribbed ark,8,2147
+2016,shellfish,Japanese littleneck,8,1587
+2016,shellfish,Cockle,8,2870
+2016,shellfish,Chinese cyclina,8,51
+2016,shellfish,Ark shell,8,10662
+2016,shellfish,Venus clam,8,12
+2016,shellfish,Mussels,8,447
+2016,shellfish,Scallops,8,194
+2016,shellfish,Abalones nei,8,7399
+2016,shellfish,Sunray surf clam,8,0
+2016,shellfish,Surf clam,8,10
+2016,shellfish,Shellfish,8,356
+2016,fish,Fish,8,485
+2016,fish,Shrimp,8,192
+2016,fish,Korean common sea squint,8,47
+2016,fish,Sea cucumber,8,0
+2016,fish,Wart sea squint,8,3
+2016,fish,others,8,95
+2016,fishery,Village fishery,8,63531
+2016,fishery,Fixed shore net fishing,8,627
+2011,seaweed,Laver,9,NA
+2011,seaweed,Sea mustard,9,40
+2011,seaweed,Sea tangle,9,NA
+2011,seaweed,Sea lettuce,9,NA
+2011,seaweed,Seaweed fusiforme,9,NA
+2011,seaweed,Gulf weed,9,NA
+2011,seaweed,Other seaweeds,9,NA
+2011,shellfish,Oysters,9,0
+2011,shellfish,Broughton's ribbed ark,9,NA
+2011,shellfish,Japanese littleneck,9,NA
+2011,shellfish,Cockle,9,NA
+2011,shellfish,Chinese cyclina,9,NA
+2011,shellfish,Ark shell,9,NA
+2011,shellfish,Venus clam,9,NA
+2011,shellfish,Mussels,9,6
+2011,shellfish,Scallops,9,NA
+2011,shellfish,Abalones nei,9,47
+2011,shellfish,Sunray surf clam,9,NA
+2011,shellfish,Surf clam,9,NA
+2011,shellfish,Shellfish,9,2463
+2011,fish,Fish,9,79
+2011,fish,Shrimp,9,NA
+2011,fish,Korean common sea squint,9,670
+2011,fish,Sea cucumber,9,NA
+2011,fish,Wart sea squint,9,NA
+2011,fish,others,9,NA
+2011,fishery,Village fishery,9,6134
+2011,fishery,Fixed shore net fishing,9,2566
+2012,seaweed,Laver,9,0
+2012,seaweed,Sea mustard,9,54
+2012,seaweed,Sea tangle,9,0
+2012,seaweed,Sea lettuce,9,0
+2012,seaweed,Seaweed fusiforme,9,0
+2012,seaweed,Gulf weed,9,0
+2012,seaweed,Other seaweeds,9,0
+2012,shellfish,Oysters,9,0
+2012,shellfish,Broughton's ribbed ark,9,0
+2012,shellfish,Japanese littleneck,9,0
+2012,shellfish,Cockle,9,0
+2012,shellfish,Chinese cyclina,9,0
+2012,shellfish,Ark shell,9,0
+2012,shellfish,Venus clam,9,0
+2012,shellfish,Mussels,9,6
+2012,shellfish,Scallops,9,0
+2012,shellfish,Abalones nei,9,53
+2012,shellfish,Sunray surf clam,9,0
+2012,shellfish,Surf clam,9,0
+2012,shellfish,Shellfish,9,2222
+2012,fish,Fish,9,69
+2012,fish,Shrimp,9,0
+2012,fish,Korean common sea squint,9,667
+2012,fish,Sea cucumber,9,0
+2012,fish,Wart sea squint,9,0
+2012,fish,others,9,0
+2012,fishery,Village fishery,9,5797
+2012,fishery,Fixed shore net fishing,9,2417
+2013,seaweed,Laver,9,0
+2013,seaweed,Sea mustard,9,62
+2013,seaweed,Sea tangle,9,0
+2013,seaweed,Sea lettuce,9,0
+2013,seaweed,Seaweed fusiforme,9,0
+2013,seaweed,Gulf weed,9,0
+2013,seaweed,Other seaweeds,9,0
+2013,shellfish,Oysters,9,7
+2013,shellfish,Broughton's ribbed ark,9,0
+2013,shellfish,Japanese littleneck,9,0
+2013,shellfish,Cockle,9,0
+2013,shellfish,Chinese cyclina,9,0
+2013,shellfish,Ark shell,9,0
+2013,shellfish,Venus clam,9,0
+2013,shellfish,Mussels,9,6
+2013,shellfish,Scallops,9,0
+2013,shellfish,Abalones nei,9,52
+2013,shellfish,Sunray surf clam,9,0
+2013,shellfish,Surf clam,9,0
+2013,shellfish,Shellfish,9,2222
+2013,fish,Fish,9,61
+2013,fish,Shrimp,9,0
+2013,fish,Korean common sea squint,9,709
+2013,fish,Sea cucumber,9,0
+2013,fish,Wart sea squint,9,0
+2013,fish,others,9,0
+2013,fishery,Village fishery,9,5517
+2013,fishery,Fixed shore net fishing,9,2410
+2014,seaweed,Laver,9,0
+2014,seaweed,Sea mustard,9,62
+2014,seaweed,Sea tangle,9,0
+2014,seaweed,Sea lettuce,9,0
+2014,seaweed,Seaweed fusiforme,9,0
+2014,seaweed,Gulf weed,9,0
+2014,seaweed,Other seaweeds,9,0
+2014,shellfish,Oysters,9,7
+2014,shellfish,Broughton's ribbed ark,9,0
+2014,shellfish,Japanese littleneck,9,0
+2014,shellfish,Cockle,9,0
+2014,shellfish,Chinese cyclina,9,0
+2014,shellfish,Ark shell,9,0
+2014,shellfish,Venus clam,9,0
+2014,shellfish,Mussels,9,2
+2014,shellfish,Scallops,9,0
+2014,shellfish,Abalones nei,9,58
+2014,shellfish,Sunray surf clam,9,0
+2014,shellfish,Surf clam,9,0
+2014,shellfish,Shellfish,9,2221
+2014,fish,Fish,9,62
+2014,fish,Shrimp,9,0
+2014,fish,Korean common sea squint,9,749
+2014,fish,Sea cucumber,9,0
+2014,fish,Wart sea squint,9,0
+2014,fish,others,9,0
+2014,fishery,Village fishery,9,5517
+2014,fishery,Fixed shore net fishing,9,2410
+2015,seaweed,Laver,9,0
+2015,seaweed,Sea mustard,9,26
+2015,seaweed,Sea tangle,9,0
+2015,seaweed,Sea lettuce,9,0
+2015,seaweed,Seaweed fusiforme,9,0
+2015,seaweed,Gulf weed,9,0
+2015,seaweed,Other seaweeds,9,0
+2015,shellfish,Oysters,9,0
+2015,shellfish,Broughton's ribbed ark,9,0
+2015,shellfish,Japanese littleneck,9,0
+2015,shellfish,Cockle,9,0
+2015,shellfish,Chinese cyclina,9,0
+2015,shellfish,Ark shell,9,0
+2015,shellfish,Venus clam,9,0
+2015,shellfish,Mussels,9,2
+2015,shellfish,Scallops,9,0
+2015,shellfish,Abalones nei,9,29
+2015,shellfish,Sunray surf clam,9,0
+2015,shellfish,Surf clam,9,0
+2015,shellfish,Shellfish,9,0
+2015,fish,Fish,9,61
+2015,fish,Shrimp,9,0
+2015,fish,Korean common sea squint,9,254
+2015,fish,Sea cucumber,9,0
+2015,fish,Wart sea squint,9,0
+2015,fish,others,9,2781
+2015,fishery,Village fishery,9,6211
+2015,fishery,Fixed shore net fishing,9,2338
+2016,seaweed,Laver,9,0
+2016,seaweed,Sea mustard,9,75
+2016,seaweed,Sea tangle,9,0
+2016,seaweed,Sea lettuce,9,0
+2016,seaweed,Seaweed fusiforme,9,0
+2016,seaweed,Gulf weed,9,0
+2016,seaweed,Other seaweeds,9,0
+2016,shellfish,Oysters,9,0
+2016,shellfish,Broughton's ribbed ark,9,0
+2016,shellfish,Japanese littleneck,9,0
+2016,shellfish,Cockle,9,0
+2016,shellfish,Chinese cyclina,9,0
+2016,shellfish,Ark shell,9,0
+2016,shellfish,Venus clam,9,0
+2016,shellfish,Mussels,9,2
+2016,shellfish,Scallops,9,0
+2016,shellfish,Abalones nei,9,34
+2016,shellfish,Sunray surf clam,9,0
+2016,shellfish,Surf clam,9,0
+2016,shellfish,Shellfish,9,20
+2016,fish,Fish,9,63
+2016,fish,Shrimp,9,0
+2016,fish,Korean common sea squint,9,765
+2016,fish,Sea cucumber,9,0
+2016,fish,Wart sea squint,9,0
+2016,fish,others,9,2228
+2016,fishery,Village fishery,9,5519
+2016,fishery,Fixed shore net fishing,9,2272
+2011,seaweed,Laver,10,0
+2011,seaweed,Sea mustard,10,117
+2011,seaweed,Sea tangle,10,0
+2011,seaweed,Sea lettuce,10,0
+2011,seaweed,Seaweed fusiforme,10,0
+2011,seaweed,Gulf weed,10,0
+2011,seaweed,Other seaweeds,10,0
+2011,shellfish,Oysters,10,3549
+2011,shellfish,Broughton's ribbed ark,10,3883
+2011,shellfish,Japanese littleneck,10,922
+2011,shellfish,Cockle,10,26
+2011,shellfish,Chinese cyclina,10,NA
+2011,shellfish,Ark shell,10,312
+2011,shellfish,Venus clam,10,NA
+2011,shellfish,Mussels,10,386
+2011,shellfish,Scallops,10,57
+2011,shellfish,Abalones nei,10,338
+2011,shellfish,Sunray surf clam,10,24
+2011,shellfish,Surf clam,10,NA
+2011,shellfish,Shellfish,10,73
+2011,fish,Fish,10,372
+2011,fish,Shrimp,10,30
+2011,fish,Korean common sea squint,10,671
+2011,fish,Sea cucumber,10,220
+2011,fish,Wart sea squint,10,548
+2011,fish,others,10,NA
+2011,fishery,Village fishery,10,18318
+2011,fishery,Fixed shore net fishing,10,1683
+2012,seaweed,Laver,10,0
+2012,seaweed,Sea mustard,10,156
+2012,seaweed,Sea tangle,10,0
+2012,seaweed,Sea lettuce,10,0
+2012,seaweed,Seaweed fusiforme,10,0
+2012,seaweed,Gulf weed,10,0
+2012,seaweed,Other seaweeds,10,0
+2012,shellfish,Oysters,10,3545
+2012,shellfish,Broughton's ribbed ark,10,3851
+2012,shellfish,Japanese littleneck,10,953
+2012,shellfish,Cockle,10,26
+2012,shellfish,Chinese cyclina,10,0
+2012,shellfish,Ark shell,10,339
+2012,shellfish,Venus clam,10,0
+2012,shellfish,Mussels,10,385
+2012,shellfish,Scallops,10,64
+2012,shellfish,Abalones nei,10,226
+2012,shellfish,Sunray surf clam,10,0
+2012,shellfish,Surf clam,10,0
+2012,shellfish,Shellfish,10,421
+2012,fish,Fish,10,372
+2012,fish,Shrimp,10,30
+2012,fish,Korean common sea squint,10,674
+2012,fish,Sea cucumber,10,1
+2012,fish,Wart sea squint,10,524
+2012,fish,others,10,0
+2012,fishery,Village fishery,10,18332
+2012,fishery,Fixed shore net fishing,10,1682
+2013,seaweed,Laver,10,0
+2013,seaweed,Sea mustard,10,177
+2013,seaweed,Sea tangle,10,0
+2013,seaweed,Sea lettuce,10,0
+2013,seaweed,Seaweed fusiforme,10,0
+2013,seaweed,Gulf weed,10,0
+2013,seaweed,Other seaweeds,10,0
+2013,shellfish,Oysters,10,3528
+2013,shellfish,Broughton's ribbed ark,10,3827
+2013,shellfish,Japanese littleneck,10,953
+2013,shellfish,Cockle,10,26
+2013,shellfish,Chinese cyclina,10,0
+2013,shellfish,Ark shell,10,339
+2013,shellfish,Venus clam,10,0
+2013,shellfish,Mussels,10,385
+2013,shellfish,Scallops,10,60
+2013,shellfish,Abalones nei,10,224
+2013,shellfish,Sunray surf clam,10,0
+2013,shellfish,Surf clam,10,0
+2013,shellfish,Shellfish,10,468
+2013,fish,Fish,10,365
+2013,fish,Shrimp,10,30
+2013,fish,Korean common sea squint,10,674
+2013,fish,Sea cucumber,10,1
+2013,fish,Wart sea squint,10,520
+2013,fish,others,10,0
+2013,fishery,Village fishery,10,17914
+2013,fishery,Fixed shore net fishing,10,1682
+2014,seaweed,Laver,10,0
+2014,seaweed,Sea mustard,10,224
+2014,seaweed,Sea tangle,10,0
+2014,seaweed,Sea lettuce,10,0
+2014,seaweed,Seaweed fusiforme,10,0
+2014,seaweed,Gulf weed,10,0
+2014,seaweed,Other seaweeds,10,0
+2014,shellfish,Oysters,10,3518
+2014,shellfish,Broughton's ribbed ark,10,3537
+2014,shellfish,Japanese littleneck,10,940
+2014,shellfish,Cockle,10,12
+2014,shellfish,Chinese cyclina,10,0
+2014,shellfish,Ark shell,10,632
+2014,shellfish,Venus clam,10,0
+2014,shellfish,Mussels,10,385
+2014,shellfish,Scallops,10,56
+2014,shellfish,Abalones nei,10,221
+2014,shellfish,Sunray surf clam,10,0
+2014,shellfish,Surf clam,10,0
+2014,shellfish,Shellfish,10,481
+2014,fish,Fish,10,354
+2014,fish,Shrimp,10,30
+2014,fish,Korean common sea squint,10,674
+2014,fish,Sea cucumber,10,1
+2014,fish,Wart sea squint,10,520
+2014,fish,others,10,9
+2014,fishery,Village fishery,10,17914
+2014,fishery,Fixed shore net fishing,10,1682
+2015,seaweed,Laver,10,0
+2015,seaweed,Sea mustard,10,251
+2015,seaweed,Sea tangle,10,0
+2015,seaweed,Sea lettuce,10,0
+2015,seaweed,Seaweed fusiforme,10,0
+2015,seaweed,Gulf weed,10,0
+2015,seaweed,Other seaweeds,10,0
+2015,shellfish,Oysters,10,3520
+2015,shellfish,Broughton's ribbed ark,10,3544
+2015,shellfish,Japanese littleneck,10,956
+2015,shellfish,Cockle,10,12
+2015,shellfish,Chinese cyclina,10,0
+2015,shellfish,Ark shell,10,687
+2015,shellfish,Venus clam,10,0
+2015,shellfish,Mussels,10,399
+2015,shellfish,Scallops,10,53
+2015,shellfish,Abalones nei,10,229
+2015,shellfish,Sunray surf clam,10,0
+2015,shellfish,Surf clam,10,0
+2015,shellfish,Shellfish,10,495
+2015,fish,Fish,10,337
+2015,fish,Shrimp,10,30
+2015,fish,Korean common sea squint,10,670
+2015,fish,Sea cucumber,10,1
+2015,fish,Wart sea squint,10,520
+2015,fish,others,10,0
+2015,fishery,Village fishery,10,17538
+2015,fishery,Fixed shore net fishing,10,1660
+2016,seaweed,Laver,10,0
+2016,seaweed,Sea mustard,10,244
+2016,seaweed,Sea tangle,10,0
+2016,seaweed,Sea lettuce,10,0
+2016,seaweed,Seaweed fusiforme,10,0
+2016,seaweed,Gulf weed,10,0
+2016,seaweed,Other seaweeds,10,18
+2016,shellfish,Oysters,10,3484
+2016,shellfish,Broughton's ribbed ark,10,3505
+2016,shellfish,Japanese littleneck,10,939
+2016,shellfish,Cockle,10,12
+2016,shellfish,Chinese cyclina,10,28
+2016,shellfish,Ark shell,10,677
+2016,shellfish,Venus clam,10,0
+2016,shellfish,Mussels,10,398
+2016,shellfish,Scallops,10,50
+2016,shellfish,Abalones nei,10,269
+2016,shellfish,Sunray surf clam,10,0
+2016,shellfish,Surf clam,10,0
+2016,shellfish,Shellfish,10,458
+2016,fish,Fish,10,335
+2016,fish,Shrimp,10,30
+2016,fish,Korean common sea squint,10,668
+2016,fish,Sea cucumber,10,1
+2016,fish,Wart sea squint,10,520
+2016,fish,others,10,0
+2016,fishery,Village fishery,10,17563
+2016,fishery,Fixed shore net fishing,10,1649
+2011,seaweed,Laver,11,NA
+2011,seaweed,Sea mustard,11,NA
+2011,seaweed,Sea tangle,11,3
+2011,seaweed,Sea lettuce,11,NA
+2011,seaweed,Seaweed fusiforme,11,NA
+2011,seaweed,Gulf weed,11,NA
+2011,seaweed,Other seaweeds,11,NA
+2011,shellfish,Oysters,11,NA
+2011,shellfish,Broughton's ribbed ark,11,NA
+2011,shellfish,Japanese littleneck,11,27
+2011,shellfish,Cockle,11,NA
+2011,shellfish,Chinese cyclina,11,NA
+2011,shellfish,Ark shell,11,NA
+2011,shellfish,Venus clam,11,NA
+2011,shellfish,Mussels,11,NA
+2011,shellfish,Scallops,11,NA
+2011,shellfish,Abalones nei,11,33
+2011,shellfish,Sunray surf clam,11,NA
+2011,shellfish,Surf clam,11,NA
+2011,shellfish,Shellfish,11,907
+2011,fish,Fish,11,18
+2011,fish,Shrimp,11,NA
+2011,fish,Korean common sea squint,11,NA
+2011,fish,Sea cucumber,11,24
+2011,fish,Wart sea squint,11,NA
+2011,fish,others,11,2
+2011,fishery,Village fishery,11,14346
+2011,fishery,Fixed shore net fishing,11,130
+2012,seaweed,Laver,11,0
+2012,seaweed,Sea mustard,11,0
+2012,seaweed,Sea tangle,11,3
+2012,seaweed,Sea lettuce,11,0
+2012,seaweed,Seaweed fusiforme,11,0
+2012,seaweed,Gulf weed,11,0
+2012,seaweed,Other seaweeds,11,0
+2012,shellfish,Oysters,11,0
+2012,shellfish,Broughton's ribbed ark,11,0
+2012,shellfish,Japanese littleneck,11,27
+2012,shellfish,Cockle,11,0
+2012,shellfish,Chinese cyclina,11,0
+2012,shellfish,Ark shell,11,0
+2012,shellfish,Venus clam,11,0
+2012,shellfish,Mussels,11,0
+2012,shellfish,Scallops,11,0
+2012,shellfish,Abalones nei,11,9
+2012,shellfish,Sunray surf clam,11,0
+2012,shellfish,Surf clam,11,0
+2012,shellfish,Shellfish,11,0
+2012,fish,Fish,11,38
+2012,fish,Shrimp,11,0
+2012,fish,Korean common sea squint,11,0
+2012,fish,Sea cucumber,11,24
+2012,fish,Wart sea squint,11,0
+2012,fish,others,11,924
+2012,fishery,Village fishery,11,14346
+2012,fishery,Fixed shore net fishing,11,130
+2013,seaweed,Laver,11,0
+2013,seaweed,Sea mustard,11,0
+2013,seaweed,Sea tangle,11,3
+2013,seaweed,Sea lettuce,11,0
+2013,seaweed,Seaweed fusiforme,11,0
+2013,seaweed,Gulf weed,11,0
+2013,seaweed,Other seaweeds,11,0
+2013,shellfish,Oysters,11,0
+2013,shellfish,Broughton's ribbed ark,11,0
+2013,shellfish,Japanese littleneck,11,27
+2013,shellfish,Cockle,11,0
+2013,shellfish,Chinese cyclina,11,0
+2013,shellfish,Ark shell,11,0
+2013,shellfish,Venus clam,11,0
+2013,shellfish,Mussels,11,5
+2013,shellfish,Scallops,11,0
+2013,shellfish,Abalones nei,11,526
+2013,shellfish,Sunray surf clam,11,0
+2013,shellfish,Surf clam,11,0
+2013,shellfish,Shellfish,11,407
+2013,fish,Fish,11,32
+2013,fish,Shrimp,11,0
+2013,fish,Korean common sea squint,11,13
+2013,fish,Sea cucumber,11,34
+2013,fish,Wart sea squint,11,0
+2013,fish,others,11,0
+2013,fishery,Village fishery,11,14431
+2013,fishery,Fixed shore net fishing,11,127
+2014,seaweed,Laver,11,0
+2014,seaweed,Sea mustard,11,0
+2014,seaweed,Sea tangle,11,3
+2014,seaweed,Sea lettuce,11,0
+2014,seaweed,Seaweed fusiforme,11,0
+2014,seaweed,Gulf weed,11,0
+2014,seaweed,Other seaweeds,11,0
+2014,shellfish,Oysters,11,0
+2014,shellfish,Broughton's ribbed ark,11,0
+2014,shellfish,Japanese littleneck,11,27
+2014,shellfish,Cockle,11,0
+2014,shellfish,Chinese cyclina,11,0
+2014,shellfish,Ark shell,11,0
+2014,shellfish,Venus clam,11,0
+2014,shellfish,Mussels,11,5
+2014,shellfish,Scallops,11,0
+2014,shellfish,Abalones nei,11,522
+2014,shellfish,Sunray surf clam,11,0
+2014,shellfish,Surf clam,11,0
+2014,shellfish,Shellfish,11,4
+2014,fish,Fish,11,39
+2014,fish,Shrimp,11,0
+2014,fish,Korean common sea squint,11,13
+2014,fish,Sea cucumber,11,34
+2014,fish,Wart sea squint,11,0
+2014,fish,others,11,0
+2014,fishery,Village fishery,11,14431
+2014,fishery,Fixed shore net fishing,11,127
+2015,seaweed,Laver,11,0
+2015,seaweed,Sea mustard,11,0
+2015,seaweed,Sea tangle,11,3
+2015,seaweed,Sea lettuce,11,0
+2015,seaweed,Seaweed fusiforme,11,0
+2015,seaweed,Gulf weed,11,0
+2015,seaweed,Other seaweeds,11,0
+2015,shellfish,Oysters,11,0
+2015,shellfish,Broughton's ribbed ark,11,0
+2015,shellfish,Japanese littleneck,11,27
+2015,shellfish,Cockle,11,0
+2015,shellfish,Chinese cyclina,11,0
+2015,shellfish,Ark shell,11,0
+2015,shellfish,Venus clam,11,0
+2015,shellfish,Mussels,11,5
+2015,shellfish,Scallops,11,0
+2015,shellfish,Abalones nei,11,522
+2015,shellfish,Sunray surf clam,11,0
+2015,shellfish,Surf clam,11,0
+2015,shellfish,Shellfish,11,4
+2015,fish,Fish,11,39
+2015,fish,Shrimp,11,0
+2015,fish,Korean common sea squint,11,37
+2015,fish,Sea cucumber,11,34
+2015,fish,Wart sea squint,11,0
+2015,fish,others,11,0
+2015,fishery,Village fishery,11,14314
+2015,fishery,Fixed shore net fishing,11,124
+2016,seaweed,Laver,11,0
+2016,seaweed,Sea mustard,11,0
+2016,seaweed,Sea tangle,11,3
+2016,seaweed,Sea lettuce,11,0
+2016,seaweed,Seaweed fusiforme,11,0
+2016,seaweed,Gulf weed,11,0
+2016,seaweed,Other seaweeds,11,0
+2016,shellfish,Oysters,11,0
+2016,shellfish,Broughton's ribbed ark,11,0
+2016,shellfish,Japanese littleneck,11,27
+2016,shellfish,Cockle,11,0
+2016,shellfish,Chinese cyclina,11,0
+2016,shellfish,Ark shell,11,0
+2016,shellfish,Venus clam,11,0
+2016,shellfish,Mussels,11,5
+2016,shellfish,Scallops,11,0
+2016,shellfish,Abalones nei,11,522
+2016,shellfish,Sunray surf clam,11,0
+2016,shellfish,Surf clam,11,0
+2016,shellfish,Shellfish,11,4
+2016,fish,Fish,11,79
+2016,fish,Shrimp,11,0
+2016,fish,Korean common sea squint,11,53
+2016,fish,Sea cucumber,11,34
+2016,fish,Wart sea squint,11,0
+2016,fish,others,11,0
+2016,fishery,Village fishery,11,14323
+2016,fishery,Fixed shore net fishing,11,118
