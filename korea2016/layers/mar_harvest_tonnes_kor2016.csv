@@ -65,14 +65,14 @@ rgn_id,category,name,year,tonnes
 1,seaweed,Sea mustard,2016,8757
 1,seaweed,Sea staghorn,2009,599
 1,seaweed,Sea staghorn,2010,375
-1,seaweed,Sea tangle,2009,11262
-1,seaweed,Sea tangle,2010,27992
-1,seaweed,Sea tangle,2011,13488
-1,seaweed,Sea tangle,2012,7130
-1,seaweed,Sea tangle,2013,9655
-1,seaweed,Sea tangle,2014,9806
-1,seaweed,Sea tangle,2015,8686
-1,seaweed,Sea tangle,2016,7720
+1,other fisheries animals,Sea tangle,2009,11262
+1,other fisheries animals,Sea tangle,2010,27992
+1,other fisheries animals,Sea tangle,2011,13488
+1,other fisheries animals,Sea tangle,2012,7130
+1,other fisheries animals,Sea tangle,2013,9655
+1,other fisheries animals,Sea tangle,2014,9806
+1,other fisheries animals,Sea tangle,2015,8686
+1,other fisheries animals,Sea tangle,2016,7720
 1,shellfish,Abalones nei,2009,65
 1,shellfish,Abalones nei,2012,1
 1,shellfish,Abalones nei,2013,2
@@ -139,13 +139,13 @@ rgn_id,category,name,year,tonnes
 2,seaweed,Laver,2016,2740
 2,seaweed,Sea mustard,2011,2
 2,seaweed,Sea mustard,2016,15
-2,seaweed,Sea tangle,2009,4
-2,seaweed,Sea tangle,2010,102
-2,seaweed,Sea tangle,2011,5
-2,seaweed,Sea tangle,2012,2
-2,seaweed,Sea tangle,2013,2
-2,seaweed,Sea tangle,2015,5
-2,seaweed,Sea tangle,2016,10
+2,other fisheries animals,Sea tangle,2009,4
+2,other fisheries animals,Sea tangle,2010,102
+2,other fisheries animals,Sea tangle,2011,5
+2,other fisheries animals,Sea tangle,2012,2
+2,other fisheries animals,Sea tangle,2013,2
+2,other fisheries animals,Sea tangle,2015,5
+2,other fisheries animals,Sea tangle,2016,10
 2,shellfish,Abalones nei,2010,1
 2,shellfish,Chinese cyclina,2011,8
 2,shellfish,Japanese littleneck,2009,296
@@ -193,14 +193,14 @@ rgn_id,category,name,year,tonnes
 3,seaweed,Sea mustard,2014,3697
 3,seaweed,Sea mustard,2015,4720
 3,seaweed,Sea mustard,2016,4621
-3,seaweed,Sea tangle,2009,416
-3,seaweed,Sea tangle,2010,416
-3,seaweed,Sea tangle,2011,222
-3,seaweed,Sea tangle,2012,132
-3,seaweed,Sea tangle,2013,650
-3,seaweed,Sea tangle,2014,595
-3,seaweed,Sea tangle,2015,1140
-3,seaweed,Sea tangle,2016,965
+3,other fisheries animals,Sea tangle,2009,416
+3,other fisheries animals,Sea tangle,2010,416
+3,other fisheries animals,Sea tangle,2011,222
+3,other fisheries animals,Sea tangle,2012,132
+3,other fisheries animals,Sea tangle,2013,650
+3,other fisheries animals,Sea tangle,2014,595
+3,other fisheries animals,Sea tangle,2015,1140
+3,other fisheries animals,Sea tangle,2016,965
 3,shellfish,Abalones nei,2013,32
 3,shellfish,Abalones nei,2014,35
 3,shellfish,Abalones nei,2015,38
@@ -278,13 +278,13 @@ rgn_id,category,name,year,tonnes
 5,seaweed,Sea mustard,2014,148
 5,seaweed,Sea mustard,2015,184
 5,seaweed,Sea mustard,2016,169
-5,seaweed,Sea tangle,2009,3
-5,seaweed,Sea tangle,2010,3
-5,seaweed,Sea tangle,2012,10
-5,seaweed,Sea tangle,2013,2
-5,seaweed,Sea tangle,2014,3
-5,seaweed,Sea tangle,2015,1
-5,seaweed,Sea tangle,2016,2
+5,other fisheries animals,Sea tangle,2009,3
+5,other fisheries animals,Sea tangle,2010,3
+5,other fisheries animals,Sea tangle,2012,10
+5,other fisheries animals,Sea tangle,2013,2
+5,other fisheries animals,Sea tangle,2014,3
+5,other fisheries animals,Sea tangle,2015,1
+5,other fisheries animals,Sea tangle,2016,2
 5,shellfish,Abalones nei,2011,1
 5,shellfish,Abalones nei,2012,1
 5,shellfish,Abalones nei,2013,1
@@ -381,14 +381,14 @@ rgn_id,category,name,year,tonnes
 6,seaweed,Sea mustard,2014,3248
 6,seaweed,Sea mustard,2015,2613
 6,seaweed,Sea mustard,2016,1379
-6,seaweed,Sea tangle,2009,1578
-6,seaweed,Sea tangle,2010,981
-6,seaweed,Sea tangle,2011,758
-6,seaweed,Sea tangle,2012,2216
-6,seaweed,Sea tangle,2013,1023
-6,seaweed,Sea tangle,2014,2190
-6,seaweed,Sea tangle,2015,2292
-6,seaweed,Sea tangle,2016,2514
+6,other fisheries animals,Sea tangle,2009,1578
+6,other fisheries animals,Sea tangle,2010,981
+6,other fisheries animals,Sea tangle,2011,758
+6,other fisheries animals,Sea tangle,2012,2216
+6,other fisheries animals,Sea tangle,2013,1023
+6,other fisheries animals,Sea tangle,2014,2190
+6,other fisheries animals,Sea tangle,2015,2292
+6,other fisheries animals,Sea tangle,2016,2514
 6,shellfish,Abalones nei,2009,26
 6,shellfish,Abalones nei,2010,10
 6,shellfish,Abalones nei,2011,6
@@ -655,14 +655,14 @@ rgn_id,category,name,year,tonnes
 8,seaweed,Sea staghorn,2016,4279
 8,seaweed,Sea string,2015,4
 8,seaweed,Sea string,2016,24
-8,seaweed,Sea tangle,2009,299732
-8,seaweed,Sea tangle,2010,232172
-8,seaweed,Sea tangle,2011,231785
-8,seaweed,Sea tangle,2012,298734
-8,seaweed,Sea tangle,2013,361733
-8,seaweed,Sea tangle,2014,359440
-8,seaweed,Sea tangle,2015,430114
-8,seaweed,Sea tangle,2016,385528
+8,other fisheries animals,Sea tangle,2009,299732
+8,other fisheries animals,Sea tangle,2010,232172
+8,other fisheries animals,Sea tangle,2011,231785
+8,other fisheries animals,Sea tangle,2012,298734
+8,other fisheries animals,Sea tangle,2013,361733
+8,other fisheries animals,Sea tangle,2014,359440
+8,other fisheries animals,Sea tangle,2015,430114
+8,other fisheries animals,Sea tangle,2016,385528
 8,seaweed,Seaweed fulvescens,2009,2819
 8,seaweed,Seaweed fulvescens,2010,1759
 8,seaweed,Seaweed fulvescens,2011,2179
@@ -810,14 +810,14 @@ rgn_id,category,name,year,tonnes
 9,seaweed,Sea mustard,2014,667
 9,seaweed,Sea mustard,2015,910
 9,seaweed,Sea mustard,2016,969
-9,seaweed,Sea tangle,2009,98
-9,seaweed,Sea tangle,2010,222
-9,seaweed,Sea tangle,2011,377
-9,seaweed,Sea tangle,2012,314
-9,seaweed,Sea tangle,2013,182
-9,seaweed,Sea tangle,2014,143
-9,seaweed,Sea tangle,2015,95
-9,seaweed,Sea tangle,2016,130
+9,other fisheries animals,Sea tangle,2009,98
+9,other fisheries animals,Sea tangle,2010,222
+9,other fisheries animals,Sea tangle,2011,377
+9,other fisheries animals,Sea tangle,2012,314
+9,other fisheries animals,Sea tangle,2013,182
+9,other fisheries animals,Sea tangle,2014,143
+9,other fisheries animals,Sea tangle,2015,95
+9,other fisheries animals,Sea tangle,2016,130
 9,shellfish,Abalones nei,2011,2
 9,shellfish,Abalones nei,2012,47
 9,shellfish,Abalones nei,2013,61
@@ -1020,13 +1020,13 @@ rgn_id,category,name,year,tonnes
 10,seaweed,Sea mustard,2014,1573
 10,seaweed,Sea mustard,2015,1560
 10,seaweed,Sea mustard,2016,2043
-10,seaweed,Sea tangle,2010,4
-10,seaweed,Sea tangle,2011,66
-10,seaweed,Sea tangle,2012,63
-10,seaweed,Sea tangle,2013,16
-10,seaweed,Sea tangle,2014,133
-10,seaweed,Sea tangle,2015,305
-10,seaweed,Sea tangle,2016,983
+10,other fisheries animals,Sea tangle,2010,4
+10,other fisheries animals,Sea tangle,2011,66
+10,other fisheries animals,Sea tangle,2012,63
+10,other fisheries animals,Sea tangle,2013,16
+10,other fisheries animals,Sea tangle,2014,133
+10,other fisheries animals,Sea tangle,2015,305
+10,other fisheries animals,Sea tangle,2016,983
 10,shellfish,Abalones nei,2009,13
 10,shellfish,Abalones nei,2010,17
 10,shellfish,Abalones nei,2011,17
