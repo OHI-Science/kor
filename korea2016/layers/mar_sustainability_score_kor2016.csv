@@ -1,0 +1,617 @@
+rgn_id,name,sust_coeff
+1,Convict grouper,0.52
+1,Mullets,0.58
+1,Black seabream,0.444010417
+1,Chub mackerel,0.444010417
+1,Seabreams,0.444010417
+1,Rockfishes,0.444010417
+1,Bastard halibut,0.444010417
+1,Temperate basses,0.444010417
+1,Amberjacks,0.444010417
+1,Scorpionfish,0.444010417
+1,Dotted gizzard shad,0.444010417
+1,Korean rockfish,0.444010417
+1,Filefishes,0.444010417
+1,Red seabream,0.444010417
+1,Flounders,0.444010417
+1,Greenlings,0.444010417
+1,Barred knifejaw,0.444010417
+1,Mi-iuy croaker,0.444010417
+1,Pufferfishes,0.444010417
+1,Rainbow trout,0.444010417
+1,Chum salmon,0.444010417
+1,Jacks,0.444010417
+1,Pacific bluefin tuna,0.444010417
+1,Small yellow croaker,0.444010417
+1,Oysters,0.65
+1,Cockle,0.7
+1,Abalones nei,0.5
+1,Scallops,0.833333333
+1,Japanese littleneck,0.841666667
+1,Mussels,0.8
+1,Chinese cyclina,0.811764706
+1,Sunray surf clam,0.811764706
+1,Shellfish,0.811764706
+1,Surf clam,0.811764706
+1,Venus clam,0.811764706
+1,Ark shell,0.811764706
+1,Egg cockle,0.811764706
+1,Korean common penshell,0.811764706
+1,Broughton's ribbed ark,0.811764706
+1,Laver,0.7
+1,Other seaweeds,0.7
+1,Sea string,0.7
+1,Seaweed fulvescens,0.7
+1,Gulf weed,0.7
+1,Sea mustard,0.7
+1,Sea staghorn,0.7
+1,Seaweed fusiforme,0.7
+1,Sea lettuce,0.7
+1,Fleshy prawn,0.366666667
+1,White leg shrimp,0.374509804
+1,Wrinkled sea squirt,0.6
+1,Other fisheries animals,0.533333333
+1,Wart sea squint,0.533333333
+1,Sea tangle,0.533333333
+1,Korean common sea squint,0.533333333
+1,Sea cucumber,0.533333333
+2,Convict grouper,0.52
+2,Mullets,0.58
+2,Black seabream,0.444010417
+2,Chub mackerel,0.444010417
+2,Seabreams,0.444010417
+2,Rockfishes,0.444010417
+2,Bastard halibut,0.444010417
+2,Temperate basses,0.444010417
+2,Amberjacks,0.444010417
+2,Scorpionfish,0.444010417
+2,Dotted gizzard shad,0.444010417
+2,Korean rockfish,0.444010417
+2,Filefishes,0.444010417
+2,Red seabream,0.444010417
+2,Flounders,0.444010417
+2,Greenlings,0.444010417
+2,Barred knifejaw,0.444010417
+2,Mi-iuy croaker,0.444010417
+2,Pufferfishes,0.444010417
+2,Rainbow trout,0.444010417
+2,Chum salmon,0.444010417
+2,Jacks,0.444010417
+2,Pacific bluefin tuna,0.444010417
+2,Small yellow croaker,0.444010417
+2,Oysters,0.65
+2,Cockle,0.7
+2,Abalones nei,0.5
+2,Scallops,0.833333333
+2,Japanese littleneck,0.841666667
+2,Mussels,0.8
+2,Chinese cyclina,0.811764706
+2,Sunray surf clam,0.811764706
+2,Shellfish,0.811764706
+2,Surf clam,0.811764706
+2,Venus clam,0.811764706
+2,Ark shell,0.811764706
+2,Egg cockle,0.811764706
+2,Korean common penshell,0.811764706
+2,Broughton's ribbed ark,0.811764706
+2,Laver,0.7
+2,Other seaweeds,0.7
+2,Sea string,0.7
+2,Seaweed fulvescens,0.7
+2,Gulf weed,0.7
+2,Sea mustard,0.7
+2,Sea staghorn,0.7
+2,Seaweed fusiforme,0.7
+2,Sea lettuce,0.7
+2,Fleshy prawn,0.366666667
+2,White leg shrimp,0.374509804
+2,Wrinkled sea squirt,0.6
+2,Other fisheries animals,0.533333333
+2,Wart sea squint,0.533333333
+2,Sea tangle,0.533333333
+2,Korean common sea squint,0.533333333
+2,Sea cucumber,0.533333333
+3,Convict grouper,0.52
+3,Mullets,0.58
+3,Black seabream,0.444010417
+3,Chub mackerel,0.444010417
+3,Seabreams,0.444010417
+3,Rockfishes,0.444010417
+3,Bastard halibut,0.444010417
+3,Temperate basses,0.444010417
+3,Amberjacks,0.444010417
+3,Scorpionfish,0.444010417
+3,Dotted gizzard shad,0.444010417
+3,Korean rockfish,0.444010417
+3,Filefishes,0.444010417
+3,Red seabream,0.444010417
+3,Flounders,0.444010417
+3,Greenlings,0.444010417
+3,Barred knifejaw,0.444010417
+3,Mi-iuy croaker,0.444010417
+3,Pufferfishes,0.444010417
+3,Rainbow trout,0.444010417
+3,Chum salmon,0.444010417
+3,Jacks,0.444010417
+3,Pacific bluefin tuna,0.444010417
+3,Small yellow croaker,0.444010417
+3,Oysters,0.65
+3,Cockle,0.7
+3,Abalones nei,0.5
+3,Scallops,0.833333333
+3,Japanese littleneck,0.841666667
+3,Mussels,0.8
+3,Chinese cyclina,0.811764706
+3,Sunray surf clam,0.811764706
+3,Shellfish,0.811764706
+3,Surf clam,0.811764706
+3,Venus clam,0.811764706
+3,Ark shell,0.811764706
+3,Egg cockle,0.811764706
+3,Korean common penshell,0.811764706
+3,Broughton's ribbed ark,0.811764706
+3,Laver,0.7
+3,Other seaweeds,0.7
+3,Sea string,0.7
+3,Seaweed fulvescens,0.7
+3,Gulf weed,0.7
+3,Sea mustard,0.7
+3,Sea staghorn,0.7
+3,Seaweed fusiforme,0.7
+3,Sea lettuce,0.7
+3,Fleshy prawn,0.366666667
+3,White leg shrimp,0.374509804
+3,Wrinkled sea squirt,0.6
+3,Other fisheries animals,0.533333333
+3,Wart sea squint,0.533333333
+3,Sea tangle,0.533333333
+3,Korean common sea squint,0.533333333
+3,Sea cucumber,0.533333333
+4,Convict grouper,0.52
+4,Mullets,0.58
+4,Black seabream,0.444010417
+4,Chub mackerel,0.444010417
+4,Seabreams,0.444010417
+4,Rockfishes,0.444010417
+4,Bastard halibut,0.444010417
+4,Temperate basses,0.444010417
+4,Amberjacks,0.444010417
+4,Scorpionfish,0.444010417
+4,Dotted gizzard shad,0.444010417
+4,Korean rockfish,0.444010417
+4,Filefishes,0.444010417
+4,Red seabream,0.444010417
+4,Flounders,0.444010417
+4,Greenlings,0.444010417
+4,Barred knifejaw,0.444010417
+4,Mi-iuy croaker,0.444010417
+4,Pufferfishes,0.444010417
+4,Rainbow trout,0.444010417
+4,Chum salmon,0.444010417
+4,Jacks,0.444010417
+4,Pacific bluefin tuna,0.444010417
+4,Small yellow croaker,0.444010417
+4,Oysters,0.65
+4,Cockle,0.7
+4,Abalones nei,0.5
+4,Scallops,0.833333333
+4,Japanese littleneck,0.841666667
+4,Mussels,0.8
+4,Chinese cyclina,0.811764706
+4,Sunray surf clam,0.811764706
+4,Shellfish,0.811764706
+4,Surf clam,0.811764706
+4,Venus clam,0.811764706
+4,Ark shell,0.811764706
+4,Egg cockle,0.811764706
+4,Korean common penshell,0.811764706
+4,Broughton's ribbed ark,0.811764706
+4,Laver,0.7
+4,Other seaweeds,0.7
+4,Sea string,0.7
+4,Seaweed fulvescens,0.7
+4,Gulf weed,0.7
+4,Sea mustard,0.7
+4,Sea staghorn,0.7
+4,Seaweed fusiforme,0.7
+4,Sea lettuce,0.7
+4,Fleshy prawn,0.366666667
+4,White leg shrimp,0.374509804
+4,Wrinkled sea squirt,0.6
+4,Other fisheries animals,0.533333333
+4,Wart sea squint,0.533333333
+4,Sea tangle,0.533333333
+4,Korean common sea squint,0.533333333
+4,Sea cucumber,0.533333333
+5,Convict grouper,0.52
+5,Mullets,0.58
+5,Black seabream,0.444010417
+5,Chub mackerel,0.444010417
+5,Seabreams,0.444010417
+5,Rockfishes,0.444010417
+5,Bastard halibut,0.444010417
+5,Temperate basses,0.444010417
+5,Amberjacks,0.444010417
+5,Scorpionfish,0.444010417
+5,Dotted gizzard shad,0.444010417
+5,Korean rockfish,0.444010417
+5,Filefishes,0.444010417
+5,Red seabream,0.444010417
+5,Flounders,0.444010417
+5,Greenlings,0.444010417
+5,Barred knifejaw,0.444010417
+5,Mi-iuy croaker,0.444010417
+5,Pufferfishes,0.444010417
+5,Rainbow trout,0.444010417
+5,Chum salmon,0.444010417
+5,Jacks,0.444010417
+5,Pacific bluefin tuna,0.444010417
+5,Small yellow croaker,0.444010417
+5,Oysters,0.65
+5,Cockle,0.7
+5,Abalones nei,0.5
+5,Scallops,0.833333333
+5,Japanese littleneck,0.841666667
+5,Mussels,0.8
+5,Chinese cyclina,0.811764706
+5,Sunray surf clam,0.811764706
+5,Shellfish,0.811764706
+5,Surf clam,0.811764706
+5,Venus clam,0.811764706
+5,Ark shell,0.811764706
+5,Egg cockle,0.811764706
+5,Korean common penshell,0.811764706
+5,Broughton's ribbed ark,0.811764706
+5,Laver,0.7
+5,Other seaweeds,0.7
+5,Sea string,0.7
+5,Seaweed fulvescens,0.7
+5,Gulf weed,0.7
+5,Sea mustard,0.7
+5,Sea staghorn,0.7
+5,Seaweed fusiforme,0.7
+5,Sea lettuce,0.7
+5,Fleshy prawn,0.366666667
+5,White leg shrimp,0.374509804
+5,Wrinkled sea squirt,0.6
+5,Other fisheries animals,0.533333333
+5,Wart sea squint,0.533333333
+5,Sea tangle,0.533333333
+5,Korean common sea squint,0.533333333
+5,Sea cucumber,0.533333333
+6,Convict grouper,0.52
+6,Mullets,0.58
+6,Black seabream,0.444010417
+6,Chub mackerel,0.444010417
+6,Seabreams,0.444010417
+6,Rockfishes,0.444010417
+6,Bastard halibut,0.444010417
+6,Temperate basses,0.444010417
+6,Amberjacks,0.444010417
+6,Scorpionfish,0.444010417
+6,Dotted gizzard shad,0.444010417
+6,Korean rockfish,0.444010417
+6,Filefishes,0.444010417
+6,Red seabream,0.444010417
+6,Flounders,0.444010417
+6,Greenlings,0.444010417
+6,Barred knifejaw,0.444010417
+6,Mi-iuy croaker,0.444010417
+6,Pufferfishes,0.444010417
+6,Rainbow trout,0.444010417
+6,Chum salmon,0.444010417
+6,Jacks,0.444010417
+6,Pacific bluefin tuna,0.444010417
+6,Small yellow croaker,0.444010417
+6,Oysters,0.65
+6,Cockle,0.7
+6,Abalones nei,0.5
+6,Scallops,0.833333333
+6,Japanese littleneck,0.841666667
+6,Mussels,0.8
+6,Chinese cyclina,0.811764706
+6,Sunray surf clam,0.811764706
+6,Shellfish,0.811764706
+6,Surf clam,0.811764706
+6,Venus clam,0.811764706
+6,Ark shell,0.811764706
+6,Egg cockle,0.811764706
+6,Korean common penshell,0.811764706
+6,Broughton's ribbed ark,0.811764706
+6,Laver,0.7
+6,Other seaweeds,0.7
+6,Sea string,0.7
+6,Seaweed fulvescens,0.7
+6,Gulf weed,0.7
+6,Sea mustard,0.7
+6,Sea staghorn,0.7
+6,Seaweed fusiforme,0.7
+6,Sea lettuce,0.7
+6,Fleshy prawn,0.366666667
+6,White leg shrimp,0.374509804
+6,Wrinkled sea squirt,0.6
+6,Other fisheries animals,0.533333333
+6,Wart sea squint,0.533333333
+6,Sea tangle,0.533333333
+6,Korean common sea squint,0.533333333
+6,Sea cucumber,0.533333333
+7,Convict grouper,0.52
+7,Mullets,0.58
+7,Black seabream,0.444010417
+7,Chub mackerel,0.444010417
+7,Seabreams,0.444010417
+7,Rockfishes,0.444010417
+7,Bastard halibut,0.444010417
+7,Temperate basses,0.444010417
+7,Amberjacks,0.444010417
+7,Scorpionfish,0.444010417
+7,Dotted gizzard shad,0.444010417
+7,Korean rockfish,0.444010417
+7,Filefishes,0.444010417
+7,Red seabream,0.444010417
+7,Flounders,0.444010417
+7,Greenlings,0.444010417
+7,Barred knifejaw,0.444010417
+7,Mi-iuy croaker,0.444010417
+7,Pufferfishes,0.444010417
+7,Rainbow trout,0.444010417
+7,Chum salmon,0.444010417
+7,Jacks,0.444010417
+7,Pacific bluefin tuna,0.444010417
+7,Small yellow croaker,0.444010417
+7,Oysters,0.65
+7,Cockle,0.7
+7,Abalones nei,0.5
+7,Scallops,0.833333333
+7,Japanese littleneck,0.841666667
+7,Mussels,0.8
+7,Chinese cyclina,0.811764706
+7,Sunray surf clam,0.811764706
+7,Shellfish,0.811764706
+7,Surf clam,0.811764706
+7,Venus clam,0.811764706
+7,Ark shell,0.811764706
+7,Egg cockle,0.811764706
+7,Korean common penshell,0.811764706
+7,Broughton's ribbed ark,0.811764706
+7,Laver,0.7
+7,Other seaweeds,0.7
+7,Sea string,0.7
+7,Seaweed fulvescens,0.7
+7,Gulf weed,0.7
+7,Sea mustard,0.7
+7,Sea staghorn,0.7
+7,Seaweed fusiforme,0.7
+7,Sea lettuce,0.7
+7,Fleshy prawn,0.366666667
+7,White leg shrimp,0.374509804
+7,Wrinkled sea squirt,0.6
+7,Other fisheries animals,0.533333333
+7,Wart sea squint,0.533333333
+7,Sea tangle,0.533333333
+7,Korean common sea squint,0.533333333
+7,Sea cucumber,0.533333333
+8,Convict grouper,0.52
+8,Mullets,0.58
+8,Black seabream,0.444010417
+8,Chub mackerel,0.444010417
+8,Seabreams,0.444010417
+8,Rockfishes,0.444010417
+8,Bastard halibut,0.444010417
+8,Temperate basses,0.444010417
+8,Amberjacks,0.444010417
+8,Scorpionfish,0.444010417
+8,Dotted gizzard shad,0.444010417
+8,Korean rockfish,0.444010417
+8,Filefishes,0.444010417
+8,Red seabream,0.444010417
+8,Flounders,0.444010417
+8,Greenlings,0.444010417
+8,Barred knifejaw,0.444010417
+8,Mi-iuy croaker,0.444010417
+8,Pufferfishes,0.444010417
+8,Rainbow trout,0.444010417
+8,Chum salmon,0.444010417
+8,Jacks,0.444010417
+8,Pacific bluefin tuna,0.444010417
+8,Small yellow croaker,0.444010417
+8,Oysters,0.65
+8,Cockle,0.7
+8,Abalones nei,0.5
+8,Scallops,0.833333333
+8,Japanese littleneck,0.841666667
+8,Mussels,0.8
+8,Chinese cyclina,0.811764706
+8,Sunray surf clam,0.811764706
+8,Shellfish,0.811764706
+8,Surf clam,0.811764706
+8,Venus clam,0.811764706
+8,Ark shell,0.811764706
+8,Egg cockle,0.811764706
+8,Korean common penshell,0.811764706
+8,Broughton's ribbed ark,0.811764706
+8,Laver,0.7
+8,Other seaweeds,0.7
+8,Sea string,0.7
+8,Seaweed fulvescens,0.7
+8,Gulf weed,0.7
+8,Sea mustard,0.7
+8,Sea staghorn,0.7
+8,Seaweed fusiforme,0.7
+8,Sea lettuce,0.7
+8,Fleshy prawn,0.366666667
+8,White leg shrimp,0.374509804
+8,Wrinkled sea squirt,0.6
+8,Other fisheries animals,0.533333333
+8,Wart sea squint,0.533333333
+8,Sea tangle,0.533333333
+8,Korean common sea squint,0.533333333
+8,Sea cucumber,0.533333333
+9,Convict grouper,0.52
+9,Mullets,0.58
+9,Black seabream,0.444010417
+9,Chub mackerel,0.444010417
+9,Seabreams,0.444010417
+9,Rockfishes,0.444010417
+9,Bastard halibut,0.444010417
+9,Temperate basses,0.444010417
+9,Amberjacks,0.444010417
+9,Scorpionfish,0.444010417
+9,Dotted gizzard shad,0.444010417
+9,Korean rockfish,0.444010417
+9,Filefishes,0.444010417
+9,Red seabream,0.444010417
+9,Flounders,0.444010417
+9,Greenlings,0.444010417
+9,Barred knifejaw,0.444010417
+9,Mi-iuy croaker,0.444010417
+9,Pufferfishes,0.444010417
+9,Rainbow trout,0.444010417
+9,Chum salmon,0.444010417
+9,Jacks,0.444010417
+9,Pacific bluefin tuna,0.444010417
+9,Small yellow croaker,0.444010417
+9,Oysters,0.65
+9,Cockle,0.7
+9,Abalones nei,0.5
+9,Scallops,0.833333333
+9,Japanese littleneck,0.841666667
+9,Mussels,0.8
+9,Chinese cyclina,0.811764706
+9,Sunray surf clam,0.811764706
+9,Shellfish,0.811764706
+9,Surf clam,0.811764706
+9,Venus clam,0.811764706
+9,Ark shell,0.811764706
+9,Egg cockle,0.811764706
+9,Korean common penshell,0.811764706
+9,Broughton's ribbed ark,0.811764706
+9,Laver,0.7
+9,Other seaweeds,0.7
+9,Sea string,0.7
+9,Seaweed fulvescens,0.7
+9,Gulf weed,0.7
+9,Sea mustard,0.7
+9,Sea staghorn,0.7
+9,Seaweed fusiforme,0.7
+9,Sea lettuce,0.7
+9,Fleshy prawn,0.366666667
+9,White leg shrimp,0.374509804
+9,Wrinkled sea squirt,0.6
+9,Other fisheries animals,0.533333333
+9,Wart sea squint,0.533333333
+9,Sea tangle,0.533333333
+9,Korean common sea squint,0.533333333
+9,Sea cucumber,0.533333333
+10,Convict grouper,0.52
+10,Mullets,0.58
+10,Black seabream,0.444010417
+10,Chub mackerel,0.444010417
+10,Seabreams,0.444010417
+10,Rockfishes,0.444010417
+10,Bastard halibut,0.444010417
+10,Temperate basses,0.444010417
+10,Amberjacks,0.444010417
+10,Scorpionfish,0.444010417
+10,Dotted gizzard shad,0.444010417
+10,Korean rockfish,0.444010417
+10,Filefishes,0.444010417
+10,Red seabream,0.444010417
+10,Flounders,0.444010417
+10,Greenlings,0.444010417
+10,Barred knifejaw,0.444010417
+10,Mi-iuy croaker,0.444010417
+10,Pufferfishes,0.444010417
+10,Rainbow trout,0.444010417
+10,Chum salmon,0.444010417
+10,Jacks,0.444010417
+10,Pacific bluefin tuna,0.444010417
+10,Small yellow croaker,0.444010417
+10,Oysters,0.65
+10,Cockle,0.7
+10,Abalones nei,0.5
+10,Scallops,0.833333333
+10,Japanese littleneck,0.841666667
+10,Mussels,0.8
+10,Chinese cyclina,0.811764706
+10,Sunray surf clam,0.811764706
+10,Shellfish,0.811764706
+10,Surf clam,0.811764706
+10,Venus clam,0.811764706
+10,Ark shell,0.811764706
+10,Egg cockle,0.811764706
+10,Korean common penshell,0.811764706
+10,Broughton's ribbed ark,0.811764706
+10,Laver,0.7
+10,Other seaweeds,0.7
+10,Sea string,0.7
+10,Seaweed fulvescens,0.7
+10,Gulf weed,0.7
+10,Sea mustard,0.7
+10,Sea staghorn,0.7
+10,Seaweed fusiforme,0.7
+10,Sea lettuce,0.7
+10,Fleshy prawn,0.366666667
+10,White leg shrimp,0.374509804
+10,Wrinkled sea squirt,0.6
+10,Other fisheries animals,0.533333333
+10,Wart sea squint,0.533333333
+10,Sea tangle,0.533333333
+10,Korean common sea squint,0.533333333
+10,Sea cucumber,0.533333333
+11,Convict grouper,0.52
+11,Mullets,0.58
+11,Black seabream,0.444010417
+11,Chub mackerel,0.444010417
+11,Seabreams,0.444010417
+11,Rockfishes,0.444010417
+11,Bastard halibut,0.444010417
+11,Temperate basses,0.444010417
+11,Amberjacks,0.444010417
+11,Scorpionfish,0.444010417
+11,Dotted gizzard shad,0.444010417
+11,Korean rockfish,0.444010417
+11,Filefishes,0.444010417
+11,Red seabream,0.444010417
+11,Flounders,0.444010417
+11,Greenlings,0.444010417
+11,Barred knifejaw,0.444010417
+11,Mi-iuy croaker,0.444010417
+11,Pufferfishes,0.444010417
+11,Rainbow trout,0.444010417
+11,Chum salmon,0.444010417
+11,Jacks,0.444010417
+11,Pacific bluefin tuna,0.444010417
+11,Small yellow croaker,0.444010417
+11,Oysters,0.65
+11,Cockle,0.7
+11,Abalones nei,0.5
+11,Scallops,0.833333333
+11,Japanese littleneck,0.841666667
+11,Mussels,0.8
+11,Chinese cyclina,0.811764706
+11,Sunray surf clam,0.811764706
+11,Shellfish,0.811764706
+11,Surf clam,0.811764706
+11,Venus clam,0.811764706
+11,Ark shell,0.811764706
+11,Egg cockle,0.811764706
+11,Korean common penshell,0.811764706
+11,Broughton's ribbed ark,0.811764706
+11,Laver,0.7
+11,Other seaweeds,0.7
+11,Sea string,0.7
+11,Seaweed fulvescens,0.7
+11,Gulf weed,0.7
+11,Sea mustard,0.7
+11,Sea staghorn,0.7
+11,Seaweed fusiforme,0.7
+11,Sea lettuce,0.7
+11,Fleshy prawn,0.366666667
+11,White leg shrimp,0.374509804
+11,Wrinkled sea squirt,0.6
+11,Other fisheries animals,0.533333333
+11,Wart sea squint,0.533333333
+11,Sea tangle,0.533333333
+11,Korean common sea squint,0.533333333
+11,Sea cucumber,0.533333333
