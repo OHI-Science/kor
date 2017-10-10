@@ -3,6 +3,7 @@ MAR <- function(layers){
   ## read in layers
   harvest_tonnes <- layers$data$mar_harvest_tonnes %>%
      select(region_id = rgn_id, category, name, year, tonnes)
+
   sustainability_score <- layers$data$mar_sustainability_score %>%
    select(region_id = rgn_id, name, sust_coeff)
 
@@ -20,7 +21,6 @@ MAR <- function(layers){
   rky <- spread(rky, year, tonnes)
   rky <- gather(rky, "year", "tonnes", 5:12) # ncol(rky)
 
-
   # 4-year rolling mean of data (mk) why do this?
   m <- rky %>%
     mutate(year = as.numeric(as.character(year))) %>%
@@ -31,16 +31,18 @@ MAR <- function(layers){
 
   # smoothed mariculture harvest * sustainability coefficient
   m <- m %>%
-    mutate(sust_tonnes = sust_coeff * log(sm_tonnes)) #log
+    mutate(sust_tonnes = sust_coeff * sm_tonnes)     # without log
+#    mutate(sust_tonnes = log(sust_coeff * sm_tonnes)) #log
 
   # aggregate all weighted timeseries per region, and divide by population
   ry = m %>%
     group_by(region_id, year) %>%
     summarize(sust_tonnes_sum = sum(sust_tonnes, na.rm=TRUE)) %>% #na.rm = TRUE assumes that NA values are 0
     left_join(popn, by = c('region_id','year')) %>%
-    mutate(mar_per_pop = sust_tonnes_sum / pop_coast * 1000) %>% # *1000 because the result numbers are too little
+#    mutate(mar_per_pop = sust_tonnes_sum / pop_coast * 1000) %>% # *1000 because the result numbers are too little
+#    mutate(mar_per_pop = log(sust_tonnes_sum / pop_coast * 1000)) %>% # log
+    mutate(mar_per_pop = log10(sust_tonnes_sum / pop_coast * 1000 +1)) %>%
     ungroup()
-
 
   # get reference quantile based on argument years
   ref_95pct_data <- ry %>%
