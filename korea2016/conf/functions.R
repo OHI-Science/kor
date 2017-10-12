@@ -181,79 +181,79 @@ MAR <- function(layers){
 
   ## read in layers
   harvest_tonnes <- layers$data$mar_harvest_tonnes %>%
-    select(region_id = rgn_id, taxa_code, year, tonnes)
+    select(region_id = rgn_id, category, name, year, tonnes)
 
   sustainability_score <- layers$data$mar_sustainability_score %>%
-    select(region_id = rgn_id, taxa_code, sust_coeff)
+    select(region_id = rgn_id, name, sust_coeff)
 
-  popn_inland25mi <- layers$data$mar_coastalpopn_inland25mi %>%
-    select(region_id = rgn_id, year, popsum) %>%
-    mutate(popsum = popsum + 1)  # so 0 values do not cause errors when logged
+  popn <- layers$data$mar_coastalpopn %>%
+    select(region_id = rgn_id, year, pop_coast)
 
   ## set data year for assessment
-  data_year <- 2014
+  data_year <- 2016
 
   ## combine layers
   rky <-  harvest_tonnes %>%
-    left_join(sustainability_score, by = c('region_id', 'taxa_code'))
+    left_join(sustainability_score, by = c('region_id', 'name'))
 
   # fill in gaps with no data
   rky <- spread(rky, year, tonnes)
-  rky <- gather(rky, "year", "tonnes", 4:68) # ncol(rky)
+  rky <- gather(rky, "year", "tonnes", 5:12) # ncol(rky)
 
-
-  # 4-year rolling mean of data
+  # 4-year rolling mean of data (mk) why do this?
   m <- rky %>%
     mutate(year = as.numeric(as.character(year))) %>%
-    group_by(region_id, taxa_code, sust_coeff) %>%
-    arrange(region_id, taxa_code, year) %>%
+    group_by(region_id, name, sust_coeff) %>%
+    arrange(region_id, name, year) %>%
     mutate(sm_tonnes = zoo::rollapply(tonnes, 4, mean, na.rm=TRUE, partial=TRUE)) %>%
     ungroup()
 
   # smoothed mariculture harvest * sustainability coefficient
   m <- m %>%
-    mutate(sust_tonnes = sust_coeff * sm_tonnes)
+    mutate(sust_tonnes = sust_coeff * sm_tonnes)     # without log
+  #    mutate(sust_tonnes = log(sust_coeff * sm_tonnes)) #log
 
-
-  # aggregate all weighted timeseries per region, and divide by coastal human population
+  # aggregate all weighted timeseries per region, and divide by population
   ry = m %>%
     group_by(region_id, year) %>%
-    summarize(sust_tonnes_sum = sum(sust_tonnes, na.rm=TRUE)) %>%  #na.rm = TRUE assumes that NA values are 0
-    left_join(popn_inland25mi, by = c('region_id','year')) %>%
-    mutate(mar_pop = sust_tonnes_sum / popsum) %>%
+    summarize(sust_tonnes_sum = sum(sust_tonnes, na.rm=TRUE)) %>% #na.rm = TRUE assumes that NA values are 0
+    left_join(popn, by = c('region_id','year')) %>%
+    #    mutate(mar_per_pop = sust_tonnes_sum / pop_coast * 1000) %>% # *1000 because the result numbers are too little
+    #    mutate(mar_per_pop = log(sust_tonnes_sum / pop_coast * 1000)) %>% # log
+    mutate(mar_per_pop = log10(sust_tonnes_sum / pop_coast * 1000 +1)) %>%
     ungroup()
-
 
   # get reference quantile based on argument years
   ref_95pct_data <- ry %>%
     filter(year <= data_year)
 
-  ref_95pct <- quantile(ref_95pct_data$mar_pop, 0.95, na.rm=TRUE)
+  ref_95pct <- quantile(ref_95pct_data$mar_per_pop, 0.95, na.rm=TRUE)
 
   # identify reference region_id
   ry_ref = ref_95pct_data %>%
-    arrange(mar_pop) %>%
-    filter(mar_pop >= ref_95pct)
+    arrange(mar_per_pop) %>%
+    filter(mar_per_pop >= ref_95pct)
   message(sprintf('95th percentile for MAR ref pt is: %s\n', ref_95pct))
   message(sprintf('95th percentile region_id for MAR ref pt is: %s\n', ry_ref$region_id[1]))
 
   ry = ry %>%
-    mutate(status = ifelse(mar_pop / ref_95pct > 1,
+    mutate(status = ifelse(mar_per_pop / ref_95pct > 1,
                            1,
-                           mar_pop / ref_95pct))
+                           mar_per_pop / ref_95pct))
   status <- ry %>%
     filter(year == data_year) %>%
     select(region_id, status) %>%
     mutate(status = round(status*100, 2))
 
-  trend_years <- (data_year-4):(data_year)
+  #  trend_years <- (data_year-4):(data_year)
+  trend_years <- (data_year-7):(data_year)
   first_trend_year <- min(trend_years)
 
   # get MAR trend
   trend = ry %>%
     group_by(region_id) %>%
     filter(year %in% trend_years) %>%
-    filter(!is.na(popsum)) %>%
+    filter(!is.na(mar_per_pop)) %>% #why do this?
     do(mdl = lm(status ~ year, data=.),
        adjust_trend = .$status[.$year == first_trend_year]) %>%
     summarize(region_id, trend = ifelse(coef(mdl)['year']==0, 0, coef(mdl)['year']/adjust_trend * 5)) %>%
@@ -1058,41 +1058,41 @@ TR <- function(layers) {
 LIV_ECO <- function(layers, subgoal){
 
   ## read in layers
-  le_gdp <- layers$data$le_gdp  %>%
-    select(region_id = rgn_id, year, gdp_usd = usd)
+  le_gdp <- layers$data$le_gdp_krw  %>%
+    select(region_id = rgn_id, year, gdp_krw)
 
-  le_wages <- layers$data$le_wage_sector_year %>%
-    select(region_id = rgn_id, year, sector, wage_usd = value)
+  le_wages <- layers$data$le_wages_kor2016 %>%
+    select(region_id = rgn_id, year, sector, wage_krw = wages)
 
-  le_jobs <- layers$data$le_jobs_sector_year %>%
-    select(region_id = rgn_id, year, sector, jobs = value)
+  le_jobs <- layers$data$le_employed_kor2016 %>%
+    select(region_id = rgn_id, year, sector, jobs = employed)
 
-  le_workforce_size <- layers$data$le_workforcesize_adj %>%
-    select(region_id = rgn_id, year, jobs_all = jobs)
+  le_jobs_wo <- layers$data$le_employed_wo_pay_kor2016 %>%
+    select(region_id = rgn_id, year, sector, jobs_wo = employed_wo_pay)
+
+  le_total_output <- layers$data$le_total_output_kor2016 %>%
+    select(region_id = rgn_id, year, sector, rev = total_output)
+
+  le_workforce_size <- layers$data$le_workforcesize %>%
+    select(region_id = rgn_id, year, jobs_all)
 
   le_unemployment <- layers$data$le_unemployment %>%
     select(region_id = rgn_id, year, pct_unemployed = percent)
 
+  le_cpi <- layers$data$le_cpi %>%
+    select(region_id = rgn_id, year, cpi = CPI)
 
   # multipliers from Table S10 (Halpern et al 2012 SOM)
-  multipliers_jobs = data.frame('sector' = c('tour','cf', 'mmw', 'wte','mar'),
-                                'multiplier' = c(1, 1.582, 1.915, 1.88, 2.7)) # no multiplers for tour (=1)
+  multipliers_jobs = data.frame('sector' = c('con', 'em', 'env', 'fism', 'pa', 'rd', 'sb', 'ser', 'tour','ts'),
+                                'multiplier' = c(1, 1, 1, 2.141, 1, 1.88, 1, 1, 1, 1)) # no multiplers for tour (=1)
+  # multipler for fism = (cf(1.582) + mar(2.7))/2 = 2.141, rd = wte(1.88)
   # multipliers_rev  = data.frame('sector' = c('mar', 'tour'), 'multiplier' = c(1.59, 1)) # not used because GDP data is not by sector
-
 
   # calculate employment counts
   le_employed = le_workforce_size %>%
     left_join(le_unemployment, by = c('region_id', 'year')) %>%
     mutate(proportion_employed = (100 - pct_unemployed) / 100,
            employed            = jobs_all * proportion_employed)
-
-  # reworded from SOM p.26-27
-  #reference point for wages is the reference region (r) with the highest average wages across all sectors.
-  #Reference points for jobs (j) and revenue (e) employ a moving baseline. The two metrics (j, e) are calculated
-  #as relative values: the value in the current year (or most recent year), c, relative to the value in a recent
-  #moving reference period, r, defined as 5 years prior to c. This reflects an implicit goal of maintaining coastal
-  #livelihoods and economies (L&E) on short time scales, allowing for decadal or generational shifts in what people
-  #want and expect for coastal L&E. The most recent year c must be 2000 or later in order for the data to be included.
 
   liv =
     # adjust jobs
@@ -1101,14 +1101,18 @@ LIV_ECO <- function(layers, subgoal){
     mutate(jobs_mult = jobs * multiplier) %>%  # adjust jobs by multipliers
     left_join(le_employed, by= c('region_id', 'year')) %>%
     mutate(jobs_adj = jobs_mult * proportion_employed) %>% # adjust jobs by proportion employed
+    # mutate(jobs_adj = jobs_mult / employed) %>% #mk
+    # adjust wages. mk
     left_join(le_wages, by=c('region_id','year','sector')) %>%
+    left_join(le_cpi, by = c('region_id','year')) %>%  # mk
+    mutate(wages_adj = wage_krw / cpi * 100) %>%  # mk
     arrange(year, sector, region_id)
 
   # LIV calculations ----
 
   # LIV status
   liv_status = liv %>%
-    filter(!is.na(jobs_adj) & !is.na(wage_usd))
+    filter(!is.na(jobs_adj) & !is.na(wages_adj))
   # aia/subcountry2014 crashing b/c no concurrent wage data, so adding this check
   if (nrow(liv_status)==0){
     liv_status = liv %>%
@@ -1135,7 +1139,7 @@ LIV_ECO <- function(layers, subgoal){
         # across sectors, jobs are summed
         jobs_sum  = sum(jobs_adj, na.rm=T),
         # across sectors, wages are averaged
-        wages_avg = mean(wage_usd, na.rm=T)) %>%
+        wages_avg = mean(wages_adj, na.rm=T)) %>%
       group_by(region_id) %>%
       arrange(region_id, year) %>%
       mutate(
@@ -1166,7 +1170,7 @@ LIV_ECO <- function(layers, subgoal){
 
     # get trend across years as slope of individual sectors for jobs and wages
     liv_trend = liv %>%
-      filter(!is.na(jobs_adj) & !is.na(wage_usd)) %>%
+      filter(!is.na(jobs_adj) & !is.na(wage_krw)) %>%
       # TODO: consider "5 year time spans" as having 5 [(max(year)-4):max(year)] or 6 [(max(year)-5):max(year)] member years
       filter(year >= max(year, na.rm=T) - 4) %>% # reference point is 5 years ago
       # get sector weight as total jobs across years for given region
@@ -1210,12 +1214,20 @@ LIV_ECO <- function(layers, subgoal){
 
 
   # ECO calculations ----
-  eco = le_gdp %>%
-    mutate(
-      rev_adj = gdp_usd,
-      sector = 'gdp') %>%
-    # adjust rev with national GDP rates if available. Example: (rev_adj = gdp_usd / ntl_gdp)
-    dplyr::select(region_id, year, sector, rev_adj)
+  # eco = le_gdp %>%
+  #   mutate(
+  #     rev_adj = gdp_krw,
+  #     sector = 'gdp') %>%
+  #   # adjust rev with national GDP rates if available. Example: (rev_adj = gdp_usd / ntl_gdp)
+  #   dplyr::select(region_id, year, sector, rev_adj)
+
+  eco = le_total_output %>%
+    # left_join(le_gdp, by = c('region_id', 'year')) %>%
+    mutate(rev_adj = rev)
+  # mutate(rev_adj = rev / gdp_krw) #%>% # too small value
+  # adjust rev with national GDP rates if available. Example: (rev_adj = gdp_usd / ntl_gdp)
+  # dplyr::select(region_id, year, sector, rev_adj)
+
 
   # ECO status
   eco_status = eco %>%
