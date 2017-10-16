@@ -1100,8 +1100,8 @@ LIV_ECO <- function(layers, subgoal){
     left_join(multipliers_jobs, by = 'sector') %>%
     mutate(jobs_mult = jobs * multiplier) %>%  # adjust jobs by multipliers
     left_join(le_employed, by= c('region_id', 'year')) %>%
-    mutate(jobs_adj = jobs_mult * proportion_employed) %>% # adjust jobs by proportion employed
-    # mutate(jobs_adj = jobs_mult / employed) %>% #mk
+    # mutate(jobs_adj = jobs_mult * proportion_employed) %>% # adjust jobs by proportion employed
+    mutate(jobs_adj = jobs_mult / employed) %>% #mk
     # adjust wages. mk
     left_join(le_wages, by=c('region_id','year','sector')) %>%
     left_join(le_cpi, by = c('region_id','year')) %>%  # mk
@@ -1223,9 +1223,9 @@ LIV_ECO <- function(layers, subgoal){
   #   dplyr::select(region_id, year, sector, rev_adj)
 
   eco = le_total_output %>%
-    # left_join(le_gdp, by = c('region_id', 'year')) %>%
-    mutate(rev_adj = rev)
-  # mutate(rev_adj = rev / gdp_krw) #%>% # too small value
+    left_join(le_gdp, by = c('region_id', 'year')) %>%
+    # mutate(rev_adj = rev)
+  mutate(rev_adj = rev / gdp_krw) #%>% # too small value
   # adjust rev with national GDP rates if available. Example: (rev_adj = gdp_usd / ntl_gdp)
   # dplyr::select(region_id, year, sector, rev_adj)
 
