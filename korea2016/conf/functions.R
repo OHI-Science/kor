@@ -1312,7 +1312,7 @@ LIV_ECO <- function(layers, subgoal){
     select(region_id = rgn_id, year, pct_unemployed)
 
   le_rgn_cpi <- layers$data$le_rgn_cpi %>%
-    select(year, cpi = CPI)
+    select(region_id = rgn_id, year, cpi = CPI)
 
   # calculate employment counts
   le_rgn_employed = le_rgn_workforce_size %>%
@@ -1333,7 +1333,7 @@ LIV_ECO <- function(layers, subgoal){
     mutate(jobs_adj = jobs_mult / employed) %>% #mk
     # adjust wages. mk
     left_join(le_rgn_wages, by=c('region_id','year','sector')) %>%
-    left_join(le_rgn_cpi, by = 'year') %>%  # mk
+    left_join(le_rgn_cpi, by = c('region_id', 'year')) %>%  # mk
     mutate(wages_adj = wage_krw / cpi * 100) %>%  # mk
     arrange(year, sector, region_id)
 
