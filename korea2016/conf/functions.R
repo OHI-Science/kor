@@ -1153,7 +1153,8 @@ LIV_ECO <- function(layers, subgoal){
       mutate(
         x_jobs  = pmax(-1, pmin(1,  jobs_sum / jobs_sum_first)),
         x_wages = pmax(-1, pmin(1, wages_avg / wages_avg_first)),
-        score   = mean(c(x_jobs, x_wages), na.rm=T) * 100) %>%
+        # score   = mean(c(x_jobs, x_wages), na.rm=T) * 100) %>%
+        score   = (x_jobs + x_wages) / 2 * 100) %>%
       # filter for most recent year
       filter(year == max(year, na.rm=T)) %>%
       # format
