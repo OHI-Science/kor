@@ -1061,16 +1061,16 @@ LIV_ECO <- function(layers, subgoal){
   le_gdp <- layers$data$le_gdp_krw  %>%
     select(region_id = rgn_id, year, gdp_krw)
 
-  le_wages <- layers$data$le_wages_kor2016 %>%
+  le_wages <- layers$data$le_wages %>%
     select(region_id = rgn_id, year, sector, wage_krw = wages)
 
-  le_jobs <- layers$data$le_employed_kor2016 %>%
+  le_jobs <- layers$data$le_employed %>%
     select(region_id = rgn_id, year, sector, jobs = employed)
 
-  le_jobs_wo <- layers$data$le_employed_wo_pay_kor2016 %>%
+  le_jobs_wo <- layers$data$le_employed_wo_pay %>%
     select(region_id = rgn_id, year, sector, jobs_wo = employed_wo_pay)
 
-  le_total_output <- layers$data$le_total_output_kor2016 %>%
+  le_total_output <- layers$data$le_total_output %>%
     select(region_id = rgn_id, year, sector, rev = total_output)
 
   le_workforce_size <- layers$data$le_workforcesize %>%
