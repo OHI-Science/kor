@@ -5,6 +5,7 @@ po_pathogens,ecological,pollution
 po_nutrients,ecological,pollution
 po_nutrients_3nm,ecological,pollution
 po_trash,ecological,pollution
+po_wqi,ecological,pollution
 sp_alien,ecological,alien_species
 sp_genetic,ecological,alien_species
 hd_subtidal_sb,ecological,habitat_destruction

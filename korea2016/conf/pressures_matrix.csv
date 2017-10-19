@@ -1,49 +1,49 @@
-goal,element,element_name,po_chemicals,po_chemicals_3nm,po_pathogens,po_nutrients,po_nutrients_3nm,po_trash,sp_alien,sp_genetic,hd_subtidal_sb,hd_subtidal_hb,hd_intertidal,fp_com_hb,fp_com_lb,fp_art_lb,fp_art_hb,fp_targetharvest,cc_sst,cc_acid,cc_uv,cc_slr,ss_wgi,ss_spi,ss_ordinance
-AO,,,,1,,,1,,1,,1,3,1,2,1,,3,,,,,,1,1,1
-CP,coral,,,1,,,2,,1,,,3,,,,,,,3,1,1,2,1,1,1
-CP,mangrove,,,1,,,1,,,,,,3,,,,,,,,,2,1,1,1
-CP,saltmarsh,,,1,,,2,,1,,,,3,,,,,,,,,3,1,1,1
-CP,seagrass,,,2,,,3,,1,,,,3,,,,,,2,1,,3,1,1,1
-CP,seaice_shoreline,,,,,,,,,,,,,,,,,,3,,,2,1,1,1
-CS,mangrove,,,1,,,1,,,,,,3,,,,,,,,,1,1,1,1
-CS,saltmarsh,,,1,,,2,,1,,,,3,,,,,,,,,2,1,1,1
-CS,seagrass,,,2,,,3,,1,,,,3,,,,,,2,1,,2,1,1,1
-CW,,,,3,3,,3,3,,,,,,,,,,,,,,,1,1,1
-FIS,,,1,,,1,,,1,1,2,2,1,3,1,1,2,,,,,,1,1,1
-HAB,coral,,,1,,,2,,1,,,3,,,,,3,,3,1,1,1,1,1,1
-HAB,mangrove,,,1,,,1,,,,,,3,,,,,,,,,1,1,1,1
-HAB,saltmarsh,,,1,,,2,,1,,,,3,,,,,,,,,2,1,1,1
-HAB,seagrass,,,2,,,3,,1,,,,3,,,,,,2,1,,2,1,1,1
-HAB,seaice_edge,,,,,,,,,,,,,,,,,,3,,,1,1,1,1
-HAB,soft_bottom,,,2,,,2,,1,,3,,,3,1,1,,,,,,,1,1,1
-ICO,,,,3,,,1,1,1,,,2,3,2,,,2,2,1,1,,,1,1,1
-LSP,,,,2,,,2,3,1,,,2,3,,,,,,,,,1,1,1,1
-MAR,,,2,,,,3,,,,,,,,,,,,,,,1,1,1,1
-NP,corals,,1,,,2,,,1,,,3,,,,,,,3,1,1,1,1,1,1
-NP,fish_oil,,2,,,1,,,1,,2,,,,2,,,,1,,,,1,1,1
-NP,ornamentals,,2,,,1,,,1,,,3,,,,1,3,,1,,,,1,1,1
-NP,seaweeds,,2,,,2,,,1,,,,1,,,,,,1,,,,1,1,1
-NP,shells,,,,,1,,,1,,2,,1,,,,,,1,1,,,1,1,1
-NP,sponges,,,,,1,,,1,,3,,,,,,1,,1,1,,,1,1,1
-SPP,,,2,,,3,,1,1,1,3,2,2,3,1,1,2,1,1,1,1,,1,1,1
-TR,,,,3,3,,3,3,,,,,,,,,,,,,,2,1,1,1
-ECO,fism,Fisheries,2,,,1,2,,1,1,2,2,1,3,1,1,2,,,,,,1,1,1
-ECO,rd,Resources development industry,,,,,,,,,,,,,,,,,,,,1,1,1,1
-ECO,con,Construction industry,,,,,,,,,,,,,,,,,,,,1,1,1,1
-ECO,ts,Transportation & shipping,,,,,,,1,,,,,,,,,,,,,,1,1,1
-ECO,em,Equipment manufacturing industry,,,,,,,,,,,,,,,,,,,,,1,1,1
-ECO,sb,Shop & boatbuilding,,,,,,,,,,,,,,,,,,,,,1,1,1
-ECO,ser,Service industry,,,,,,,,,,,,,,,,,,,,,1,1,1
-ECO,pa,Public activity,,,,,,,,,,,,,,,,,,,,,1,1,1
-ECO,tour,Leisure & tourism,3,,3,,3,3,,,,,,,,,,,,,,1,1,1,1
-ECO,env,Environmental industry,,,,,,,,,,,,,,,,,,,,,1,1,1
-LIV,fism,Fisheries,2,,,1,2,,1,1,2,2,1,3,1,1,2,,,,,,1,1,1
-LIV,rd,Resources development industry,,,,,,,,,,,,,,,,,,,,1,1,1,1
-LIV,con,Construction industry,,,,,,,,,,,,,,,,,,,,1,1,1,1
-LIV,ts,Transportation & shipping,,,,,,,1,,,,,,,,,,,,,,1,1,1
-LIV,em,Equipment manufacturing industry,,,,,,,,,,,,,,,,,,,,,1,1,1
-LIV,sb,Shop & boatbuilding,,,,,,,,,,,,,,,,,,,,,1,1,1
-LIV,ser,Service industry,,,,,,,,,,,,,,,,,,,,,1,1,1
-LIV,pa,Public activity,,,,,,,,,,,,,,,,,,,,,1,1,1
-LIV,tour,Leisure & tourism,3,,3,,3,3,,,,,,,,,,,,,,1,1,1,1
-LIV,env,Environmental industry,,,,,,,,,,,,,,,,,,,,,1,1,1
+goal,element,element_name,po_chemicals,po_chemicals_3nm,po_pathogens,po_nutrients,po_nutrients_3nm,po_trash,sp_alien,sp_genetic,hd_subtidal_sb,hd_subtidal_hb,hd_intertidal,fp_com_hb,fp_com_lb,fp_art_lb,fp_art_hb,fp_targetharvest,cc_sst,cc_acid,cc_uv,cc_slr,ss_wgi,ss_spi,ss_ordinance,po_wqi
+AO,,,,1,,,1,,1,,1,3,1,2,1,,3,,,,,,1,1,1,
+CP,coral,,,1,,,2,,1,,,3,,,,,,,3,1,1,2,1,1,1,
+CP,mangrove,,,1,,,1,,,,,,3,,,,,,,,,2,1,1,1,
+CP,saltmarsh,,,1,,,2,,1,,,,3,,,,,,,,,3,1,1,1,
+CP,seagrass,,,2,,,3,,1,,,,3,,,,,,2,1,,3,1,1,1,
+CP,seaice_shoreline,,,,,,,,,,,,,,,,,,3,,,2,1,1,1,
+CS,mangrove,,,1,,,1,,,,,,3,,,,,,,,,1,1,1,1,
+CS,saltmarsh,,,1,,,2,,1,,,,3,,,,,,,,,2,1,1,1,
+CS,seagrass,,,2,,,3,,1,,,,3,,,,,,2,1,,2,1,1,1,
+CW,,,,3,3,,3,3,,,,,,,,,,,,,,,1,1,1,3
+FIS,,,1,,,1,,,1,1,2,2,1,3,1,1,2,,,,,,1,1,1,1
+HAB,coral,,,1,,,2,,1,,,3,,,,,3,,3,1,1,1,1,1,1,
+HAB,mangrove,,,1,,,1,,,,,,3,,,,,,,,,1,1,1,1,
+HAB,saltmarsh,,,1,,,2,,1,,,,3,,,,,,,,,2,1,1,1,
+HAB,seagrass,,,2,,,3,,1,,,,3,,,,,,2,1,,2,1,1,1,
+HAB,seaice_edge,,,,,,,,,,,,,,,,,,3,,,1,1,1,1,
+HAB,soft_bottom,,,2,,,2,,1,,3,,,3,1,1,,,,,,,1,1,1,
+ICO,,,,3,,,1,1,1,,,2,3,2,,,2,2,1,1,,,1,1,1,
+LSP,,,,2,,,2,3,1,,,2,3,,,,,,,,,1,1,1,1,
+MAR,,,2,,,,3,,,,,,,,,,,,,,,1,1,1,1,2
+NP,corals,,1,,,2,,,1,,,3,,,,,,,3,1,1,1,1,1,1,
+NP,fish_oil,,2,,,1,,,1,,2,,,,2,,,,1,,,,1,1,1,
+NP,ornamentals,,2,,,1,,,1,,,3,,,,1,3,,1,,,,1,1,1,
+NP,seaweeds,,2,,,2,,,1,,,,1,,,,,,1,,,,1,1,1,
+NP,shells,,,,,1,,,1,,2,,1,,,,,,1,1,,,1,1,1,
+NP,sponges,,,,,1,,,1,,3,,,,,,1,,1,1,,,1,1,1,
+SPP,,,2,,,3,,1,1,1,3,2,2,3,1,1,2,1,1,1,1,,1,1,1,2
+TR,,,,3,3,,3,3,,,,,,,,,,,,,,2,1,1,1,
+ECO,fism,Fisheries,2,,,1,2,,1,1,2,2,1,3,1,1,2,,,,,,1,1,1,2
+ECO,rd,Resources development industry,,,,,,,,,,,,,,,,,,,,1,1,1,1,
+ECO,con,Construction industry,,,,,,,,,,,,,,,,,,,,1,1,1,1,
+ECO,ts,Transportation & shipping,,,,,,,1,,,,,,,,,,,,,,1,1,1,
+ECO,em,Equipment manufacturing industry,,,,,,,,,,,,,,,,,,,,,1,1,1,
+ECO,sb,Shop & boatbuilding,,,,,,,,,,,,,,,,,,,,,1,1,1,
+ECO,ser,Service industry,,,,,,,,,,,,,,,,,,,,,1,1,1,
+ECO,pa,Public activity,,,,,,,,,,,,,,,,,,,,,1,1,1,
+ECO,tour,Leisure & tourism,3,,3,,3,3,,,,,,,,,,,,,,1,1,1,1,3
+ECO,env,Environmental industry,,,,,,,,,,,,,,,,,,,,,1,1,1,
+LIV,fism,Fisheries,2,,,1,2,,1,1,2,2,1,3,1,1,2,,,,,,1,1,1,2
+LIV,rd,Resources development industry,,,,,,,,,,,,,,,,,,,,1,1,1,1,
+LIV,con,Construction industry,,,,,,,,,,,,,,,,,,,,1,1,1,1,
+LIV,ts,Transportation & shipping,,,,,,,1,,,,,,,,,,,,,,1,1,1,
+LIV,em,Equipment manufacturing industry,,,,,,,,,,,,,,,,,,,,,1,1,1,
+LIV,sb,Shop & boatbuilding,,,,,,,,,,,,,,,,,,,,,1,1,1,
+LIV,ser,Service industry,,,,,,,,,,,,,,,,,,,,,1,1,1,
+LIV,pa,Public activity,,,,,,,,,,,,,,,,,,,,,1,1,1,
+LIV,tour,Leisure & tourism,3,,3,,3,3,,,,,,,,,,,,,,1,1,1,1,3
+LIV,env,Environmental industry,,,,,,,,,,,,,,,,,,,,,1,1,1,
