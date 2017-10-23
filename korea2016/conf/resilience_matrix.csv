@@ -2,11 +2,8 @@ goal,element,po_water,hd_mpa_coast,hd_mpa_eez,hd_habitat,sp_alien_species,fp_mpa
 CW,,x,,,,,,,,,,,,,,,,x,x,x,,
 ECO,,,,,,,,,,,,,,,,,,x,x,x,x,
 FIS,,,,x,x,,,x,x,x,x,,,,,,x,x,x,x,,
-HAB,coral,x,x,,x,,x,,x,,x,x,x,,,x,,x,x,x,,
-HAB,mangrove,,x,,x,,,,,,,x,x,,,x,,x,x,x,,
 HAB,saltmarsh,x,x,,x,,,,,,,x,x,,,x,,x,x,x,,
 HAB,seagrass,x,x,,x,,,,,,,x,x,,,x,,x,x,x,,
-HAB,seaice_edge,,,,,,,,,,,x,x,,,,x,x,x,x,,
 HAB,soft_bottom,x,,x,x,,,x,x,x,,x,x,,,,x,x,x,x,,
 SPP,,x,,x,x,,,x,x,x,x,x,x,,x,,,x,x,x,,
 LIV,,,,,,,,,,,,,,,,,,x,x,x,x,x

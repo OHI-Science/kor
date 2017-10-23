@@ -905,12 +905,9 @@ HAB = function(layers){
   data_year <- 2014
 
   ## read in layers
-  extent_lyrs <- c('hab_mangrove_extent', 'hab_seagrass_extent', 'hab_saltmarsh_extent',
-                   'hab_coral_extent', 'hab_seaice_extent', 'hab_softbottom_extent')
-  health_lyrs <- c('hab_mangrove_health', 'hab_seagrass_health', 'hab_saltmarsh_health',
-                   'hab_coral_health', 'hab_seaice_health', 'hab_softbottom_health')
-  trend_lyrs <- c('hab_mangrove_trend', 'hab_seagrass_trend', 'hab_saltmarsh_trend',
-                  'hab_coral_trend', 'hab_seaice_trend', 'hab_softbottom_trend')
+  extent_lyrs <- c('hab_seagrass_extent', 'hab_saltmarsh_extent', 'hab_softbottom_extent')
+  health_lyrs <- c('hab_seagrass_health', 'hab_saltmarsh_health', 'hab_softbottom_health')
+  trend_lyrs <- c('hab_seagrass_trend', 'hab_saltmarsh_trend', 'hab_softbottom_trend')
 
   # get data together. Note: SelectData2() is a function defined at the bottom of this script
   extent <- SelectData2(extent_lyrs) %>%
@@ -932,7 +929,7 @@ HAB = function(layers){
   d <- health %>%
     full_join(trend, by = c('region_id', 'habitat')) %>%
     full_join(extent, by = c('region_id', 'habitat')) %>%
-    filter(habitat %in% c('coral','mangrove','saltmarsh','seaice_edge','seagrass','soft_bottom')) %>%
+    filter(habitat %in% c('saltmarsh','seagrass','soft_bottom')) %>%
     mutate(w  = ifelse(!is.na(extent) & extent > 0, 1, NA)) %>%
     filter(!is.na(w))
 
@@ -992,9 +989,6 @@ HAB = function(layers){
   weights<- extent %>%
     filter(habitat %in% c('seagrass',
                           'saltmarsh',
-                          'mangrove',
-                          'coral',
-                          'seaice_edge',
                           'soft_bottom')) %>%
     filter(extent > 0) %>%
     mutate(boolean = 1) %>%
