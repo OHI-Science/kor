@@ -783,6 +783,20 @@ LIV_ECO <- function(layers, subgoal){
       goal, dimension,
       region_id,
       score)
+  # copy status score to region 1 to 11
+  liv_status_rgn = liv_status_rgn %>%
+    filter(region_id <= 11) %>%
+    dplyr::select(goal, dimension, region_id)
+  liv_status = liv_status %>% dplyr::select(goal, dimension, score)
+  liv_status_all = liv_status_rgn %>%
+    left_join(liv_status, by=c("goal", "dimension"))
+
+  eco_status_rgn = eco_status_rgn %>%
+    filter(region_id <= 11) %>%
+    dplyr::select(goal, dimension, region_id)
+  eco_status = eco_status %>% dplyr::select(goal, dimension, score)
+  eco_status_all = eco_status_rgn %>%
+    left_join(eco_status, by=c("goal", "dimension"))
 
   # combine national and regional trend
   liv_trend_all = liv_trend_rgn %>%
@@ -815,9 +829,9 @@ LIV_ECO <- function(layers, subgoal){
 
   # report LIV and ECO scores separately
   if (subgoal=='LIV'){
-    d = rbind(liv_status, liv_trend_all)
+    d = rbind(liv_status_all, liv_trend_all)
   } else if (subgoal=='ECO'){
-    d = rbind(eco_status, eco_trend_all)
+    d = rbind(eco_status_all, eco_trend_all)
   } else {
     stop('LIV_ECO function only handles subgoal of "LIV" or "ECO"')
   }
