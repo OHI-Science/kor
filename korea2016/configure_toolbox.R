@@ -25,3 +25,7 @@ ohicore::CheckLayers('layers.csv', 'layers', flds_id=conf$config$layers_id_field
 
 ## load scenario layers for ohicore to access. Layers files are not modified.
 layers = ohicore::Layers('layers.csv', 'layers')
+
+## select corresponding data year to use for pressures and resilience
+scenario_years <- 2016
+layers$data$scenario_year <- scenario_years
