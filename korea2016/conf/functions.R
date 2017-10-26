@@ -33,8 +33,9 @@ FIS <- function(layers){
 
   # divide by no of vessels
   fv = m %>%
-    mutate(landings_per_vessel = log10(sm_landings / no_vessels * 1000 +1))
+    # mutate(landings_per_vessel = log10(sm_landings / no_vessels * 1000 +1))
   # mutate(landings_per_vessel = (sm_landings / no_vessels * 1000 +1))
+  mutate(landings_per_vessel = log10(sm_landings / no_vessels +1))
 
   # get reference quantile based on argument years
   ref_95pct_data_ <- fv %>%
@@ -128,9 +129,9 @@ MAR <- function(layers){
     group_by(region_id, year) %>%
     summarize(sust_tonnes_sum = sum(sust_tonnes, na.rm=TRUE)) %>% #na.rm = TRUE assumes that NA values are 0
     left_join(popn, by = c('region_id','year')) %>%
-    #    mutate(mar_per_pop = sust_tonnes_sum / pop_coast * 1000) %>% # *1000 because the result numbers are too little
+    #    mutate(mar_per_pop = sust_tonnes_sum / pop_coast * 1000) %>%
     #    mutate(mar_per_pop = log(sust_tonnes_sum / pop_coast * 1000)) %>% # log
-    mutate(mar_per_pop = log10(sust_tonnes_sum / pop_coast * 1000 +1)) %>%
+    mutate(mar_per_pop = log10(sust_tonnes_sum / pop_coast * 1000 +1)) %>% # *1000 because the result numbers are too small
     ungroup()
 
   # get reference quantile based on argument years
