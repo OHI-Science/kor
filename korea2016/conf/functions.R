@@ -695,48 +695,40 @@ LIV_ECO <- function(layers, subgoal){
       region_id,
       score)
   # copy status score to region 1 to 11
-  liv_status_rgn = liv_status_rgn %>%
-    filter(region_id <= 11) %>%
-    dplyr::select(goal, dimension, region_id)
-  liv_status = liv_status %>% dplyr::select(goal, dimension, score)
-  liv_status_all = liv_status_rgn %>%
-    left_join(liv_status, by=c("goal", "dimension"))
+  liv_status_all <- data_frame(region_id = 1:11,
+                               score = liv_status$score) %>%
+    mutate(goal = "LIV",
+           dimension = "status") %>%
+    arrange(goal, dimension, region_id, score)
 
-  eco_status_rgn = eco_status_rgn %>%
-    filter(region_id <= 11) %>%
-    dplyr::select(goal, dimension, region_id)
-  eco_status = eco_status %>% dplyr::select(goal, dimension, score)
-  eco_status_all = eco_status_rgn %>%
-    left_join(eco_status, by=c("goal", "dimension"))
+  eco_status_all <- data_frame(region_id = 1:11,
+                               score = eco_status$score) %>%
+    mutate(goal = "ECO",
+           dimension = "status") %>%
+    arrange(goal, dimension, region_id, score)
 
   # combine national and regional trend
-  liv_trend_all = liv_trend_rgn %>%
-    left_join(liv_trend, by ="goal") %>%
-    mutate(liv_trend_all = (score.x + score.y) / 2)
-  liv_trend_all = liv_trend_all %>%
-    dplyr::select(
-      goal, dimension.x,
-      region_id.x,
-      liv_trend_all) %>%
-    mutate(dimension = dimension.x, region_id = region_id.x, score = liv_trend_all) %>%
-    dplyr::select(
-      goal, dimension,
-      region_id,
-      score)
+  liv_trend_m <- data_frame(region_id = 1:11,
+                               score = liv_trend$score) %>%
+    mutate(goal = "LIV",
+           dimension = "trend") %>%
+    arrange(goal, dimension, region_id, score)
 
-  eco_trend_all = eco_trend_rgn %>%
-    left_join(eco_trend, by ="goal") %>%
-    mutate(eco_trend_all = (score.x + score.y) / 2)
-  eco_trend_all = eco_trend_all %>%
-    dplyr::select(
-      goal, dimension.x,
-      region_id.x,
-      eco_trend_all) %>%
-    mutate(dimension = dimension.x, region_id = region_id.x, score = eco_trend_all) %>%
-    dplyr::select(
-      goal, dimension,
-      region_id,
-      score)
+  liv_trend_all =  liv_trend_m %>%
+    left_join(liv_trend_rgn, by =c("region_id", "goal", "dimension")) %>%
+    mutate(score = (score.x + score.y) / 2) %>%
+    dplyr::select(goal, dimension, region_id, score)
+
+  eco_trend_m <- data_frame(region_id = 1:11,
+                            score = eco_trend$score) %>%
+    mutate(goal = "ECO",
+           dimension = "trend") %>%
+    arrange(goal, dimension, region_id, score)
+
+  eco_trend_all =  eco_trend_m %>%
+    left_join(eco_trend_rgn, by =c("region_id", "goal", "dimension")) %>%
+    mutate(score = (score.x + score.y) / 2) %>%
+    dplyr::select(goal, dimension, region_id, score)
 
   # report LIV and ECO scores separately
   if (subgoal=='LIV'){
