@@ -262,8 +262,8 @@ LIV_ECO <- function(layers, subgoal){
   le_unemployment <- layers$data$le_unemployment %>%
     select(region_id = rgn_id, year, pct_unemployed = percent)
 
-  le_cpi <- layers$data$le_cpi %>%
-    select(region_id = rgn_id, year, cpi = CPI)
+  # le_cpi <- layers$data$le_cpi %>%
+  #   select(region_id = rgn_id, year, cpi = CPI)
 
   # multipliers from Table S10 (Halpern et al 2012 SOM)
   multipliers_jobs = data.frame('sector' = c('con', 'em', 'env', 'fism', 'pa', 'rd', 'sb', 'ser', 'tour','ts'),
@@ -285,10 +285,10 @@ LIV_ECO <- function(layers, subgoal){
     left_join(le_employed, by= c('region_id', 'year')) %>%
     # mutate(jobs_adj = jobs_mult * proportion_employed) %>% # adjust jobs by proportion employed
     mutate(jobs_adj = jobs_mult / employed) %>% #mk
-    # adjust wages. mk
+    # adjust wages. mk. no adjusting again
     left_join(le_wages, by=c('region_id','year','sector')) %>%
-    left_join(le_cpi, by = c('region_id','year')) %>%  # mk
-    mutate(wages_adj = wage_krw / cpi * 100) %>%  # mk
+    # left_join(le_cpi, by = c('region_id','year')) %>%  # mk
+    mutate(wages_adj = wage_krw) %>%  # mk
     arrange(year, sector, region_id)
 
   # LIV calculations ----
@@ -494,8 +494,8 @@ LIV_ECO <- function(layers, subgoal){
   le_rgn_unemployment <- layers$data$le_rgn_unemployment %>%
     select(region_id = rgn_id, year, pct_unemployed)
 
-  le_rgn_cpi <- layers$data$le_rgn_cpi %>%
-    select(region_id = rgn_id, year, cpi = CPI)
+  # le_rgn_cpi <- layers$data$le_rgn_cpi %>%
+  #   select(region_id = rgn_id, year, cpi = CPI)
 
   # calculate employment counts
   le_rgn_employed = le_rgn_workforce_size %>%
@@ -514,10 +514,10 @@ LIV_ECO <- function(layers, subgoal){
     left_join(le_rgn_employed, by= c('region_id', 'year')) %>%
     # mutate(jobs_adj = jobs_mult * proportion_employed) %>% # adjust jobs by proportion employed
     mutate(jobs_adj = jobs_mult / employed) %>% #mk
-    # adjust wages. mk
+    # adjust wages. mk. no adjsting again
     left_join(le_rgn_wages, by=c('region_id','year','sector')) %>%
-    left_join(le_rgn_cpi, by = c('region_id', 'year')) %>%  # mk
-    mutate(wages_adj = wage_krw / cpi * 100) %>%  # mk
+    # left_join(le_rgn_cpi, by = c('region_id', 'year')) %>%  # mk
+    mutate(wages_adj = wage_krw) %>%  # mk
     arrange(year, sector, region_id)
 
   # LIV calculations (regional) ----
