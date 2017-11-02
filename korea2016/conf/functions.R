@@ -241,8 +241,11 @@ FP = function(layers, scores){
 LIV_ECO <- function(layers, subgoal){
 
   ## read in layers
-  le_gdp <- layers$data$le_gdp_krw  %>%
-    select(region_id = rgn_id, year, gdp_krw)
+  # le_gdp <- layers$data$le_gdp_krw  %>%
+  #   select(region_id = rgn_id, year, gdp_krw)
+
+  le_sum_total_output <- layers$data$le_sum_total_output  %>%
+    select(region_id = rgn_id, year, sum_total_output)
 
   le_wages <- layers$data$le_wages %>%
     select(region_id = rgn_id, year, sector, wage_krw = wages)
@@ -406,9 +409,9 @@ LIV_ECO <- function(layers, subgoal){
   #   dplyr::select(region_id, year, sector, rev_adj)
 
   eco = le_total_output %>%
-    left_join(le_gdp, by = c('region_id', 'year')) %>%
+    left_join(le_sum_total_output, by = c('region_id', 'year')) %>%
     # mutate(rev_adj = rev)
-  mutate(rev_adj = rev / gdp_krw) #%>% # too small value
+  mutate(rev_adj = rev / sum_total_output) #%>% # too small value
   # adjust rev with national GDP rates if available. Example: (rev_adj = gdp_usd / ntl_gdp)
   # dplyr::select(region_id, year, sector, rev_adj)
 
@@ -473,8 +476,11 @@ LIV_ECO <- function(layers, subgoal){
       score)
 
   ## read in layers (regional)
-  le_rgn_grdp <- layers$data$le_rgn_grdp  %>%
-    select(region_id = rgn_id, year, grdp_krw)
+  # le_rgn_grdp <- layers$data$le_rgn_grdp  %>%
+  #   select(region_id = rgn_id, year, grdp_krw)
+
+  le_rgn_sum_total_output <- layers$data$le_rgn_sum_total_output  %>%
+    select(region_id = rgn_id, year, sum_total_output)
 
   le_rgn_wages <- layers$data$le_rgn_wages %>%
     select(region_id = rgn_id, year, sector, wage_krw)
@@ -629,9 +635,9 @@ LIV_ECO <- function(layers, subgoal){
   # ECO calculations (regional) ----
 
     eco_rgn = le_rgn_total_output %>%
-    left_join(le_rgn_grdp, by = c('region_id', 'year')) %>%
+    left_join(le_rgn_sum_total_output, by = c('region_id', 'year')) %>%
     # mutate(rev_adj = rev)
-    mutate(rev_adj = rev / grdp_krw) #%>% # too small value.mk
+    mutate(rev_adj = rev / sum_total_output) #%>% # too small value.mk
   # adjust rev with national GDP rates if available. Example: (rev_adj = gdp_usd / ntl_gdp)
   # dplyr::select(region_id, year, sector, rev_adj)
 
