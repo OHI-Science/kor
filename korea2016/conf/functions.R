@@ -551,6 +551,7 @@ LIV_ECO <- function(layers, subgoal){
   } else {
     liv_status_rgn = liv_status_rgn %>%
       filter(year >= max(year, na.rm=T) - 4) %>% # reference point is 5 years ago
+      filter(region_id <= 11) %>% # only for coastal cities and provinces
       arrange(region_id, year, sector) %>%
       # summarize across sectors
       group_by(region_id, year) %>%
@@ -582,17 +583,14 @@ LIV_ECO <- function(layers, subgoal){
         goal      = 'LIV',
         dimension = 'status')
 
-    # LIV trend
-    # From SOM p. 29: trend was calculated as the slope in the individual sector values (not summed sectors)
-    # over the most recent five years...
-    # with the average weighted by the number of jobs in each sector
-    # ... averaging slopes across sectors weighted by the revenue in each sector
+    # LIV trend (regional)
 
     # get trend across years as slope of individual sectors for jobs and wages
     liv_trend_rgn = liv_rgn %>%
       filter(!is.na(jobs_adj) & !is.na(wage_krw)) %>%
       # TODO: consider "5 year time spans" as having 5 [(max(year)-4):max(year)] or 6 [(max(year)-5):max(year)] member years
       filter(year >= max(year, na.rm=T) - 4) %>% # reference point is 5 years ago
+      filter(region_id <= 11) %>% # only for coastal cities and provinces
       # get sector weight as total jobs across years for given region
       arrange(region_id, year, sector) %>%
       group_by(region_id, sector) %>%
@@ -647,6 +645,7 @@ LIV_ECO <- function(layers, subgoal){
   eco_status_rgn = eco_rgn %>%
     filter(!is.na(rev_adj)) %>%
     filter(year >= max(year, na.rm=T) - 4) %>% # reference point is 5 years ago
+    filter(region_id <= 11) %>% # only for coastal cities and provinces
     # across sectors, revenue is summed
     group_by(region_id, year) %>%
     summarize(
@@ -675,6 +674,7 @@ LIV_ECO <- function(layers, subgoal){
   eco_trend_rgn = eco_rgn %>%
     filter(!is.na(rev_adj)) %>%
     filter(year >= max(year, na.rm=T) - 4 ) %>% # 5 year trend
+    filter(region_id <= 11) %>% # only for coastal cities and provinces
     # get sector weight as total revenue across years for given region
     arrange(region_id, year, sector) %>%
     group_by(region_id, sector) %>%
