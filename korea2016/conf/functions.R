@@ -270,8 +270,8 @@ LIV_ECO <- function(layers, subgoal){
 
   # multipliers from Table S10 (Halpern et al 2012 SOM)
   multipliers_jobs = data.frame('sector' = c('con', 'em', 'env', 'fism', 'pa', 'rd', 'sb', 'ser', 'tour','ts'),
-                                # 'multiplier' = c(1, 1, 1, 2.141, 1, 1.88, 1, 1, 1, 1)) # no multiplers for tour (=1)
-                               'multiplier' = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1))
+                                'multiplier' = c(1, 1, 1, 2.141, 1, 1.88, 1, 1, 1, 1)) # no multiplers for tour (=1)
+                               # 'multiplier' = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1))
    # multipler for fism = (cf(1.582) + mar(2.7))/2 = 2.141, rd = wte(1.88)
   # multipliers_rev  = data.frame('sector' = c('mar', 'tour'), 'multiplier' = c(1.59, 1)) # not used because GDP data is not by sector
 
@@ -511,8 +511,8 @@ LIV_ECO <- function(layers, subgoal){
            employed            = jobs_all * proportion_employed)
 
   multipliers_jobs = data.frame('sector' = c('con', 'em', 'env', 'fism', 'pa', 'rd', 'sb', 'ser', 'tour','ts'),
-                                # 'multiplier' = c(1, 1, 1, 2.141, 1, 1.88, 1, 1, 1, 1)) # no multiplers for tour (=1)
-                                'multiplier' = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1))
+                                'multiplier' = c(1, 1, 1, 2.141, 1, 1.88, 1, 1, 1, 1)) # no multiplers for tour (=1)
+                                # 'multiplier' = c(1, 1, 1, 1, 1, 1, 1, 1, 1, 1))
   liv_rgn =
     # adjust jobs
     le_rgn_jobs %>%
