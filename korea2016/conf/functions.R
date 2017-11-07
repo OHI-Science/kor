@@ -826,7 +826,7 @@ CW <- function(layers){
 HAB = function(layers){
 
   ## set data year for assessment
-  data_year <- 2014
+  data_year <- 2016
 
   ## read in layers
   extent_lyrs <- c('hab_seagrass_extent', 'hab_saltmarsh_extent', 'hab_softbottom_extent')
